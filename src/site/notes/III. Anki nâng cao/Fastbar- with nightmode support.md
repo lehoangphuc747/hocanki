@@ -3,7 +3,7 @@
 ---
 
 [[II. Anki Nâng cao\|II. Anki Nâng cao]]
-[[Top Addons\|Top Addons]]
+[[Top Add-ons\|Top Add-ons]]
 ___
 [Fastbar- with nightmode support - AnkiWeb](https://ankiweb.net/shared/info/46611790)
 Code: 46611790
