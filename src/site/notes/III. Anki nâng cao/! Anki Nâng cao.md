@@ -17,7 +17,6 @@ ___
 
 ## To-do
 - Youtube2Anki
-
 - [[III. Anki nâng cao/Advanced Card Styles\|Advanced Card Styles]]
 - [[III. Anki nâng cao/Searching, PDF Reading & Note-Taking in Add Dialog\|Searching, PDF Reading & Note-Taking in Add Dialog]]
 - [[III. Anki nâng cao/Anki Remote\|Anki Remote]]
