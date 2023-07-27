@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/iii-anki-nang-cao/cach-cai-review-heatmap-tu-a-z/"}
 ---
 
-<center>(theo dõi quá trình và tạo động lực học Anki)</center>
+(theo dõi quá trình và tạo động lực học Anki)
+
 [[🌟 Anki Course🌟\|🌟 Anki Course🌟]]
 ___
 
