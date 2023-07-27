@@ -3,7 +3,7 @@
 ---
 
 [[🌟 Anki Course🌟\|🌟 Anki Course🌟]]
-[[II. Anki Nâng cao\|II. Anki Nâng cao]]
+[[III. Anki nâng cao/! Anki Nâng cao\|! Anki Nâng cao]]
 ___
 ![[Pasted image 20230723230151.png\|Pasted image 20230723230151.png]]
 
