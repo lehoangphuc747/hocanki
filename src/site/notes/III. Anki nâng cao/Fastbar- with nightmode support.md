@@ -3,7 +3,7 @@
 ---
 
 [[III. Anki nâng cao/! Anki Nâng cao\|! Anki Nâng cao]]
-[[Top Add-ons (Khuyến nghị)\|Top Add-ons (Khuyến nghị)]]
+[[II. Anki cơ bản/Top Add-ons (Khuyến nghị)\|Top Add-ons (Khuyến nghị)]]
 ___
 [Fastbar- with nightmode support - AnkiWeb](https://ankiweb.net/shared/info/46611790)
 Code: 46611790
