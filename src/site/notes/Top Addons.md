@@ -10,25 +10,25 @@ Mọi người xem xét và tùy theo nhu cầu của mình mà lựa chọn nh�
 > [!warning] Chú ý
 > Link nội bộ, không chia sẻ ra ngoài
 
-## [[Review Heatmap\|Review Heatmap]]
+## [[III. Anki nâng cao/Review Heatmap\|Review Heatmap]]
 code: **1771074083**
 
 ![](https://i.imgur.com/YiOBU3Qh.png)
 
 
-## [[More Overview Stats 2.1\|More Overview Stats 2.1]]
+## [[III. Anki nâng cao/More Overview Stats 2.1\|More Overview Stats 2.1]]
 Code: **738807903**
 
 ![](https://i.imgur.com/z5to9Cx.png)
 
 
-## [[Fastbar- with nightmode support\|Fastbar- with nightmode support]]
+## [[III. Anki nâng cao/Fastbar- with nightmode support\|Fastbar- with nightmode support]]
 Code: 46611790
 
 ![](https://i.imgur.com/4oiroMs.png)
 
 
-## [[Multiple Choice Support\|Multiple Choice Support]]
+## [[III. Anki nâng cao/Multiple Choice Support\|Multiple Choice Support]]
 code: **1497603664**
 
 ![](https://i.imgur.com/QERgkECh.png)
