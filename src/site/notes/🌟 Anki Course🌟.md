@@ -21,9 +21,9 @@ Là mấy video mình xàm xí về Anki và chuỗi hướng dẫn này.
 
 # II. Anki cơ bản
 Nắm vững các kiến thức cơ bản của Anki.
-> [[II. Anki cơ bản\|Truy cập]]
+> [[II. Anki cơ bản/! Anki cơ bản\|Truy cập]]
 
 
 
 # III. Anki nâng cao
-> [[II. Anki Nâng cao\|Truy cập]]
+> [[III. Anki nâng cao/! Anki Nâng cao\|Truy cập]]
