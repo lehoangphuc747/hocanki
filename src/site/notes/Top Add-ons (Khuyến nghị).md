@@ -10,25 +10,33 @@ Mọi người xem xét và tùy theo nhu cầu của mình mà lựa chọn nh�
 > [!warning] Chú ý
 > Link nội bộ, không chia sẻ ra ngoài
 
-## [[III. Anki nâng cao/Cách cài Review Heatmap từ A-Z\|Cách cài Review Heatmap từ A-Z]]
+# Cách cài Review Heatmap từ A-Z
+[[III. Anki nâng cao/Cách cài Review Heatmap từ A-Z\|Xem hướng dẫn]]
+
 code: **1771074083**
 
 ![](https://i.imgur.com/YiOBU3Qh.png)
 
 
-## [[III. Anki nâng cao/More Overview Stats 2.1\|More Overview Stats 2.1]]
+# More Overview Stats 2.1
+[[III. Anki nâng cao/More Overview Stats 2.1\|Xem hướng dẫn]]
+
 Code: **738807903**
 
 ![](https://i.imgur.com/z5to9Cx.png)
 
 
-## [[III. Anki nâng cao/Fastbar- with nightmode support\|Fastbar- with nightmode support]]
+# Fastbar- with nightmode support
+[[III. Anki nâng cao/Fastbar- with nightmode support\|Xem hướng dẫn]]
+
 Code: 46611790
 
 ![](https://i.imgur.com/4oiroMs.png)
 
 
-## [[III. Anki nâng cao/Multiple Choice Support - Tạo thẻ dạng trắc nghiệm (Multiple Choice) bằng Anki\|Multiple Choice Support - Tạo thẻ dạng trắc nghiệm (Multiple Choice) bằng Anki]]
+# Multiple Choice Support - Tạo thẻ dạng trắc nghiệm (Multiple Choice) bằng Anki
+[[III. Anki nâng cao/Multiple Choice Support - Tạo thẻ dạng trắc nghiệm (Multiple Choice) bằng Anki\|Multiple Choice Support - Tạo thẻ dạng trắc nghiệm (Multiple Choice) bằng Anki]]
+
 code: **1497603664**
 
 ![](https://i.imgur.com/QERgkECh.png)
