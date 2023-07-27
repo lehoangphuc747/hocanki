@@ -17,7 +17,7 @@ ___
 
 # I. Đàm đạo
 Là mấy video mình xàm xí về Anki và chuỗi hướng dẫn này.
-> [[I. Đàm đạo/1.0 Đàm đạo\|Truy cập]]
+> [[I. Đàm đạo/! Đàm đạo\|Truy cập]]
 
 # II. Anki cơ bản
 Nắm vững các kiến thức cơ bản của Anki.
