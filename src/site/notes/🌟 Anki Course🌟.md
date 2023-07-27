@@ -8,7 +8,7 @@
 ___
 
 ## Top Addons:
-> [[Top Add-ons (Khuyến nghị)\|Truy cập]]
+> [[II. Anki cơ bản/Top Add-ons (Khuyến nghị)\|Truy cập]]
 
 [[Anki Course Canvas.canvas|Canvas khóa học]]
 ___
