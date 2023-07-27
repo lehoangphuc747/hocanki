@@ -2,8 +2,10 @@
 {"dg-publish":true,"permalink":"/ii-anki-nang-cao/"}
 ---
 
-<center>Add-ons, Extension, chỉnh sửa giao diện Anki và bộ thẻ</center>
+Add-ons, Extension, chỉnh sửa giao diện Anki và bộ thẻ
+
 [[🌟 Anki Course🌟\|🌟 Anki Course🌟]]
+
 ___
 
 ## Done
