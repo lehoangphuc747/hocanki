@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hoc-anki/","pinned":true,"tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/hoc-anki/","pinned":true,"tags":["gardenEntry"],"noteIcon":""}
 ---
 
 # <center>🌟 Học Anki🌟</center>
