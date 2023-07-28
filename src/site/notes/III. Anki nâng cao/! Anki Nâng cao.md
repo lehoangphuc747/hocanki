@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/iii-anki-nang-cao/anki-nang-cao/"}
+{"dg-publish":true,"permalink":"/iii-anki-nang-cao/anki-nang-cao/","noteIcon":""}
 ---
 
 Add-ons, Extension, chỉnh sửa giao diện Anki và bộ thẻ
