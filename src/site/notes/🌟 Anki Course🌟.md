@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/anki-course/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/anki-course/","pinned":true,"tags":["gardenEntry"]}
 ---
 
 # <center>🌟 Anki Course🌟</center>
