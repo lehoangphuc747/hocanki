@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/hoc-anki/","pinned":true,"tags":["gardenEntry"],"noteIcon":""}
 ---
 
-# <center>🌟 **Học Anki**🌟</center>
+# <center>🌟 **Học Anki** 🌟</center>
 <center>Hướng dẫn làm quen Anki cho người mới</center>
 
 Liên hệ: 
