@@ -19,18 +19,41 @@ ___
 
 [[III. Anki nâng cao/Fields (Trường tin) trong Anki\|Fields (Trường tin) trong Anki]]
 Card và Note là gì? Khác nhau như thế nào?
+Tạo thẻ Basic
+Tạo thẻ Basic lật
+Tạo thẻ Basic gõ
+Tạo thẻ Cloze (ẩn thường và ẩn đồng thời)
 
+## Nguyên tắc khi tạo thẻ (20)
 
-## [[II. Anki cơ bản/Trạng thái thẻ\|Trạng thái thẻ]]
+## Trạng thái thẻ
 
 [[II. Anki cơ bản/New, Learn, Due\|New, Learn, Due]]
 [[II. Anki cơ bản/Leech Card\|Leech Card]]
 [[II. Anki cơ bản/Suspended Card\|Suspended Card]]
 
-## Tạo thẻ (nâng cao)
+## Duyệt thẻ (Quản lý thẻ)
 
-[[II. Anki cơ bản/Cách tạo thẻ gõ đáp án (Type in the answer) trong Anki\|Cách tạo thẻ gõ đáp án (Type in the answer) trong Anki]]
-[[II. Anki cơ bản/Cách mình dùng Anki để học từ vựng tiếng Hàn\|Cách mình dùng Anki để học từ vựng tiếng Hàn]]
+Chế độ hiển thị
+Sidebar
+Tìm kiếm và lọc thẻ
+Sort thẻ theo nhiều chế độ
+Thẻ trùng (Duplicate)
 
 
-## [[II. Anki cơ bản/Phím tắt Anki\|Phím tắt Anki]]
+## Nhập bộ thẻ
+Có cách nhập
+- apkg
+- csv
+- txt
+
+## Backup (sao lưu dữ liệu, và cách sử dụng)
+
+## Thống kê
+
+## Tools (check....)
+
+## Toán học (Latex cho người không biết gì)
+
+## Chia sẻ bộ thẻ
+Công khai và không công khai
