@@ -57,3 +57,6 @@ Có cách nhập
 
 ## Chia sẻ bộ thẻ
 Công khai và không công khai
+
+## Thắc mắc
+Lỡ xóa Anki trên máy tính
