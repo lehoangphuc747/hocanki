@@ -4,7 +4,7 @@
 
 (theo dõi quá trình và tạo động lực học Anki)
 
-[[🌟 Anki Course🌟\|🌟 Anki Course🌟]]
+[[III. Anki nâng cao/! Anki Nâng cao\|II. Anki nâng cao]]
 ___
 
 #add-ons 
