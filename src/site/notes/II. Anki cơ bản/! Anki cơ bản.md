@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ii-anki-co-ban/anki-co-ban/"}
+{"dg-publish":true,"permalink":"/ii-anki-co-ban/anki-co-ban/","noteIcon":""}
 ---
 
 [[🌟 Học Anki🌟\|🌟 Học Anki🌟]]
