@@ -4,7 +4,7 @@
 
 Add-ons, Extension, chỉnh sửa giao diện Anki và bộ thẻ
 
-[[🌟 Anki Course🌟\|🌟 Anki Course🌟]]
+[[🌟 Học Anki🌟\|🌟 Học Anki🌟]]
 
 ___
 
