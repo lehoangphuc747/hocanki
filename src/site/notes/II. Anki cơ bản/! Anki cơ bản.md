@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ii-anki-co-ban/anki-co-ban/"}
 ---
 
-[[🌟 Anki Course🌟\|🌟 Anki Course🌟]]
+[[🌟 Học Anki🌟\|🌟 Học Anki🌟]]
 ___
 ## 01. Tải và cài đặt
 
