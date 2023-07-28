@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/i-dam-dao/dam-dao/"}
 ---
 
-Là mấy video mình xàm xí về Anki và chuỗi hướng dẫn này.
+Là mấy nội dung mình xàm xí về Anki và chuỗi hướng dẫn này.
 
 [[🌟 Anki Course🌟\|🌟 Anki Course🌟]]
 ___
-[[I. Đàm đạo/1.1 Giới thiệu về hướng dẫn\|1.1 Giới thiệu về hướng dẫn]]
+[[I. Đàm đạo/1.1 Giới thiệu\|1.1 Giới thiệu]]
 [[I. Đàm đạo/1.2 Anki là gì\|1.2 Anki là gì]]
 [[I. Đàm đạo/1.3 Tại sao mình dùng Anki\|1.3 Tại sao mình dùng Anki]]
 [[I. Đàm đạo/1.4 Dùng Anki học gì\|1.4 Dùng Anki học gì]]
