@@ -5,10 +5,9 @@
 # <center>🌟 Học Anki🌟</center>
 <center>Hướng dẫn làm quen Anki cho người mới</center>
 
-<!-- ![](https://i.imgur.com/0Fqt9IP.png) -->
-
 Liên hệ: 
-[<img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Facebook.svg/2560px-Facebook.svg.png" width="100">](https://www.facebook.com/tui.la.phuc747)
+
+[<img  src="https://i.imgur.com/CZ7hhJg.png" width="100">](https://www.facebook.com/tui.la.phuc747)  [<img  src="https://i.imgur.com/HNBJNZE.png" width="37">](https://zalo.me/346598402) [<img  src="https://i.imgur.com/9PROKnb.png" width="37">](https://t.me/lehoangphuc747)
 
 
 ___
@@ -16,7 +15,7 @@ ___
 ## Top Addons:
 > [[II. Anki cơ bản/Top Add-ons (Khuyến nghị)\|Truy cập]]
 
-[[Mindmap khóa học.canvas|Bản đồ Mindmap]]
+[[Canvas.canvas|Canvas]]
 ___
 
 
