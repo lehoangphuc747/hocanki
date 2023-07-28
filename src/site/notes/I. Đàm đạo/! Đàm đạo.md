@@ -4,7 +4,7 @@
 
 Là mấy nội dung mình xàm xí về Anki và chuỗi hướng dẫn này.
 
-[[🌟 Anki Course🌟\|🌟 Anki Course🌟]]
+[[🌟 Học Anki🌟\|🌟 Học Anki🌟]]
 ___
 [[I. Đàm đạo/1.1 Giới thiệu\|1.1 Giới thiệu]]
 [[I. Đàm đạo/1.2 Anki là gì\|1.2 Anki là gì]]
