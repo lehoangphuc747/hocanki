@@ -3,7 +3,7 @@
 ---
 
 # <center>🌟 Anki Course🌟</center>
-<center>Hướng dẫn làm quen Anki</center>
+<center>Hướng dẫn làm quen Anki cho người mới</center>
 
 Liên hệ: [Admin Phúc](https://www.facebook.com/tui.la.phuc747)
 
