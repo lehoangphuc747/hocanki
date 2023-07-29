@@ -9,13 +9,16 @@ Liên hệ:
 
 [<img  src="https://i.imgur.com/CZ7hhJg.png" width="100">](https://www.facebook.com/tui.la.phuc747)  [<img  src="https://i.imgur.com/HNBJNZE.png" width="37">](https://zalo.me/346598402) [<img  src="https://i.imgur.com/9PROKnb.png" width="37">](https://t.me/lehoangphuc747)
 
+Truy cập nhóm Hướng dẫn: [Anki K2](https://www.facebook.com/groups/ankikhoa2/)
+
 
 ___
 
-## Top Addons:
+## Top Addons
 > [[II. Anki cơ bản/Top Add-ons (Khuyến nghị)\|Truy cập]]
-
-[[Canvas.canvas|Canvas]]
+___
+Canvas trong Obsidian
+> [[Canvas.canvas|Canvas]]
 ___
 
 
