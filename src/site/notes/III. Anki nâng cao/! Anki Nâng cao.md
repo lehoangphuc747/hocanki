@@ -20,6 +20,7 @@ Cách tạo thẻ gõ phần bị ẩn (Gõ Cloze - Gõ điền vào chỗ trố
 [[III. Anki nâng cao/Read Pronunciation - Thêm từ vựng khi lướt Web đọc báo, xem Youtube, Netflix, đọc file PDF (English & French)\|Read Pronunciation - Thêm từ vựng khi lướt Web đọc báo, xem Youtube, Netflix, đọc file PDF (English & French)]] 
 [[III. Anki nâng cao/ReadingLWT - Cách thêm từ vựng nhanh khi lướt Web, đọc file PDF (từ điển Anh-Việt, Oxford, Cambridge, Longman,..)\|ReadingLWT - Cách thêm từ vựng nhanh khi lướt Web, đọc file PDF (từ điển Anh-Việt, Oxford, Cambridge, Longman,..)]]
 [[III. Anki nâng cao/More Overview Stats 2.1\|More Overview Stats 2.1]]
+[[Easy Learn Word\|Easy Learn Word]]
 
 
 ## [[To-do\|To-do]] 
