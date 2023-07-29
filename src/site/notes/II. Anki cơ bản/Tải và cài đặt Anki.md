@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ii-anki-co-ban/tai-va-cai-dat-anki/","noteIcon":""}
+{"dg-publish":true,"permalink":"/ii-anki-co-ban/tai-va-cai-dat-anki/","noteIcon":"","created":"","updated":""}
 ---
 
 > [[II. Anki cơ bản/! Anki cơ bản\|Quay lại]]
@@ -12,3 +12,5 @@ ___
 </div>
 
 ![](https://i.imgur.com/EBuRUzM.gif)
+
+s
