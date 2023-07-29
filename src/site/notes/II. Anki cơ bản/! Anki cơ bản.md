@@ -5,7 +5,7 @@
 [[🌟 Học Anki🌟\|🌟 Học Anki🌟]]
 ___
 ## 01. Tải và cài đặt
-
+[[II. Anki cơ bản/Tải và cài đặt Anki\|Tải và cài đặt Anki]]
 ## 02. Đồng bộ hóa
 [[II. Anki cơ bản/AnkiWeb và Động bộ (Sync) - Hieu Cao\|AnkiWeb và Động bộ (Sync) - Hieu Cao]]
 [[II. Anki cơ bản/Nên sử dụng Anki trên Web hay Ứng dụng\|Nên sử dụng Anki trên Web hay Ứng dụng]]
