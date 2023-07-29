@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/ii-anki-co-ban/tai-va-cai-dat-anki/","noteIcon":""}
 ---
 
+#Download 
+
 > [[II. Anki cơ bản/! Anki cơ bản\|Quay lại]]
 ___
 
@@ -79,8 +81,12 @@ Chọn phiên bản phù hợp với bản thân:
 </a>
 </div>
 
-# AnkiWeb
+# AnkiWeb 
+#AnkiWeb 
 
 > [Truy cập AnkiWeb](https://ankiweb.net/about)
 
 ![](https://i.imgur.com/TcSTosj.png)
+
+___
+> [[II. Anki cơ bản/! Anki cơ bản\|Quay lại]]
