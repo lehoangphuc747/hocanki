@@ -10,7 +10,7 @@ ___
 # [[I. Đàm đạo/1.2 Anki là gì\|1.2 Anki là gì]]
 # [[I. Đàm đạo/1.3 Tại sao mình dùng Anki\|1.3 Tại sao mình dùng Anki]]
 # [[I. Đàm đạo/1.4 Dùng Anki học gì\|1.4 Dùng Anki học gì]]
-# [[I. Đàm đạo/1.5 Phương pháp khoa học của Anki\|1.5 Phương pháp khoa học của Anki]]
+# [[I. Đàm đạo/1.5 Tính năng\|1.5 Tính năng]]
 # [[1.6 Dạy con, tại sao không\|1.6 Dạy con, tại sao không]]
 ___
 > [[🌟 Học Anki🌟\|Quay lại]]
