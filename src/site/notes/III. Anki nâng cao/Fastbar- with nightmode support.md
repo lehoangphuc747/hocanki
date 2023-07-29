@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/iii-anki-nang-cao/fastbar-with-nightmode-support/","noteIcon":""}
+{"dg-publish":true,"permalink":"/iii-anki-nang-cao/fastbar-with-nightmode-support/","noteIcon":"","created":"","updated":""}
 ---
 
 [[III. Anki nâng cao/! Anki Nâng cao\|! Anki Nâng cao]]
