@@ -1,12 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/ii-anki-co-ban/anki-co-ban/","noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"permalink":"/ii-anki-co-ban/anki-co-ban/","noteIcon":""}
 ---
 
 [[🌟 Học Anki🌟\|🌟 Học Anki🌟]]
 ___
 ## 01. Tải và cài đặt
-[[II. Anki cơ bản/Tải và cài đặt Anki\|Tải và cài đặt Anki]]
+> [[II. Anki cơ bản/Tải và cài đặt Anki\|Tải và cài đặt Anki]] #Download
+
+
 ## 02. Đồng bộ hóa
+> [[Đăng ký tài khoản AnkiWeb\|Đăng ký tài khoản AnkiWeb]] #AnkiWeb #Sync 
+
 [[II. Anki cơ bản/AnkiWeb và Động bộ (Sync) - Hieu Cao\|AnkiWeb và Động bộ (Sync) - Hieu Cao]]
 [[II. Anki cơ bản/Nên sử dụng Anki trên Web hay Ứng dụng\|Nên sử dụng Anki trên Web hay Ứng dụng]]
 
@@ -22,7 +26,7 @@ Card và Note là gì? Khác nhau như thế nào?
 Tạo thẻ Basic
 Tạo thẻ Basic lật
 Tạo thẻ Basic gõ
-Tạo thẻ Cloze (ẩn thường và ẩn đồng thời)
+	[[Tạo thẻ Cloze (ẩn thường và ẩn đồng thời)\|Tạo thẻ Cloze (ẩn thường và ẩn đồng thời)]]
 
 ## Nguyên tắc khi tạo thẻ (20)
 
