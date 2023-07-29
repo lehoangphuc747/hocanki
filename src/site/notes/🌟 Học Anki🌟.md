@@ -11,7 +11,7 @@ Liên hệ:
 
 <div style="display: flex; justify-content: center; cursor: pointer;">
 <a href="https://www.facebook.com/groups/ankikhoa2/" target="_blank">
-<button style=" font-size: 28px; padding: 10px; height: fit-content; margin-top: 50px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); "> Nhóm Hướng dẫn Anki <br>(Truy cập) </button> 
+<button style=" font-size: 28px; padding: 10px; height: fit-content; margin-top: 10px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); "> Nhóm Hướng dẫn Anki <br>(Truy cập) </button> 
 </a>
 </div>
 
