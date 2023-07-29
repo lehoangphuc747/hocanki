@@ -9,7 +9,8 @@ Liên hệ:
 
 [<img  src="https://i.imgur.com/CZ7hhJg.png" width="100">](https://www.facebook.com/tui.la.phuc747)  [<img  src="https://i.imgur.com/HNBJNZE.png" width="37">](https://zalo.me/346598402) [<img  src="https://i.imgur.com/9PROKnb.png" width="37">](https://t.me/lehoangphuc747)
 
-Truy cập nhóm Hướng dẫn: [Anki K2](https://www.facebook.com/groups/ankikhoa2/)
+Nhóm Hướng dẫn Anki: 
+> [Truy cập](https://www.facebook.com/groups/ankikhoa2/)
 
 
 ___
