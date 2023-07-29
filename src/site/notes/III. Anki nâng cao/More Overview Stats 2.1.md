@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/iii-anki-nang-cao/more-overview-stats-2-1/","noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"permalink":"/iii-anki-nang-cao/more-overview-stats-2-1/","noteIcon":""}
 ---
 
 [[III. Anki nâng cao/! Anki Nâng cao\|! Anki Nâng cao]]
