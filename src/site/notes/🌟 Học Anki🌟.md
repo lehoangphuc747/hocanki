@@ -32,4 +32,5 @@ Nắm vững các kiến thức cơ bản của Anki.
 > [[II. Anki cơ bản/! Anki cơ bản\|Truy cập]]
 
 # III. Anki nâng cao
+Tìm hiểu các Add-ons, Extension, chỉnh sửa giao diện Anki và bộ thẻ.
 > [[III. Anki nâng cao/! Anki Nâng cao\|Truy cập]]
