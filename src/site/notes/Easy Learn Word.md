@@ -11,6 +11,8 @@ Video cho ai lười đọc:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z0uRi3Cel_4" title="Hướng dẫn sử dụng Easy Learn Word Dictionary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+Nhóm hỗ trợ phần mềm:
+> [Truy cập](https://m.me/j/Abaid3A2BVa9TAbp/)
 ___
 Cài đặt Extension:
 > [Easy Learn Word Dictionary - Cửa hàng Chrome trực tuyến (google.com)](https://chrome.google.com/webstore/detail/easy-learn-word-dictionar/domiakkgbjcodedpfiffddfedbcfoodp)
@@ -82,5 +84,9 @@ Cách thêm thẻ khi đọc báo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z0uRi3Cel_4?clip=UgkxulPAWRucLwUY91-I-bo17BPIEvs5NlD8&amp;clipt=EIyfBRjo8wg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<br>
+
+Nhóm hỗ trợ phần mềm:
+> [Truy cập](https://m.me/j/Abaid3A2BVa9TAbp/)
 ___
 > [[🌟 Học Anki🌟\|Quay lại]]
