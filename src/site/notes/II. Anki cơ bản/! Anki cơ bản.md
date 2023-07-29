@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ii-anki-co-ban/anki-co-ban/","noteIcon":""}
 ---
 
-[[🌟 Học Anki🌟\|🌟 Học Anki🌟]]
+> [[🌟 Học Anki🌟\|Quay lại]]
 ___
 ## 01. Tải và cài đặt
 > [[II. Anki cơ bản/Tải và cài đặt Anki\|Tải và cài đặt Anki]] #Download
@@ -11,7 +11,10 @@ ___
 ## 02. Đồng bộ hóa
 > [[Đăng ký tài khoản AnkiWeb\|Đăng ký tài khoản AnkiWeb]] #AnkiWeb #Sync 
 
-[[II. Anki cơ bản/AnkiWeb và Động bộ (Sync) - Hieu Cao\|AnkiWeb và Động bộ (Sync) - Hieu Cao]]
+Giải thích về cơ chế đồng bộ hóa
+Đồng bộ hóa trên máy tính
+Đồng bộ hóa trên iPhone/iPad[[II. Anki cơ bản/AnkiWeb và Động bộ (Sync) - Hieu Cao\|AnkiWeb và Động bộ (Sync) - Hieu Cao]]
+Đồng bọ hóa trên Android
 [[II. Anki cơ bản/Nên sử dụng Anki trên Web hay Ứng dụng\|Nên sử dụng Anki trên Web hay Ứng dụng]]
 
 ## Tạo Deck
@@ -64,3 +67,6 @@ Công khai và không công khai
 
 ## Thắc mắc
 Lỡ xóa Anki trên máy tính
+
+___
+> [[🌟 Học Anki🌟\|Quay lại]]
