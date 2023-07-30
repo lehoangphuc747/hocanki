@@ -4,7 +4,7 @@
 
 #Extension 
 
-> [[🌟 Học Anki🌟\|🌟 Học Anki🌟]]
+> [[III. Anki nâng cao/! Anki Nâng cao\| Quay lại]]
 ___
 
 Video cho ai lười đọc:
