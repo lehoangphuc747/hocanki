@@ -11,7 +11,8 @@ ___
 ## 02. Đồng bộ hóa
 > [[Đăng ký tài khoản AnkiWeb\|Đăng ký tài khoản AnkiWeb]] #AnkiWeb #Sync 
 
-Giải thích về cơ chế đồng bộ hóa
+> [[Đồng bộ Anki sao cho đúng cách\|Đồng bộ Anki sao cho đúng cách?]] #AnkiWeb  #Sync 
+
 Đồng bộ hóa trên máy tính
 Đồng bộ hóa trên iPhone/iPad[[II. Anki cơ bản/AnkiWeb và Động bộ (Sync) - Hieu Cao\|AnkiWeb và Động bộ (Sync) - Hieu Cao]]
 Đồng bọ hóa trên Android
@@ -32,6 +33,7 @@ Tạo thẻ Basic gõ
 	[[Tạo thẻ Cloze (ẩn thường và ẩn đồng thời)\|Tạo thẻ Cloze (ẩn thường và ẩn đồng thời)]]
 
 ## Nguyên tắc khi tạo thẻ (20)
+[[20 nguyên tắc\|20 nguyên tắc]]
 
 ## Trạng thái thẻ
 
