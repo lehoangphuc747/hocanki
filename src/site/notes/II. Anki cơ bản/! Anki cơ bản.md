@@ -11,7 +11,7 @@ ___
 ## 02. Đồng bộ hóa
 > [[Đăng ký tài khoản AnkiWeb\|Đăng ký tài khoản AnkiWeb]] #AnkiWeb #Sync 
 
-> [[Đồng bộ Anki sao cho đúng cách\|Đồng bộ Anki sao cho đúng cách?]] #AnkiWeb  #Sync 
+> [[Hiểu về đồng bộ hóa Anki\|Hiểu về đồng bộ hóa Anki]] #AnkiWeb  #Sync 
 
 Đồng bộ hóa trên máy tính
 Đồng bộ hóa trên iPhone/iPad[[II. Anki cơ bản/AnkiWeb và Động bộ (Sync) - Hieu Cao\|AnkiWeb và Động bộ (Sync) - Hieu Cao]]
