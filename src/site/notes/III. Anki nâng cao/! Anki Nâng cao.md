@@ -4,7 +4,7 @@
 
 Tìm hiểu các Add-ons, Extension, chỉnh sửa giao diện Anki và bộ thẻ.
 
-[[🌟 Học Anki🌟\|🌟 Học Anki🌟]]
+> [[🌟 Học Anki🌟\|Quay lại]]
 
 ___
 
@@ -25,3 +25,6 @@ Cách tạo thẻ gõ phần bị ẩn (Gõ Cloze - Gõ điền vào chỗ trố
 
 ## [[To-do\|To-do]] 
 - 12 cái
+
+___
+> [[🌟 Học Anki🌟\|Quay lại]]
