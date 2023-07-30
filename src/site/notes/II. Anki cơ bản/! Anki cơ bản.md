@@ -5,21 +5,22 @@
 > [[🌟 Học Anki🌟\|Quay lại]]
 
 ___
-## 01. Tải và cài đặt
+## 01. Tải, cài đặt & Đồng bộ
 > [[II. Anki cơ bản/Tải và cài đặt Anki\|Tải và cài đặt Anki]] #Download
 
-
-## 02. Đồng bộ hóa
 > [[Đăng ký tài khoản AnkiWeb\|Đăng ký tài khoản AnkiWeb]] #AnkiWeb #Sync 
 
 > [Hiểu về đồng bộ hóa Anki](https://www.facebook.com/groups/ankikhoa2/posts/656841203164849/) #AnkiWeb  #Sync 
-> [[Hiểu về đồng bộ hóa Anki\|Obsidian]]
+> [[Hiểu về đồng bộ hóa Anki \| Obsidian]]
 
-> [Đồng bộ hóa Anki trên máy tính](https://www.facebook.com/100006970567626/videos/1312090109715612/)
-> [[Đồng bộ hóa Anki trên máy tính\|Obsidian]]
+> [Đồng bộ hóa Anki trên máy tính](https://www.facebook.com/100006970567626/videos/1312090109715612/) #AnkiWeb #Sync  #Windows
+> [[Đồng bộ hóa Anki trên máy tính \| Obsidian]]
 
-Đồng bộ hóa trên iPhone/iPad[[II. Anki cơ bản/AnkiWeb và Động bộ (Sync) - Hieu Cao\|AnkiWeb và Động bộ (Sync) - Hieu Cao]]
-Đồng bọ hóa trên Android
+> [Đồng bộ hóa Anki trên iPhone/iPad](https://www.facebook.com/100006970567626/videos/837128328047101/) #AnkiWeb #Sync #iOS
+> [[Đồng bộ hóa trên iPhone & iPad\| Obsidian]]
+
+> [[Đồng bộ hóa Anki trên Android \| Obsidian]]
+
 [[II. Anki cơ bản/Nên sử dụng Anki trên Web hay Ứng dụng\|Nên sử dụng Anki trên Web hay Ứng dụng]]
 
 ## Tạo Deck
