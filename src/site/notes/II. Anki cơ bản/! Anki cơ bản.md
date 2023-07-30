@@ -13,7 +13,7 @@ ___
 
 > [[Hiểu về đồng bộ hóa Anki\|Hiểu về đồng bộ hóa Anki]] #AnkiWeb  #Sync 
 
-> [[Đăng nhập và đồng bộ hóa trên máy tính\|Đăng nhập và đồng bộ hóa trên máy tính]]
+> [[Đồng bộ hóa Anki trên máy tính\|Đồng bộ hóa Anki trên máy tính]]
 
 Đồng bộ hóa trên iPhone/iPad[[II. Anki cơ bản/AnkiWeb và Động bộ (Sync) - Hieu Cao\|AnkiWeb và Động bộ (Sync) - Hieu Cao]]
 Đồng bọ hóa trên Android
