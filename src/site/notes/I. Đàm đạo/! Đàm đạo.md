@@ -12,7 +12,7 @@ ___
 # [[I. Đàm đạo/1.4 Tại sao bạn nên dùng Anki\|Tại sao bạn nên dùng Anki?]]
 # [[I. Đàm đạo/1.5 Dùng Anki học gì\|Dùng Anki học gì?]]
 # [[I. Đàm đạo/1.6 Tính năng\|Tính năng]]
-# [[I. Đàm đạo/1.7 Dạy con, tại sao không\|Dạy con, tại sao không?]]
 # [[I. Đàm đạo/Thành công & Kinh nghiệm\|Thành công & Kinh nghiệm]]
+# [[I. Đàm đạo/1.7 Dạy con, tại sao không\|Dạy con, tại sao không?]]
 ___
 > [[🌟 Học Anki🌟\|Quay lại]]
