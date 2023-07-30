@@ -61,6 +61,59 @@ Khoảng 6 tháng trở lại đây mình thay đổi cách làm thẻ. Ko còn 
 [Addon FWQ mới fix lỗi](https://www.facebook.com/100028940311496/videos/750279756726284/?__cft__[0]=AZVVyHzSipx_H7ZTlP4j7DbJwBfWrE_x-SWNGuzjwEmGeY4GeM9VHGDwOdND_YBvesDFxWiDby7apvA7FBRy7Mi3IWQWbOE7hFLkF7-_ZPcvxzsyBGgBMDDisTtThALFcetQ-6_6OaQQlqesBs8yVhs8dzK9vEE0rjOnPy1KZ5bIq7NPsE9wNU_MviF6t8Vm8JDPcefdGC99m_xqQP51v_sH&__tn__=-UK-y-R)
 
 [Bộ Oxford 5000 mình tạo](https://www.facebook.com/groups/ankivocabulary/permalink/1371234266969560/?__cft__[0]=AZVVyHzSipx_H7ZTlP4j7DbJwBfWrE_x-SWNGuzjwEmGeY4GeM9VHGDwOdND_YBvesDFxWiDby7apvA7FBRy7Mi3IWQWbOE7hFLkF7-_ZPcvxzsyBGgBMDDisTtThALFcetQ-6_6OaQQlqesBs8yVhs8dzK9vEE0rjOnPy1KZ5bIq7NPsE9wNU_MviF6t8Vm8JDPcefdGC99m_xqQP51v_sH&__tn__=-UK-y-R)
+___
+# Nếu bạn là người mới tiếp cận Anki, thì đây là chia sẻ của mình dành cho bạn
+
+> [Bài viết gốc](https://www.facebook.com/groups/ankivocabulary/posts/1412629876163332/)
+
+## Dùng Anki dễ hay khó?
+
+### Dễ:
+
+Anki về bản chất là một phần mềm tạo flashcard để bạn ôn tập kiến thức. Mà flashcard thì cũng giống như đa số phần mềm khác sẽ có mặt trước (front) và mặt sau (back). Công việc của bạn chỉ đơn giản là soạn nội dung cho mặt trước và mặt sau rồi tiến hành ôn tập thôi.
+
+Có một trang web như từ điển bách khoa toàn thư về Anki mà mình nghĩ không nhiều bạn trong này đọc nó. [Anki Docs](https://docs.ankiweb.net)
+
+### Khó:
+
+Một số bạn khi mới tiếp cận Anki sẽ có cảm giác pm này rất khó sử dụng. Nguyên nhân có thể là như sau:
+
+1. Bạn thấy người ta show thẻ của họ đẹp quá nhưng bạn thì lại không làm được như họ.
+
+--> Cá nhân mình nhận thấy 1 thẻ Anki gồm 2 thành phần cơ bản: Hình thức (template) và nội dung (content). Hình thức là cách trình bày thẻ, còn nội dung là những thứ bạn cần phải học. Nói nôm na nếu 1 thẻ Anki là 1 cuốn sách thì "hình thức" sẽ là cách bạn phân chương, chọn font chữ, trình bày cuốn sách sao cho người mua họ thấy bắt mắt để chọn mua, còn "nội dung" là thứ mà cuốn sách đó muốn truyền tải. Đứng ở phương diện người học thì việc bạn bỏ thời gian để có "hình thức" đẹp sẽ chẳng có bao nhiêu hiệu quả bằng việc bạn đầu tư về mặt "nội dung" cả.
+
+→ Đừng quá tốn thời gian vào "hình thức" nếu bạn ko thể cải thiện nó thì hãy lấy đại 1 template nào nhìn được 1 chút hoặc lười hơn thì học luôn bằng template mặc định của Anki "simple is the best"
+
+→ Nếu bạn nghĩ Anki chỉ dành cho người biết "code" thì bạn đang quá tập trung về phần "hình thức" mà quên mất phần "nội dung" mới là yếu tố quyết định xem bạn có tiếp thu được kiến thức hay không. Vì họ chỉ code được phần "hình thức" thôi chứ không thể code được phần "nội dung" đâu
+
+2. Khi bạn đã nhận ra "nội dung" là "chân ái" và quyết định bỏ thời gian đầu tư "nội dung" nhưng sau một thời gian lại "bỏ cuộc" vì thấy **tốn quá nhiều thời gian**.
+
+→ "Không có bữa trưa nào là miễn phí", "No pain no gain" trong khi bạn nằm lướt new feed tiktok hay facebook thì những người khác vẫn đang miệt mài nỗ lực. Những phần mềm tạo flashcard khác (Quizlet, 4English, Mochi mochi...) để có được một bộ thẻ đều cần phải có người soạn mới có chứ chẳng có thẻ nào từ trên trời rơi xuống rồi quỳ lạy bạn để bạn học cả. Anki có cộng đồng hỗ trợ rất lớn mạnh, nên không thiếu những addon giúp bạn tạo thẻ nhanh chóng (FWQ, ODH, Migaku,...). Bạn thậm chí còn có thể import thẻ từ những phần mềm khác vào Anki nếu chịu khó tìm hiểu một chút.
+
+→ Hãy làm phép tính đơn giản, nếu mỗi ngày bạn dành 30p để tạo thẻ từ mới, mà trung bình thì 5p bạn mới tạo 1 thẻ thì sau 1 năm bạn sẽ học được bao nhiêu từ mới ?
+
+Fact: Mình tạo bộ 5000 Oxford gồm 30k thẻ trong vòng 1h chỉ bằng những addon mình kể trên.
+
+P/s: Đừng chờ tạo xong 1 bộ thẻ rồi mới học mà thay vào đó hãy **vừa tạo vừa học**, **thời gian tạo thẻ** luôn **bé hơn hoặc bằng thời gian học** mỗi ngày. Hãy đặt ưu tiên lên việc nào đem lại giá trị cho bạn hơn.
+
+3. Bạn nhận thấy người khác bộ thẻ hay quá và chọn cách xin thẻ về học cho nhanh
+
+→ Cách này sẽ giúp bạn giảm thời gian tạo thẻ xuống bằng 0. Trong trường hợp bạn may mắn, bạn sẽ được share lại bộ thẻ đó để học. Nhưng sẽ có những hạn chế như sau:
+
+3.1. Thẻ là do người khác soạn theo ý họ, nên khả năng không phù hợp với bạn khá cao.
+
+3.2. Bạn sẽ bị phụ thuộc vào người khác, và sẽ không biết làm thế nào họ có thể tạo được thẻ như thế và ko có kinh nghiệm cho riêng bạn.
+
+3.3. Bạn phải tự tạo thẻ thì bạn mới biết bạn cần cái gì và cái gì là thừa. Phải "u đầu" 1 lần thì mới biết cách đi đứng cẩn thận.
+
+### Kết bài:
+
+- Hãy xem trọng "nội dung" hơn "hình thức"
+- Tích luỹ hàng ngày là con đường dẫn tới thành công.
+- Cân bằng giữa việc học và tạo thẻ.
+- Tự tạo thẻ là cách duy nhất giúp bạn biết sử dụng Anki.
+
+> Theo bạn thì Anki dễ hay khó?
 
 ___
 
