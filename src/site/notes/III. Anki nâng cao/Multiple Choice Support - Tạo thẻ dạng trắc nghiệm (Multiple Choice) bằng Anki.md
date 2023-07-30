@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/iii-anki-nang-cao/multiple-choice-support-tao-the-dang-trac-nghiem-multiple-choice-bang-anki/","noteIcon":""}
 ---
 
-[[🌟 Học Anki🌟\|🌟 Học Anki🌟]]
+> [[! Anki Nâng cao \| Quay lại]]
 ___
 
 #multiple-choice #add-ons 
