@@ -17,7 +17,7 @@ ___
 > [[Đồng bộ hóa Anki trên máy tính \| Obsidian]]
 
 > [Đồng bộ hóa Anki trên iPhone/iPad](https://www.facebook.com/100006970567626/videos/837128328047101/) 
-> [[Đồng bộ hóa trên iPhone & iPad\| Obsidian]]
+> [[II. Anki cơ bản/Đồng bộ hóa trên iPhone & iPad\| Obsidian]]
 
 >[Đồng bộ hóa Anki trên Android](https://www.facebook.com/reel/1403408213556396)
 > [[Đồng bộ hóa Anki trên Android \| Obsidian]]
@@ -43,10 +43,10 @@ Card và Note là gì? Khác nhau như thế nào?
 Tạo thẻ Basic
 Tạo thẻ Basic lật
 Tạo thẻ Basic gõ
-	[[Tạo thẻ Cloze (ẩn thường và ẩn đồng thời)\|Tạo thẻ Cloze (ẩn thường và ẩn đồng thời)]]
+	[[II. Anki cơ bản/Tạo thẻ Cloze (ẩn thường và ẩn đồng thời)\|Tạo thẻ Cloze (ẩn thường và ẩn đồng thời)]]
 
 ## Nguyên tắc khi tạo thẻ (20)
-[[20 nguyên tắc\|20 nguyên tắc]]
+[[II. Anki cơ bản/20 nguyên tắc\|20 nguyên tắc]]
 
 ## Trạng thái thẻ
 
@@ -56,7 +56,7 @@ Tạo thẻ Basic gõ
 
 
 ## Study Option
-[[Học thêm, học lại, giảm bớt\|Học thêm, học lại, giảm bớt]]
+[[II. Anki cơ bản/Học thêm, học lại, giảm bớt\|Học thêm, học lại, giảm bớt]]
 
 
 ## Duyệt thẻ (Quản lý thẻ)
