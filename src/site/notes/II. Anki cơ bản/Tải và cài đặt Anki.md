@@ -45,8 +45,6 @@ Chọn phiên bản phù hợp với bản thân:
 
 # Linux
 
-![](https://i.imgur.com/RcKdY3J.png)
-
 
 # Android
 
