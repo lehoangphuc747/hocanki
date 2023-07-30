@@ -8,7 +8,7 @@ ___
 ## 01. Tải, cài đặt & Đồng bộ
 > [[II. Anki cơ bản/Tải và cài đặt Anki\|Tải và cài đặt Anki]] 
 
-> [[Đăng ký tài khoản AnkiWeb\|Đăng ký tài khoản AnkiWeb]] 
+> [[II. Anki cơ bản/Đăng ký tài khoản AnkiWeb\|Đăng ký tài khoản AnkiWeb]] 
 
 > [Hiểu về đồng bộ hóa Anki](https://www.facebook.com/groups/ankikhoa2/posts/656841203164849/)  
 > [[Hiểu về đồng bộ hóa Anki \| Obsidian]]
