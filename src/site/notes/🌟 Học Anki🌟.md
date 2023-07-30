@@ -38,3 +38,6 @@ Tìm hiểu các Add-ons, Extension, chỉnh sửa giao diện Anki và bộ th�
 
 # IV. Mẹo và thủ thuật
 > [[Mẹo và thủ thuật\|Truy cập]]
+
+# V. Lỗi
+> [[! Lỗi \| Truy cập]]
