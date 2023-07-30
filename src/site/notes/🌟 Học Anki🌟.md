@@ -16,7 +16,7 @@
 
 ___
 
-## Top Addons
+# Top Addons
 > [[II. Anki cơ bản/Top Add-ons (Khuyến nghị)\|Truy cập]]
 
 > [[Canvas.canvas|Canvas]]
