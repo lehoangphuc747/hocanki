@@ -13,12 +13,10 @@ ___
 > [[Đăng ký tài khoản AnkiWeb\|Đăng ký tài khoản AnkiWeb]] #AnkiWeb #Sync 
 
 > [Hiểu về đồng bộ hóa Anki](https://www.facebook.com/groups/ankikhoa2/posts/656841203164849/) #AnkiWeb  #Sync 
+> [[Hiểu về đồng bộ hóa Anki\|Obsidian]]
 
-<!--
-[[Hiểu về đồng bộ hóa Anki\|Hiểu về đồng bộ hóa Anki]]
--->
-
-> [[Đồng bộ hóa Anki trên máy tính\|Đồng bộ hóa Anki trên máy tính]]
+> [Đồng bộ hóa Anki trên máy tính](https://www.facebook.com/100006970567626/videos/1312090109715612/)
+> [[Đồng bộ hóa Anki trên máy tính\|Obsidian]]
 
 Đồng bộ hóa trên iPhone/iPad[[II. Anki cơ bản/AnkiWeb và Động bộ (Sync) - Hieu Cao\|AnkiWeb và Động bộ (Sync) - Hieu Cao]]
 Đồng bọ hóa trên Android
