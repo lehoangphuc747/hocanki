@@ -4,7 +4,7 @@
 
 > [[I. Đàm đạo/! Đàm đạo\|Quay lại]]
 ___
-# Vốn từ ~20,000 nhờ sử dụng Anki
+# Vốn từ ~20,000 nhờ Anki
 
 > [Bài viết gốc](https://www.facebook.com/groups/ankivocabulary/posts/1061427581283565/)
 
@@ -26,7 +26,7 @@ Mình nhận thấy rằng học phương pháp nào cũng cần phải có sự
 
 Đây là chút chia sẻ về thứ mình đã làm được gần 2 năm qua, bạn nào có hỏi gì thì cứ comment nha.
 ___
-# Chia sẻ kinh nghiệm - Góc Tối
+# Chia sẻ kinh nghiệm - Mod Góc Tối
 > [Bài viết gốc](https://www.facebook.com/groups/ankivocabulary/posts/1372137553545898/)
 
 Là một người tiếp cận Anki lâu năm, cũng từng bỏ Anki vài năm vì quá mất thời gian. Hôm nay mình xin phép chia sẻ những trải nghiệm của mình trong thời gian học Anki.
