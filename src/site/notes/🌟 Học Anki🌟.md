@@ -5,9 +5,7 @@
 # <center>🌟 **Học Anki** 🌟</center>
 <center>Hướng dẫn làm quen Anki cho người mới</center>
 
-Liên hệ: 
-
-[<img  src="https://i.imgur.com/CZ7hhJg.png" width="100">](https://www.facebook.com/tui.la.phuc747)  [<img  src="https://i.imgur.com/HNBJNZE.png" width="37">](https://zalo.me/346598402) [<img  src="https://i.imgur.com/9PROKnb.png" width="37">](https://t.me/lehoangphuc747)
+<span style="font-size: 30px;">Liên hệ:</span> [<img  src="https://i.imgur.com/CZ7hhJg.png" width="100">](https://www.facebook.com/tui.la.phuc747)  [<img  src="https://i.imgur.com/HNBJNZE.png" width="26">](https://zalo.me/346598402) [<img  src="https://i.imgur.com/9PROKnb.png" width="37">](https://t.me/lehoangphuc747)
 
 <div style="display: flex; justify-content: center; cursor: pointer;">
 <a href="https://www.facebook.com/groups/ankikhoa2/" target="_blank">
