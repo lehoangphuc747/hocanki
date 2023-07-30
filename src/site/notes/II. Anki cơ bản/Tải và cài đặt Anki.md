@@ -16,10 +16,12 @@ ___
 ![](https://i.imgur.com/EBuRUzM.gif)
 
 # Windows 10 / 11
+#Windows 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bo7ymlZGSqg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Windows 7
+#Windows 
 
 <div style="display: flex; justify-content: left; cursor: pointer;">
 <a href="https://apps.ankiweb.net/downloads/archive/anki-2.1.49-windows.exe" target="_blank">
@@ -47,6 +49,7 @@ Chọn phiên bản phù hợp với bản thân:
 
 
 # Android
+#Android 
 
 **Tên ứng dụng:** AnkiDroid
 
@@ -57,6 +60,7 @@ Chọn phiên bản phù hợp với bản thân:
 
 
 # iOS (iPhone/iPad)
+#iOS 
 
 **Tên ứng dụng:** AnkiMobile Flashcards
 **Giá:** 699.000đ
