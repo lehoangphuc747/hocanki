@@ -3,6 +3,7 @@
 ---
 
 > [[🌟 Học Anki🌟\|Quay lại]]
+
 ___
 ## 01. Tải và cài đặt
 > [[II. Anki cơ bản/Tải và cài đặt Anki\|Tải và cài đặt Anki]] #Download
@@ -11,7 +12,11 @@ ___
 ## 02. Đồng bộ hóa
 > [[Đăng ký tài khoản AnkiWeb\|Đăng ký tài khoản AnkiWeb]] #AnkiWeb #Sync 
 
-> [[Hiểu về đồng bộ hóa Anki\|Hiểu về đồng bộ hóa Anki]] #AnkiWeb  #Sync 
+> [Hiểu về đồng bộ hóa Anki](https://www.facebook.com/groups/ankikhoa2/posts/656841203164849/) #AnkiWeb  #Sync 
+
+<!--
+[[Hiểu về đồng bộ hóa Anki\|Hiểu về đồng bộ hóa Anki]]
+-->
 
 > [[Đồng bộ hóa Anki trên máy tính\|Đồng bộ hóa Anki trên máy tính]]
 
