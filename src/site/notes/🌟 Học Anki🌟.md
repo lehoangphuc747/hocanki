@@ -20,8 +20,7 @@ ___
 
 ## Top Addons
 > [[II. Anki cơ bản/Top Add-ons (Khuyến nghị)\|Truy cập]]
-___
-Canvas trong Obsidian
+
 > [[Canvas.canvas|Canvas]]
 ___
 
@@ -29,7 +28,7 @@ ___
 
 # I. Đàm đạo
 Là mấy nội dung mình xàm xí về Anki và chuỗi hướng dẫn này.
-> [[I. Đàm đạo/Đàm đạo\|Truy cập]]
+> [[I. Đàm đạo/💬Đàm đạo\|Truy cập]]
 
 # II. Anki cơ bản
 Nắm vững các kiến thức cơ bản của Anki.
