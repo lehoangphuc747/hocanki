@@ -29,11 +29,11 @@ ___
 
 ## Tạo Deck & Tags
 
-> [Cách tạo Deck và Subdeck (Bộ thẻ và bộ thẻ con)](https://www.facebook.com/100006970567626/videos/948967736190048/) #Deck #Subdeck
+> [Cách tạo Deck và Subdeck (Bộ thẻ và bộ thẻ con)](https://www.facebook.com/100006970567626/videos/948967736190048/) 
 > [[Cách tạo Deck và Subdeck (Bộ thẻ và bộ thẻ con) \| Obsidian]]
 
 
-> [Tạo, quản lý và học Anki theo Tags](https://www.facebook.com/100006970567626/videos/1735576880208862/) #Tags
+> [Tạo, quản lý và học Anki theo Tags](https://www.facebook.com/100006970567626/videos/1735576880208862/) 
 > [[Tạo, quản lý và học Anki theo Tags \| Obsidian]]
 
 
