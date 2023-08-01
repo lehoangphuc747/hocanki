@@ -36,7 +36,7 @@ ___
 > [Tạo, quản lý và học Anki theo Tags](https://www.facebook.com/100006970567626/videos/1735576880208862/) #Tags
 > [[Tạo, quản lý và học Anki theo Tags \| Obsidian]]
 
-## Tạo thẻ (cơ bản)
+## Tạo thẻ
 
 [[III. Anki nâng cao/Fields (Trường tin) trong Anki\|Fields (Trường tin) trong Anki]]
 Card và Note là gì? Khác nhau như thế nào?
@@ -44,6 +44,8 @@ Tạo thẻ Basic
 Tạo thẻ Basic lật
 Tạo thẻ Basic gõ
 	[[II. Anki cơ bản/Tạo thẻ Cloze (ẩn thường và ẩn đồng thời)\|Tạo thẻ Cloze (ẩn thường và ẩn đồng thời)]]
+
+[[Tạo thẻ có ảnh động\|Tạo thẻ có ảnh động]]
 
 ## Nguyên tắc khi tạo thẻ (20)
 [[II. Anki cơ bản/20 nguyên tắc\|20 nguyên tắc]]
