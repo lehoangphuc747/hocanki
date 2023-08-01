@@ -15,14 +15,6 @@
 
 ___
 
-# Top Addons
-> [[II. Anki cơ bản/Top Add-ons (Khuyến nghị)\|Truy cập]]
-
-> [[Canvas.canvas|Canvas]]
-___
-
-
-
 # I. Đàm đạo
 Là mấy nội dung mình xàm xí về Anki và chuỗi hướng dẫn này.
 > [[I. Đàm đạo/! Đàm đạo\|Truy cập]]
@@ -42,3 +34,9 @@ Tìm hiểu các Add-ons, Extension, chỉnh sửa giao diện Anki và bộ th�
 > [[! Lỗi \| Truy cập]]
 
 # VI. Tổng hợp một số bộ thẻ
+___
+
+# Top Addons
+> [[II. Anki cơ bản/Top Add-ons (Khuyến nghị)\|Truy cập]]
+
+> [[Canvas.canvas|Canvas]]
