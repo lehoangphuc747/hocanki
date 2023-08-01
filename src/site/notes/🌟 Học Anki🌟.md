@@ -13,7 +13,6 @@
 </a>
 </div>
 
-
 ___
 
 # Top Addons
@@ -41,3 +40,5 @@ Tìm hiểu các Add-ons, Extension, chỉnh sửa giao diện Anki và bộ th�
 
 # V. Lỗi
 > [[! Lỗi \| Truy cập]]
+
+# VI. Tổng hợp một số bộ thẻ
