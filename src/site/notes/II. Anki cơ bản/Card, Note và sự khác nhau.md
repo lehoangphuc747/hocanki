@@ -8,15 +8,24 @@
 
 ___
 
-Đơn giản:
+# Ngắn gọn:
 
-Note là 1 từ vựng bạn muốn học.
-Card là cách bạn muốn học từ đó.
+==Note== là 1 từ vựng bạn muốn học.
+==Card== là cách bạn muốn học từ đó.
 
 Cách học thì có nhiều kiểu. Phổ biến nhất là 2 dạng:
 - Tiếng Anh → Việt
 - Việt → Tiếng Anh
 Tiếng Anh: Có thể thay bằng tiếng khác.
+
+# Lưu ý:
+
+1 Note có 3 cards.
+1 từ vựng có 3 cách học.
+Khi thêm 1 từ mới, sẽ tạo ra 3 cards.
+Vấn đề thời gian đầu sẽ không sao, nhưng thời gian tăng dần, lượng thẻ sẽ trở thành gánh nặng. 
+10 từ sẽ tạo ra 30 cards.
+Nếu mọi người có nhiều thời gian, ok không vấn đề gì, nhưng nếu có ít thời gian thì phải tối ưu lại Card và giảm bớt số Card/Note.
 
 # Các Note cơ bản:
 
@@ -79,15 +88,6 @@ Front + Gõ đáp án ở ô Back
 ![](https://i.imgur.com/Huq1IX1.png)
 
 </center>
-
-
-# Lưu ý:
-1 Note có 3 cards.
-1 từ vựng có 3 cách học.
-Khi thêm 1 từ mới, sẽ tạo ra 3 cards.
-Vấn đề thời gian đầu sẽ không sao, nhưng thời gian tăng dần, lượng thẻ sẽ trở thành gánh nặng. 
-10 từ sẽ tạo ra 30 cards.
-Nếu mọi người có nhiều thời gian, ok không vấn đề gì, nhưng nếu có ít thời gian thì phải tối ưu lại Card và giảm bớt số Card/Note.
 
 
 
