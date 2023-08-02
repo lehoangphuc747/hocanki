@@ -21,12 +21,17 @@ Tiếng Anh: Có thể thay bằng tiếng khác.
 # Các Note cơ bản:
 
 ## Basic
+<center>
+
 Front → Back
+
 
 ![](https://i.imgur.com/xLlTewC.png)
 
+</center>
+
 ## Basic (and reversed card)
-<center><style font-size="150%">Front → Back</span></center>
+<center><style font-size="150%">Front → Back</style></center>
 <center> 
 
 > ![](https://i.imgur.com/xLlTewC.png)
