@@ -73,6 +73,14 @@ Front + Gõ đáp án ở ô Back
 ## Cloze
 Điền vào chỗ trống bị ẩn đi.
 
+<center>
+
+>![](https://i.imgur.com/F7cHVBt.png)
+![](https://i.imgur.com/Huq1IX1.png)
+
+</center>
+
+
 # Lưu ý:
 1 Note có 3 cards.
 1 từ vựng có 3 cách học.
