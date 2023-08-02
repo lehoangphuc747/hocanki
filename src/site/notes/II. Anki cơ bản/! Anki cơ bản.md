@@ -21,7 +21,7 @@ ___
 
 > [[V. Lỗi/Lỗi Vui lòng sử dụng chức năng Kiểm tra Cơ sở dữ Liệu (Check Database)\|Lỗi Vui lòng sử dụng chức năng Kiểm tra Cơ sở dữ Liệu (Check Database)]]
 
-> [[Tại sao nên sử dụng Anki bản tiếng Anh\|Tại sao nên sử dụng Anki bản tiếng Anh?]]
+> [[II. Anki cơ bản/Tại sao nên sử dụng Anki bản tiếng Anh\|Tại sao nên sử dụng Anki bản tiếng Anh?]]
 
 [[II. Anki cơ bản/Nên sử dụng Anki trên Web hay Ứng dụng\|Nên sử dụng Anki trên Web hay Ứng dụng]]
 
@@ -35,7 +35,7 @@ ___
 > [[Tạo, quản lý và học Anki theo Tags \| ❌Obsidian]]
 
 > [👑 Xóa tags không sử dụng (Unused Tags)](https://www.facebook.com/groups/ankikhoa2/posts/658428619672774/)
-> [[Xóa tags không sử dụng (Unused Tags)\| ❌Obsidian]]
+> [[II. Anki cơ bản/Xóa tags không sử dụng (Unused Tags)\| ❌Obsidian]]
 
 
 ## Tạo thẻ
