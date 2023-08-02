@@ -29,9 +29,8 @@ Front → Back
 <center>Front → Back</center>
 <center> 
 
-<div style="	border-radius: 20px;	border: solid 1px black;">
 
-![](https://i.imgur.com/xLlTewC.png)
+> ![](https://i.imgur.com/xLlTewC.png)
 
 
 </div>
@@ -39,7 +38,7 @@ Front → Back
 
 
 Back → Front
-![](https://i.imgur.com/TRQg7Zr.png)
+> ![](https://i.imgur.com/TRQg7Zr.png)
 
 
 ## Basic (optional reversed card)
