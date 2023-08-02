@@ -42,14 +42,14 @@ Xóa tags (PC, iOS, Android)
 ## Tạo thẻ
 
 [[III. Anki nâng cao/Fields (Trường tin) trong Anki\|Fields (Trường tin) trong Anki]]
-Card và Note là gì? Khác nhau như thế nào?
+[[II. Anki cơ bản/Card, Note và sự khác nhau\|Card, Note và sự khác nhau]]
 Tạo thẻ Basic
 Tạo thẻ Basic lật
 Tạo thẻ Basic gõ
 	[[II. Anki cơ bản/Tạo thẻ Cloze (ẩn thường và ẩn đồng thời)\|Tạo thẻ Cloze (ẩn thường và ẩn đồng thời)]]
 
 > [Tạo thẻ có ảnh động](https://www.facebook.com/groups/ankikhoa2/posts/657978433051126/)
-> [[Tạo thẻ có ảnh động\|Obsidian]]
+> [[II. Anki cơ bản/Tạo thẻ có ảnh động\|Obsidian]]
 
 ## Nguyên tắc khi tạo thẻ (20)
 [[II. Anki cơ bản/20 nguyên tắc\|20 nguyên tắc]]
