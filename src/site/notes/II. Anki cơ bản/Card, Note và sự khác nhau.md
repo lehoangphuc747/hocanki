@@ -26,7 +26,7 @@ Tiếng Anh: Có thể thay bằng tiếng khác.
 Front → Back
 
 
-![](https://i.imgur.com/xLlTewC.png)
+> ![](https://i.imgur.com/xLlTewC.png)
 
 </center>
 
