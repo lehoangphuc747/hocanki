@@ -53,7 +53,7 @@ Cloze
 
 ## Nâng cấp thẻ
 
-> [[Fields (Trường tin) trong Anki \| 👑 Fields (Trường tin) trong Anki ❌Obsidian]]
+> [[Fields (Trường tin) trong Anki \| 👑 Fields (Trường tin) trong Anki ❌Truy cập bên dưới]]
 
 > [👑 Đổi tên Fields](https://www.facebook.com/100006970567626/videos/6386729764755310/)
 
