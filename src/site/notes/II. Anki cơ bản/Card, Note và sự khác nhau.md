@@ -31,10 +31,10 @@ Nếu mọi người có nhiều thời gian, ok không vấn đề gì, nhưng 
 # Các Note cơ bản:
 
 ## Basic
+
+Card 1: Front → Back
+
 <center>
-
-Front → Back
-
 
 > ![](https://i.imgur.com/xLlTewC.png)
 
@@ -43,11 +43,11 @@ Front → Back
 ## Basic (and reversed card)
 <center>
 
-Front → Back
+Card 1: Front → Back
 
 > ![](https://i.imgur.com/xLlTewC.png)
 
-Back → Front
+Card 2: Back → Front
 
 > ![](https://i.imgur.com/TRQg7Zr.png)
 
