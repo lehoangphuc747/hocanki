@@ -26,7 +26,7 @@ Front → Back
 ![](https://i.imgur.com/xLlTewC.png)
 
 ## Basic (and reversed card)
-<center>Front → Back</center>
+<center><style font-size="150%">Front → Back</span></center>
 <center> 
 
 > ![](https://i.imgur.com/xLlTewC.png)
