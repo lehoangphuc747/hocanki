@@ -16,6 +16,7 @@ ___
 Cách học thì có nhiều kiểu. Phổ biến nhất là 2 dạng:
 - Tiếng Anh → tiếng Việt
 - Tiếng Việt → tiếng Anh
+
 Tiếng Anh: Có thể thay bằng tiếng khác (Hàn, Nhật, Trung,...).
 
 # Lưu ý:
