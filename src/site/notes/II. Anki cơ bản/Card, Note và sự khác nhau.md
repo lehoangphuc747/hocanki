@@ -31,7 +31,7 @@ Front → Back
 </center>
 
 ## Basic (and reversed card)
-<center><style font-size="150%">Front → Back</style></center>
+<center><span style="font-size=150%;">Front → Back</span></center>
 <center> 
 
 > ![](https://i.imgur.com/xLlTewC.png)
