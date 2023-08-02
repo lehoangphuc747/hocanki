@@ -32,9 +32,9 @@ Nếu mọi người có nhiều thời gian, ok không vấn đề gì, nhưng 
 
 ## Basic
 
-Card 1: Front → Back
-
 <center>
+
+Card 1: Front → Back
 
 > ![](https://i.imgur.com/xLlTewC.png)
 
@@ -56,11 +56,11 @@ Card 2: Back → Front
 ## Basic (optional reversed card)
 <center>
 
-Front → Back
+Card 1: Front → Back
 
 > ![](https://i.imgur.com/xLlTewC.png)
 
-Back → Front (Điều kiện: ==Add Reverse== phải chứa nội dung gì đó.)
+Card 2: Back → Front (Điều kiện: ==Add Reverse== phải chứa nội dung gì đó.)
 
 > ![](https://i.imgur.com/oYqU2e9.png)
 
@@ -72,7 +72,7 @@ Back → Front (Điều kiện: ==Add Reverse== phải chứa nội dung gì đ�
 
 <center>
 
-Front + Gõ đáp án ở ô Back
+Card 1: Front + Gõ đáp án ở ô Back
 
 > ![](https://i.imgur.com/8bD2zXH.png)
 
@@ -82,6 +82,7 @@ Front + Gõ đáp án ở ô Back
 
 ## Cloze
 Điền vào chỗ trống bị ẩn đi.
+Số Card tùy theo số lượng Cloze.
 
 <center>
 
