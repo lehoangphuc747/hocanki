@@ -40,7 +40,9 @@ ___
 
 ## Tạo thẻ
 
-[[II. Anki cơ bản/Card, Note và sự khác nhau\|Card, Note và sự khác nhau]]
+> [👑 Card, Note và sự khác nhau]()
+[[II. Anki cơ bản/Card, Note và sự khác nhau\| ❌Obsidian]]
+
 Tạo thẻ Basic
 Tạo thẻ Basic (and reversed card)
 Tạo thẻ Basic (optional reversed card)
