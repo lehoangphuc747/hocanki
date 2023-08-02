@@ -31,16 +31,11 @@ Front → Back
 </center>
 
 ## Basic (and reversed card)
-<center><span style="font-size=150%;">Front → Back</span></center>
-<center> 
+<center>Front → Back
 
 > ![](https://i.imgur.com/xLlTewC.png)
 
-</center>
-
-<center>Back → Front</center>
-
-<center>
+Back → Front
 
 > ![](https://i.imgur.com/TRQg7Zr.png)
 
