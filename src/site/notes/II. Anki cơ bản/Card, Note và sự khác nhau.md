@@ -29,8 +29,12 @@ Front → Back
 <center>Front → Back</center>
 <center> 
 
+<div style="border: solid;">
+
 ![](https://i.imgur.com/xLlTewC.png)
 
+
+</div>
 </center>
 
 
