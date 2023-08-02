@@ -13,14 +13,11 @@ ___
 > [Hiểu về đồng bộ hóa Anki](https://www.facebook.com/groups/ankikhoa2/posts/656841203164849/)  
 > [[Hiểu về đồng bộ hóa Anki \| ❌Obsidian]]
 
-> [Đồng bộ hóa Anki trên máy tính](https://www.facebook.com/100006970567626/videos/1312090109715612/) 
-> [[Đồng bộ hóa Anki trên máy tính \| ❌Obsidian]]
+> [[II. Anki cơ bản/Đồng bộ hóa Anki trên máy tính\|Đồng bộ hóa Anki trên máy tính]]
 
-> [Đồng bộ hóa Anki trên iPhone/iPad](https://www.facebook.com/100006970567626/videos/837128328047101/) 
-> [[II. Anki cơ bản/Đồng bộ hóa trên iPhone & iPad\| ❌Obsidian]]
+> [[II. Anki cơ bản/Đồng bộ hóa trên iPhone & iPad\|Đồng bộ hóa trên iPhone & iPad]]
 
->[Đồng bộ hóa Anki trên Android](https://www.facebook.com/reel/1403408213556396)
-> [[Đồng bộ hóa Anki trên Android \| ❌Obsidian]]
+> [[II. Anki cơ bản/Đồng bộ hóa Anki trên Android\|Đồng bộ hóa Anki trên Android]]
 
 > [[V. Lỗi/Lỗi Vui lòng sử dụng chức năng Kiểm tra Cơ sở dữ Liệu (Check Database)\|Lỗi Vui lòng sử dụng chức năng Kiểm tra Cơ sở dữ Liệu (Check Database)]]
 
