@@ -29,17 +29,17 @@ Front → Back
 <center>Front → Back</center>
 <center> 
 
-
 > ![](https://i.imgur.com/xLlTewC.png)
 
-
-</div>
 </center>
 
+<center>Back → Front</center>
 
-Back → Front
+<center>
+
 > ![](https://i.imgur.com/TRQg7Zr.png)
 
+</center>
 
 ## Basic (optional reversed card)
 Front → Back
