@@ -31,7 +31,9 @@ Front → Back
 </center>
 
 ## Basic (and reversed card)
-<center>Front → Back
+<center>
+
+Front → Back
 
 > ![](https://i.imgur.com/xLlTewC.png)
 
@@ -42,8 +44,19 @@ Back → Front
 </center>
 
 ## Basic (optional reversed card)
+<center>
+
 Front → Back
+
+> ![](https://i.imgur.com/xLlTewC.png)
+
 Back → Front (Điều kiện: ==Add Reverse== phải chứa nội dung gì đó.)
+
+> ![](https://i.imgur.com/oYqU2e9.png)
+
+> ![](https://i.imgur.com/TRQg7Zr.png)
+
+</center>
 
 ## Basic (type in the answer)
 Front + Gõ đáp án ở ô Back
