@@ -80,9 +80,13 @@ Copy đoạn code sau thay thế đoạn code trong Anki và bấm OK.
 
 ![](https://i.imgur.com/YNMsQme.png)
 
-Cách thêm thẻ khi đọc báo
+# Cách thêm thẻ khi đọc báo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z0uRi3Cel_4?clip=UgkxulPAWRucLwUY91-I-bo17BPIEvs5NlD8&amp;clipt=EIyfBRjo8wg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+# Cách tra từ và thêm thẻ vào Anki
+
+![](https://www.youtube.com/embed/WW4zfipQfoo)
 
 <br>
 
