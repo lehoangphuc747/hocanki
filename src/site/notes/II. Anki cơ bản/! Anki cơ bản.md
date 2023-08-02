@@ -10,7 +10,7 @@ ___
 
 > [[II. Anki cơ bản/Đăng ký tài khoản AnkiWeb\|Đăng ký tài khoản AnkiWeb]] 
 
-> [Hiểu về đồng bộ hóa Anki](https://www.facebook.com/groups/ankikhoa2/posts/656841203164849/)  
+> [👑 Hiểu về đồng bộ hóa Anki](https://www.facebook.com/groups/ankikhoa2/posts/656841203164849/)  
 > [[Hiểu về đồng bộ hóa Anki \| ❌Obsidian]]
 
 > [[II. Anki cơ bản/Đồng bộ hóa Anki trên máy tính\|Đồng bộ hóa Anki trên máy tính]]
@@ -27,20 +27,19 @@ ___
 
 ## Tạo Deck & Tags
 
-> [Cách tạo Deck và Subdeck (Bộ thẻ và bộ thẻ con)](https://www.facebook.com/100006970567626/videos/948967736190048/) 
+> [👑 Cách tạo Deck và Subdeck (Bộ thẻ và bộ thẻ con)](https://www.facebook.com/100006970567626/videos/948967736190048/) 
 > [[Cách tạo Deck và Subdeck (Bộ thẻ và bộ thẻ con) \| ❌Obsidian]]
 
 
-> [Tạo, quản lý và học Anki theo Tags](https://www.facebook.com/100006970567626/videos/1735576880208862/) 
+> [👑 Tạo, quản lý và học Anki theo Tags](https://www.facebook.com/100006970567626/videos/1735576880208862/) 
 > [[Tạo, quản lý và học Anki theo Tags \| ❌Obsidian]]
 
-> [Xóa tags không sử dụng (Unused Tags)](https://www.facebook.com/groups/ankikhoa2/posts/658428619672774/)
+> [👑 Xóa tags không sử dụng (Unused Tags)](https://www.facebook.com/groups/ankikhoa2/posts/658428619672774/)
 > [[Xóa tags không sử dụng (Unused Tags)\| ❌Obsidian]]
 
 
 ## Tạo thẻ
 
-[[III. Anki nâng cao/Fields (Trường tin) trong Anki\|Fields (Trường tin) trong Anki]]
 [[II. Anki cơ bản/Card, Note và sự khác nhau\|Card, Note và sự khác nhau]]
 Tạo thẻ Basic
 Tạo thẻ Basic (and reversed card)
@@ -50,22 +49,38 @@ Cloze
 
 [[II. Anki cơ bản/Tạo thẻ Cloze (ẩn thường và ẩn đồng thời)\|Tạo thẻ Cloze (ẩn thường và ẩn đồng thời)]]
 
-> [Tạo thẻ có ảnh động](https://www.facebook.com/groups/ankikhoa2/posts/657978433051126/)
-> [[II. Anki cơ bản/Tạo thẻ có ảnh động\|Obsidian]]
+## Nâng cấp thẻ
+
+> [[Fields (Trường tin) trong Anki \| 👑 Fields (Trường tin) trong Anki ❌Obsidian]]
+
+> [👑 Đổi tên Fields](https://www.facebook.com/100006970567626/videos/6386729764755310/)
+
+> [👑 Thêm Fields](https://www.facebook.com/100006970567626/videos/610376627914331/)
+
+> [👑 Xóa Fields](https://www.facebook.com/100006970567626/videos/1460259781398928/)
+
+> [👑 Đổi vị trí Fields](https://www.facebook.com/100006970567626/videos/996737118425945/)
+
+> [👑 Chọn Fields sẽ hiển thị trong Browse (Duyệt)](https://www.facebook.com/100006970567626/videos/1115800266045956/)
+
+
+
+> [👑 Tạo thẻ có ảnh động](https://www.facebook.com/groups/ankikhoa2/posts/657978433051126/)
+> [[II. Anki cơ bản/Tạo thẻ có ảnh động\| ❌ Obsidian]]
 
 ## Nguyên tắc khi tạo thẻ (20)
 [[II. Anki cơ bản/20 nguyên tắc\|20 nguyên tắc]]
 
 ## Trạng thái thẻ
 
-> [New, Learn, Due](https://www.facebook.com/100006970567626/videos/6380549382011532/)
-> [[II. Anki cơ bản/New, Learn, Due\|Obsidian]]
+> [👑 New, Learn, Due](https://www.facebook.com/100006970567626/videos/6380549382011532/)
+> [[II. Anki cơ bản/New, Learn, Due\| ❌ Obsidian]]
 
-> [Leech Card](https://www.facebook.com/100006970567626/videos/3522266851347838/)
-> [[II. Anki cơ bản/Leech Card\|Obsidian]]
+> [👑 Leech Card](https://www.facebook.com/100006970567626/videos/3522266851347838/)
+> [[II. Anki cơ bản/Leech Card\| ❌ Obsidian]]
 
-> [Suspended Card](https://www.facebook.com/100006970567626/videos/1013283566338415/)
-> [[II. Anki cơ bản/Suspended Card\|Obsidian]]
+> [👑 Suspended Card](https://www.facebook.com/100006970567626/videos/1013283566338415/)
+> [[II. Anki cơ bản/Suspended Card\| ❌ Obsidian]]
 
 
 ## Study Option
