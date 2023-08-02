@@ -11,34 +11,34 @@ ___
 > [[II. Anki cơ bản/Đăng ký tài khoản AnkiWeb\|Đăng ký tài khoản AnkiWeb]] 
 
 > [Hiểu về đồng bộ hóa Anki](https://www.facebook.com/groups/ankikhoa2/posts/656841203164849/)  
-> [[Hiểu về đồng bộ hóa Anki \| Obsidian]]
+> [[Hiểu về đồng bộ hóa Anki \| ❌Obsidian]]
 
 > [Đồng bộ hóa Anki trên máy tính](https://www.facebook.com/100006970567626/videos/1312090109715612/) 
-> [[Đồng bộ hóa Anki trên máy tính \| Obsidian]]
+> [[Đồng bộ hóa Anki trên máy tính \| ❌Obsidian]]
 
 > [Đồng bộ hóa Anki trên iPhone/iPad](https://www.facebook.com/100006970567626/videos/837128328047101/) 
-> [[II. Anki cơ bản/Đồng bộ hóa trên iPhone & iPad\| Obsidian]]
+> [[II. Anki cơ bản/Đồng bộ hóa trên iPhone & iPad\| ❌Obsidian]]
 
 >[Đồng bộ hóa Anki trên Android](https://www.facebook.com/reel/1403408213556396)
-> [[Đồng bộ hóa Anki trên Android \| Obsidian]]
+> [[Đồng bộ hóa Anki trên Android \| ❌Obsidian]]
 
 > [[V. Lỗi/Lỗi Vui lòng sử dụng chức năng Kiểm tra Cơ sở dữ Liệu (Check Database)\|Lỗi Vui lòng sử dụng chức năng Kiểm tra Cơ sở dữ Liệu (Check Database)]]
 
-> [[Tại sao nên sử dụng Anki bản tiếng Anh\|Tại sao nên sử dụng Anki bản tiếng Anh]]
+> [[Tại sao nên sử dụng Anki bản tiếng Anh\|Tại sao nên sử dụng Anki bản tiếng Anh?]]
 
 [[II. Anki cơ bản/Nên sử dụng Anki trên Web hay Ứng dụng\|Nên sử dụng Anki trên Web hay Ứng dụng]]
 
 ## Tạo Deck & Tags
 
 > [Cách tạo Deck và Subdeck (Bộ thẻ và bộ thẻ con)](https://www.facebook.com/100006970567626/videos/948967736190048/) 
-> [[Cách tạo Deck và Subdeck (Bộ thẻ và bộ thẻ con) \| Obsidian]]
+> [[Cách tạo Deck và Subdeck (Bộ thẻ và bộ thẻ con) \| ❌Obsidian]]
 
 
 > [Tạo, quản lý và học Anki theo Tags](https://www.facebook.com/100006970567626/videos/1735576880208862/) 
-> [[Tạo, quản lý và học Anki theo Tags \| Obsidian]]
+> [[Tạo, quản lý và học Anki theo Tags \| ❌Obsidian]]
 
 > [Xóa tags không sử dụng (Unused Tags)](https://www.facebook.com/groups/ankikhoa2/posts/658428619672774/)
-> [[Xóa tags không sử dụng (Unused Tags)\|Obsidian]]
+> [[Xóa tags không sử dụng (Unused Tags)\| ❌Obsidian]]
 
 
 ## Tạo thẻ
