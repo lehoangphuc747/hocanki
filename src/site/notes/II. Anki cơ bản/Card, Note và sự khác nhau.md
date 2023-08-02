@@ -29,7 +29,7 @@ Front → Back
 <center>Front → Back</center>
 <center> 
 
-<div style="border: solid;">
+<div style="border: solid; margin: 0 auto;">
 
 ![](https://i.imgur.com/xLlTewC.png)
 
