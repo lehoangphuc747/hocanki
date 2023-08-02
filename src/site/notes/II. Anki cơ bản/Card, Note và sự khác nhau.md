@@ -59,7 +59,16 @@ Back → Front (Điều kiện: ==Add Reverse== phải chứa nội dung gì đ�
 </center>
 
 ## Basic (type in the answer)
+
+<center>
+
 Front + Gõ đáp án ở ô Back
+
+> ![](https://i.imgur.com/8bD2zXH.png)
+
+> ![](https://i.imgur.com/Ax451Da.png)
+
+</center>
 
 ## Cloze
 Điền vào chỗ trống bị ẩn đi.
