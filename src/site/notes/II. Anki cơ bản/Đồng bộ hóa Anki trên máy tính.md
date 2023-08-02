@@ -7,7 +7,7 @@
 > [[II. Anki cơ bản/! Anki cơ bản\|Quay lại]]
 
 ___
-> [Truy cập nhóm](https://www.facebook.com/100006970567626/videos/1312090109715612/)
+> [Truy cập nhóm Hướng dẫn](https://www.facebook.com/100006970567626/videos/1312090109715612/)
 
 
 ![](https://www.youtube.com/embed/xLIu2s0stXI)
