@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/iii-anki-nang-cao/easy-learn-word/","noteIcon":""}
+{"dg-publish":true,"permalink":"/iii-anki-nang-cao/easy-learn-word/","noteIcon":3}
 ---
 
 #Extension 
 
 > [[III. Anki nâng cao/! Anki Nâng cao\| Quay lại]]
+
 ___
 
 Video cho ai lười đọc:
