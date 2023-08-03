@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/iii-anki-nang-cao/easy-learn-word/","noteIcon":3}
+{"dg-publish":true,"permalink":"/iii-anki-nang-cao/easy-learn-word/","noteIcon":""}
 ---
 
 #Extension 
