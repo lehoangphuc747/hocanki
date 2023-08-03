@@ -4,7 +4,7 @@
 
 #Lỗi
 
-> [[II. Anki cơ bản/! Anki cơ bản\| Anki cơ bản]] / [[! Lỗi \| Lỗi]]
+> [[II. Anki cơ bản/! Anki cơ bản publish\| Anki cơ bản]] / [[! Lỗi \| Lỗi]]
 
 ___
 
@@ -22,4 +22,4 @@ ___
 
 ___
 
-> [[II. Anki cơ bản/! Anki cơ bản\| Anki cơ bản]] / [[! Lỗi \| Lỗi]]
+> [[II. Anki cơ bản/! Anki cơ bản publish\| Anki cơ bản]] / [[! Lỗi \| Lỗi]]
