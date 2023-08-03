@@ -32,7 +32,7 @@ ___
 ## Tạo Deck & Tags
 
 > [👑 Tạo Deck (máy tính)](https://www.facebook.com/100006970567626/videos/269699682445236/)
-> [[Tạo Deck (máy tính)\| ❌ Obsidian]]
+> [[II. Anki cơ bản/Tạo Deck (máy tính)\| ❌ Obsidian]]
 
 
 > [👑 Tạo Subdeck (máy tính)](https://www.facebook.com/100006970567626/videos/1309708296640380/)
