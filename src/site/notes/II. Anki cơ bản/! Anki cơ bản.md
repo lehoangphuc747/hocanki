@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ii-anki-co-ban/anki-co-ban/","title":"Anki cơ bản","noteIcon":1}
+{"dg-publish":true,"permalink":"/ii-anki-co-ban/anki-co-ban/","title":"Anki cơ bản","pinned":true,"noteIcon":1}
 ---
 
 > [[🌟 Học Anki🌟\|Quay lại]]
@@ -7,25 +7,25 @@
 ## Lưu ý
 
 👑: Nội dung trả phí / thành viên nhóm Hướng dẫn
-❌: Nội bộ Obsidian. Vui lòng không truy cập. Truy cập link thường (đậm màu), và 👑.
+❌: Nội bộ Obsidian. Vui lòng không truy cập. Truy cập link ✅ và 👑.
 ___
 ## 01. Tải, cài đặt & Đồng bộ
-> [[II. Anki cơ bản/Tải và cài đặt Anki\|Tải và cài đặt Anki]] 
+> [[II. Anki cơ bản/Tải và cài đặt Anki\|✅ Tải và cài đặt Anki]] 
 
-> [[II. Anki cơ bản/Đăng ký tài khoản AnkiWeb\|Đăng ký tài khoản AnkiWeb]] 
+> [[II. Anki cơ bản/Đăng ký tài khoản AnkiWeb\| ✅ Đăng ký tài khoản AnkiWeb]] 
 
 > [👑 Hiểu về đồng bộ hóa Anki](https://www.facebook.com/groups/ankikhoa2/posts/656841203164849/)  
 > [[Hiểu về đồng bộ hóa Anki \| ❌Obsidian]]
 
-> [[II. Anki cơ bản/Đồng bộ hóa Anki trên máy tính\|Đồng bộ hóa Anki trên máy tính]]
+> [[II. Anki cơ bản/Đồng bộ hóa Anki trên máy tính\|✅ Đồng bộ hóa Anki trên máy tính]]
 
-> [[II. Anki cơ bản/Đồng bộ hóa trên iPhone & iPad\|Đồng bộ hóa trên iPhone & iPad]]
+> [[II. Anki cơ bản/Đồng bộ hóa trên iPhone & iPad\|✅ Đồng bộ hóa trên iPhone & iPad]]
 
-> [[II. Anki cơ bản/Đồng bộ hóa Anki trên Android\|Đồng bộ hóa Anki trên Android]]
+> [[II. Anki cơ bản/Đồng bộ hóa Anki trên Android\|✅ Đồng bộ hóa Anki trên Android]]
 
-> [[V. Lỗi/Lỗi Vui lòng sử dụng chức năng Kiểm tra Cơ sở dữ Liệu (Check Database)\|Lỗi Vui lòng sử dụng chức năng Kiểm tra Cơ sở dữ Liệu (Check Database)]]
+> [[V. Lỗi/Lỗi Vui lòng sử dụng chức năng Kiểm tra Cơ sở dữ Liệu (Check Database)\|✅ Lỗi: Vui lòng sử dụng chức năng Kiểm tra Cơ sở dữ Liệu (Check Database)]]
 
-> [[II. Anki cơ bản/Tại sao nên sử dụng Anki bản tiếng Anh\|Tại sao nên sử dụng Anki bản tiếng Anh?]]
+> [[II. Anki cơ bản/Tại sao nên sử dụng Anki bản tiếng Anh\|✅ Tại sao nên sử dụng Anki bản tiếng Anh?]]
 
 [[II. Anki cơ bản/Nên sử dụng Anki trên Web hay Ứng dụng\|Nên sử dụng Anki trên Web hay Ứng dụng]]
 
