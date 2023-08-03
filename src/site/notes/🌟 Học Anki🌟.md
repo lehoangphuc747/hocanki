@@ -25,7 +25,7 @@ Là mấy nội dung mình xàm xí về Anki và chuỗi hướng dẫn này.
 
 # II. Anki cơ bản
 Nắm vững các kiến thức cơ bản của Anki.
-> [[II. Anki cơ bản/! Anki cơ bản\|Truy cập]]
+> [[II. Anki cơ bản/! Anki cơ bản publish\|Truy cập]]
 
 # III. Anki nâng cao
 Tìm hiểu các Add-ons, Extension, chỉnh sửa giao diện Anki và bộ thẻ.
