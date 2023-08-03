@@ -27,6 +27,12 @@ Mình sẽ chia nhỏ nội dung hết sức có thể, để mọi người có
 
 ĐƠN GIẢN → DỄ THỰC HIỆN → CÓ THỂ LÀM NGAY
 
+# Sau khi hoàn thành 1 hướng dẫn (Đọc, xem video, thực hành)
+Mọi người vui lòng Đánh dấu **<font color="#0070c0">Xong</font>** giúp mình ạ.
+
+![](https://i.imgur.com/qd9yt7M.png)
+
+
 # 3 kiểu Link trên Web:
 
 ✅ Free  
