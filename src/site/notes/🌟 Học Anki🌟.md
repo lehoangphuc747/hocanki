@@ -8,9 +8,13 @@
 <span style="font-size: 30px;">Liên hệ: </span> &nbsp; [<img  src="https://i.imgur.com/CZ7hhJg.png" width="80">](https://www.facebook.com/tui.la.phuc747)  [<img  src="https://i.imgur.com/HNBJNZE.png" width="30">](https://zalo.me/346598402) [<img  src="https://i.imgur.com/9PROKnb.png" width="30">](https://t.me/lehoangphuc747)
 
 <div style="display: flex; justify-content: center; cursor: pointer;">
-<a href="https://www.facebook.com/groups/ankikhoa2/" target="_blank">
-<button style=" font-size: 28px; padding: 10px; height: fit-content; margin-top: 10px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); "> Nhóm Hướng dẫn Anki <br>(Truy cập) </button> 
-</a>
+  <a href="https://www.facebook.com/groups/ankikhoa2/" target="_blank">
+    <button style="flex: 1; font-size: 28px; padding: 10px; height: 80px; margin-top: 10px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent);">Nhóm Hướng dẫn Anki <br>(Truy cập)</button>
+  </a>
+  <span style="width: 10px;"></span>
+  <a href="https://hocanki.com/cach-huong-dan-anki-hoat-dong/]" target="_blank">
+    <button style="flex: 1; font-size: 28px; padding: 10px; height: 80px; margin-top: 10px; background: #D71313; font-weight: 600; color: #EEEDED;">ĐỌC NGAY</button>
+  </a>
 </div>
 
 ___
