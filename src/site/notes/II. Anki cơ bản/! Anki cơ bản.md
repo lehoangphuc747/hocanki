@@ -6,8 +6,10 @@
 
 ## Lưu ý
 
-👑: Nội dung trả phí / thành viên nhóm Hướng dẫn
-❌: Nội bộ Obsidian. Vui lòng không truy cập. Truy cập link ✅ và 👑.
+✅ Free
+👑 Nội dung trả phí / thành viên nhóm Hướng dẫn
+❌ Backlink Obsidian nơi mình lên ý tưởng, content,... Không thể truy cập.
+
 ___
 ## 01. Tải, cài đặt & Đồng bộ
 > [[II. Anki cơ bản/Tải và cài đặt Anki\|✅ Tải và cài đặt Anki]] 
