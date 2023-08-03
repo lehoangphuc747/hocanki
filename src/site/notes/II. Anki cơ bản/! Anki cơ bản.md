@@ -34,15 +34,18 @@ ___
 > [👑 Tạo Deck (máy tính)](https://www.facebook.com/100006970567626/videos/269699682445236/)
 > [[Tạo Deck (máy tính)\| ❌ Obsidian]]
 
+
 > [👑 Tạo Subdeck (máy tính)](https://www.facebook.com/100006970567626/videos/1309708296640380/)
 > [[Tạo Subdeck (máy tính) \| ❌ Obsidian]]
 
-> [👑 Cách tạo Deck và Subdeck (Bộ thẻ và bộ thẻ con)](https://www.facebook.com/100006970567626/videos/948967736190048/) 
-> [[Cách tạo Deck và Subdeck (Bộ thẻ và bộ thẻ con) \| ❌Obsidian]]
+
+> [👑 Cách tạo Deck và Subdeck (Bộ thẻ và bộ thẻ con) - Khóa trước](https://www.facebook.com/100006970567626/videos/948967736190048/) 
+> [[II. Anki cơ bản/Cách tạo Deck và Subdeck (Bộ thẻ và bộ thẻ con) - Khóa trước\| ❌Obsidian]]
 
 
 > [👑 Tạo, quản lý và học Anki theo Tags](https://www.facebook.com/100006970567626/videos/1735576880208862/) 
 > [[Tạo, quản lý và học Anki theo Tags \| ❌Obsidian]]
+
 
 > [👑 Xóa tags không sử dụng (Unused Tags)](https://www.facebook.com/groups/ankikhoa2/posts/658428619672774/)
 > [[II. Anki cơ bản/Xóa tags không sử dụng (Unused Tags)\| ❌Obsidian]]
