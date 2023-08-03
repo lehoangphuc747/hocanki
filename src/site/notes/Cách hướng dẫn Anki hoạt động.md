@@ -27,17 +27,23 @@ Mình sẽ chia nhỏ nội dung hết sức có thể, để mọi người có
 
 ĐƠN GIẢN → DỄ THỰC HIỆN → CÓ THỂ LÀM NGAY
 
-# Sau khi hoàn thành 1 hướng dẫn (Đọc, xem video, thực hành)
-Mọi người vui lòng Đánh dấu **<font color="#0070c0">Xong</font>** giúp mình ạ.
-
-![](https://i.imgur.com/qd9yt7M.png)
-
-
 # 3 kiểu Link trên Web:
 
 ✅ Free  
 👑 Nội dung trả phí / thành viên nhóm Hướng dẫn có thể truy cập
 ❌ Backlink Obsidian nơi mình lên ý tưởng, content,... Không thể truy cập.
+
+# Sau khi hoàn thành 1 hướng dẫn (Đọc, xem video, thực hành)
+Mọi người vui lòng Đánh dấu **<font color="#0070c0">Xong</font>** giúp mình ạ.
+
+![](https://i.imgur.com/qd9yt7M.png)
+
+# Gặp vấn đề, thắc mắc, muốn trao đổi
+
+Có thể nhắn tin trực tiếp theo thông tin liên hệ ở [[🌟 Học Anki🌟\|Trang chủ]].
+Mọi người hãy mạnh dạn hỏi lên nha.
+Hỏi càng nhiều thì càng có lợi cho bản thân mình thôi ạ.
+![](https://i.imgur.com/hK7zf9H.png)
 
 ___
 
