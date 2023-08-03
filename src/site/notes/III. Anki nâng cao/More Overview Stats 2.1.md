@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/iii-anki-nang-cao/more-overview-stats-2-1/","noteIcon":""}
+{"dg-publish":true,"permalink":"/iii-anki-nang-cao/more-overview-stats-2-1/","noteIcon":3}
 ---
+
+#add-ons 
 
 [[III. Anki nâng cao/! Anki Nâng cao\|! Anki Nâng cao]]
 [[II. Anki cơ bản/Top Add-ons (Khuyến nghị)\|Top Add-ons (Khuyến nghị)]]
