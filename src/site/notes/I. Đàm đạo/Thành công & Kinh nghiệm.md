@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/i-dam-dao/thanh-cong-and-kinh-nghiem/","noteIcon":""}
+{"dg-publish":true,"permalink":"/i-dam-dao/thanh-cong-and-kinh-nghiem/","noteIcon":3}
 ---
 
 > [[I. Đàm đạo/! Đàm đạo\|Quay lại]]
+
 ___
 # Vốn từ ~20,000 nhờ Anki
 
