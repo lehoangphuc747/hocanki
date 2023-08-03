@@ -7,7 +7,7 @@
 ## Lưu ý
 
 ✅ Free
-👑 Nội dung trả phí / thành viên nhóm Hướng dẫn
+👑 Nội dung trả phí / thành viên nhóm Hướng dẫn có thể truy cập
 ❌ Backlink Obsidian nơi mình lên ý tưởng, content,... Không thể truy cập.
 
 ___
