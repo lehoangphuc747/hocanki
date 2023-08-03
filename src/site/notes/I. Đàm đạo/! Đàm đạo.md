@@ -6,6 +6,9 @@ Là mấy nội dung mình xàm xí về Anki và chuỗi hướng dẫn này.
 
 > [[🌟 Học Anki🌟\|Quay lại]]
 ___
+
+# [[I. Đàm đạo/Cách hướng dẫn Anki hoạt động\|Cách hướng dẫn Anki hoạt động]]
+
 # [[I. Đàm đạo/1.1 Giới thiệu\|Giới thiệu]]
 # [[I. Đàm đạo/1.2 Anki là gì\|Anki là gì?]]
 # [[I. Đàm đạo/1.3 Tại sao mình dùng Anki\|Tại sao mình dùng Anki?]]
