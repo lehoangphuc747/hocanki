@@ -12,7 +12,7 @@
     <button style="flex: 1; font-size: 28px; padding: 10px; height: 80px; margin-top: 10px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent);">Nhóm Hướng dẫn Anki <br>(Truy cập)</button>
   </a>
   <span style="width: 10px;"></span>
-  <a href="https://hocanki.com/cach-huong-dan-anki-hoat-dong/" target="_blank">
+  <a href="https://hocanki.vercel.app/i-dam-dao/cach-huong-dan-anki-hoat-dong/" target="_blank">
     <button style="flex: 1; font-size: 28px; padding: 10px; height: 80px; margin-top: 10px; background: #D71313; font-weight: 600; color: #EEEDED;">ĐỌC NGAY</button>
   </a>
 </div>
