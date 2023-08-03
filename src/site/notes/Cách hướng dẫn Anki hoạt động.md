@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cach-huong-dan-anki-hoat-dong/","noteIcon":1}
+{"dg-publish":true,"permalink":"/cach-huong-dan-anki-hoat-dong/","hide":true,"noteIcon":1}
 ---
 
 #Homepage
