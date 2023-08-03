@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hoc-anki/","title":"HỌC ANKI","pinned":true,"tags":["gardenEntry"],"noteIcon":2}
+{"dg-publish":true,"permalink":"/hoc-anki/","title":"HỌC ANKI","pinned":true,"tags":["gardenEntry"],"noteIcon":3}
 ---
 
 # <center>🌟 **Học Anki** 🌟</center>
