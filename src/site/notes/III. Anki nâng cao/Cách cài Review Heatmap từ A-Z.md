@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/iii-anki-nang-cao/cach-cai-review-heatmap-tu-a-z/","noteIcon":""}
+{"dg-publish":true,"permalink":"/iii-anki-nang-cao/cach-cai-review-heatmap-tu-a-z/","noteIcon":3}
 ---
+
+#add-ons 
 
 (theo dõi quá trình và tạo động lực học Anki)
 
 [[III. Anki nâng cao/! Anki Nâng cao\|II. Anki nâng cao]]
 ___
-
-#add-ons 
 
 [Review Heatmap - AnkiWeb](https://ankiweb.net/shared/info/1771074083)
 **Code:** 1771074083
