@@ -12,6 +12,7 @@ ___
 
 Nội dung sẽ được đăng trong nhóm Facebook (Private) và dẫn link trên [hocanki.com](https://hocanki.com/).
 Chỉ những ai có trong nhóm mới có thể truy cập các nội dung.
+Các nội dung được soạn và xây dựng dựa trên nền tảng là [Obsidian](https://obsidian.md/) sử dụng Plugin [Digital Garden](https://github.com/oleeskild/obsidian-digital-garden).
 
 ![](https://i.imgur.com/9l5zKUR.png)
 
