@@ -13,7 +13,7 @@
 ___
 ## 01. Tải, cài đặt & Đồng bộ
 
-> [[✅ Tải và cài đặt Anki\|✅ Tải và cài đặt Anki]]
+> [[II. Anki cơ bản/Tải và cài đặt Anki\|✅ Tải và cài đặt Anki]]
 
 > [[II. Anki cơ bản/Đăng ký tài khoản AnkiWeb\| ✅ Đăng ký tài khoản AnkiWeb]] 
 
