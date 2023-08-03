@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hoc-anki/","title":"HỌC ANKI","pinned":true,"tags":["trang chủ","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":1}
+{"dg-publish":true,"permalink":"/hoc-anki/","title":"HỌC ANKI","pinned":true,"tags":["trang chủ","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":1}
 ---
 
 # <center>🌟 **Học Anki** 🌟</center>
