@@ -2,10 +2,11 @@
 {"dg-publish":true,"permalink":"/iii-anki-nang-cao/multiple-choice-support-tao-the-dang-trac-nghiem-multiple-choice-bang-anki/","noteIcon":""}
 ---
 
-> [[! Anki Nâng cao \| Quay lại]]
-___
+#multiple-choice #add-ons
 
-#multiple-choice #add-ons 
+> [[! Anki Nâng cao \| Quay lại]]
+
+___ 
 
 Truy cập: [Link](https://ankivn.com/huong-dan/multiple-choice/)
 
