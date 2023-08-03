@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/i-dam-dao/dam-dao/","title":"Đàm đạo","noteIcon":3}
+{"dg-publish":true,"permalink":"/i-dam-dao/dam-dao/","title":"Đàm đạo","noteIcon":null}
 ---
 
 Là mấy nội dung mình xàm xí về Anki và chuỗi hướng dẫn này.
