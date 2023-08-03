@@ -17,7 +17,9 @@ ___
 
 > [[II. Anki cơ bản/Đăng ký tài khoản AnkiWeb\| ✅ Đăng ký tài khoản AnkiWeb]] 
 
-###### [👑 Hiểu về đồng bộ hóa Anki](https://www.facebook.com/groups/ankikhoa2/posts/656841203164849/)  
+> [👑 Hiểu về đồng bộ hóa Anki](https://www.facebook.com/groups/ankikhoa2/posts/656841203164849/)  
+{ #5868bf}
+
 
 > [[II. Anki cơ bản/Đồng bộ hóa Anki trên máy tính\|✅ Đồng bộ hóa Anki trên máy tính]]
 
