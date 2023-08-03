@@ -56,7 +56,7 @@ ___
 ## Tạo thẻ
 
 > [👑 Note, Card và sự khác nhau](https://www.facebook.com/groups/ankikhoa2/posts/658651092983860/)
-[[II. Anki cơ bản/Note, Card và sự khác nhau\| ❌Obsidian]]
+> [[II. Anki cơ bản/Note, Card và sự khác nhau\| ❌Obsidian]]
 
 [[Tạo thẻ Basic (English, Cambridge)\| ❌ Obsidian]]
 Tạo thẻ Basic (and reversed card)
