@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ii-anki-co-ban/anki-co-ban/","title":"Anki cơ bản","noteIcon":2}
+{"dg-publish":true,"permalink":"/ii-anki-co-ban/anki-co-ban/","title":"Anki cơ bản","noteIcon":"1d"}
 ---
 
 > [[🌟 Học Anki🌟\|Quay lại]]
