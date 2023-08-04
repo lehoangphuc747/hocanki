@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ii-anki-co-ban/dong-bo-hoa-anki-tren-android/","noteIcon":""}
+{"dg-publish":true,"permalink":"/ii-anki-co-ban/dong-bo-hoa-anki-tren-android/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 #AnkiWeb #Sync #Android
