@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ii-anki-co-ban/020-anki-co-ban-publish/","title":"Anki cơ bản","pinned":true,"noteIcon":1}
+{"dg-publish":true,"dg-pinned":true,"dg-note-icon":1,"title":"Anki cơ bản","permalink":"/ii-anki-co-ban/020-anki-co-ban-publish/","pinned":true,"dgPassFrontmatter":true,"noteIcon":1}
 ---
 
 > [[000 🌟 Học Anki🌟\|Quay lại]]
