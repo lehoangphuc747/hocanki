@@ -94,4 +94,4 @@ Copy đoạn code sau thay thế đoạn code trong Anki và bấm OK.
 Nhóm hỗ trợ phần mềm:
 > [Truy cập](https://m.me/j/Abaid3A2BVa9TAbp/)
 ___
-> [[🌟 Học Anki🌟\|Quay lại]]
+> [[000 🌟 Học Anki🌟\|Quay lại]]
