@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/iii-anki-nang-cao/cach-cai-review-heatmap-tu-a-z/","noteIcon":null}
+{"dg-publish":true,"dg-note-icon":null,"permalink":"/iii-anki-nang-cao/cach-cai-review-heatmap-tu-a-z/","dgPassFrontmatter":true,"noteIcon":null}
 ---
 
 #add-ons 
