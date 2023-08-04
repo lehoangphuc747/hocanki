@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/i-dam-dao/cach-huong-dan-anki-hoat-dong/","hide":true,"noteIcon":1}
 ---
 
-> [[I. Đàm đạo/! Đàm đạo\|Quay lại]]
+> [[I. Đàm đạo/010 Đàm đạo\|Quay lại]]
 
 ___
 
@@ -38,11 +38,11 @@ Mọi người vui lòng Đánh dấu **<font color="#0070c0">Xong</font>** giú
 
 # Gặp vấn đề, thắc mắc, muốn trao đổi
 
-Có thể nhắn tin trực tiếp theo thông tin liên hệ ở [[🌟 Học Anki🌟\|Trang chủ]].
+Có thể nhắn tin trực tiếp theo thông tin liên hệ ở [[000 🌟 Học Anki🌟\|Trang chủ]].
 Mọi người hãy mạnh dạn hỏi lên nha.
 Hỏi càng nhiều thì càng có lợi cho bản thân mình thôi ạ.
 ![](https://i.imgur.com/hK7zf9H.png)
 
 ___
 
-> [[🌟 Học Anki🌟\| Trang chủ]]
+> [[000 🌟 Học Anki🌟\| Trang chủ]]
