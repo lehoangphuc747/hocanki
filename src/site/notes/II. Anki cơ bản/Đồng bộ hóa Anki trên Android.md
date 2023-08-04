@@ -4,7 +4,7 @@
 
 #AnkiWeb #Sync #Android
 
-> [[II. Anki cơ bản/! Anki cơ bản publish\| Quay lại]]
+> [[II. Anki cơ bản/020 Anki cơ bản publish\| Quay lại]]
 
 ___
 
@@ -14,4 +14,4 @@ ___
 
 ___
 
-> [[II. Anki cơ bản/! Anki cơ bản publish\| Quay lại]]
+> [[II. Anki cơ bản/020 Anki cơ bản publish\| Quay lại]]
