@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/v-loi/loi-vui-long-su-dung-chuc-nang-kiem-tra-co-so-du-lieu-check-database/","noteIcon":""}
+{"dg-publish":true,"permalink":"/v-loi/loi-vui-long-su-dung-chuc-nang-kiem-tra-co-so-du-lieu-check-database/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 #Lỗi
