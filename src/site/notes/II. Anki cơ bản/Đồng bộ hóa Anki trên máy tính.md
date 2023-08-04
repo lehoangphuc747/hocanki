@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ii-anki-co-ban/dong-bo-hoa-anki-tren-may-tinh/","noteIcon":""}
+{"dg-publish":true,"permalink":"/ii-anki-co-ban/dong-bo-hoa-anki-tren-may-tinh/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 #AnkiWeb #Sync #Windows 
