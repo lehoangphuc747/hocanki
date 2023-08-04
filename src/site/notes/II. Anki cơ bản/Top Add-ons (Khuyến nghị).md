@@ -4,13 +4,11 @@
 
 #add-ons 
 
-[[000 🌟 Học Anki🌟\|000 🌟 Học Anki🌟]]
+> [[000 🌟 Học Anki🌟\|Quay lại]]
+
 ___
 Dưới đây là một số Add-ons mà mình sử dụng hoặc đã test qua. 
 Mọi người xem xét và tùy theo nhu cầu của mình mà lựa chọn nhé.
-
-> [!warning] Chú ý
-> Link nội bộ, không chia sẻ ra ngoài
 
 # Cách cài Review Heatmap từ A-Z
 [[III. Anki nâng cao/Cách cài Review Heatmap từ A-Z\|Xem hướng dẫn]]
@@ -44,8 +42,6 @@ code: **1497603664**
 ![](https://i.imgur.com/QERgkECh.png)
 ![](https://i.imgur.com/LPsOO0el.png)
 
+___
 
-
-
-
-
+> [[000 🌟 Học Anki🌟\|Quay lại]]
