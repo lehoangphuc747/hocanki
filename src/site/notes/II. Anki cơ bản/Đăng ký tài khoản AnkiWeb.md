@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ii-anki-co-ban/dang-ky-tai-khoan-anki-web/","noteIcon":""}
+{"dg-publish":true,"permalink":"/ii-anki-co-ban/dang-ky-tai-khoan-anki-web/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 #AnkiWeb #Sync
