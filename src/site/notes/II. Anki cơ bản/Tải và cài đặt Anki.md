@@ -4,7 +4,7 @@
 
 #Download 
 
-> [[II. Anki cơ bản/! Anki cơ bản publish\|Quay lại]]
+> [[II. Anki cơ bản/020 Anki cơ bản publish\|Quay lại]]
 ___
 
 <div style="display: flex; justify-content: center; cursor: pointer;">
@@ -91,4 +91,4 @@ Chọn phiên bản phù hợp với bản thân:
 ![](https://i.imgur.com/TcSTosj.png)
 
 ___
-> [[II. Anki cơ bản/! Anki cơ bản publish\|Quay lại]]
+> [[II. Anki cơ bản/020 Anki cơ bản publish\|Quay lại]]
