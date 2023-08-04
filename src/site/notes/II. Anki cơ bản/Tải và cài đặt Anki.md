@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ii-anki-co-ban/tai-va-cai-dat-anki/","noteIcon":""}
+{"dg-publish":true,"permalink":"/ii-anki-co-ban/tai-va-cai-dat-anki/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 #Download 
