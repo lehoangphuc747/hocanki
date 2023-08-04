@@ -10,7 +10,7 @@ ___
 
 
 > [!warning] Lỗi: Vui lòng sử dụng chức năng Kiểm tra Cơ sở dữ Liệu (Check Database)
->> [[Lỗi Vui lòng sử dụng chức năng Kiểm tra Cơ sở dữ Liệu (Check Database) \| Xem hướng dẫn]]
+>> [[V. Lỗi/Lỗi Vui lòng sử dụng chức năng Kiểm tra Cơ sở dữ Liệu (Check Database)\| Xem hướng dẫn]]
 > 
 > ![](https://i.imgur.com/MSVHaMe.png)
 
