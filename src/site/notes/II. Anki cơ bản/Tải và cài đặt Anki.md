@@ -78,7 +78,7 @@ Chọn phiên bản phù hợp với bản thân:
 >  Chi phí: 20,000đ
 
 <div style="display: flex; justify-content: center; cursor: pointer;">
-<a href="https://apps.ankiweb.net/downloads/archive/anki-2.1.49-windows.exe" target="_blank">
+<a href="https://ankivn.com/thue-anki/" target="_blank">
 <button style=" font-size: 30px; padding: 10px; height: fit-content; margin-bottom: 30px; margin-top: 20px; background: #C51605; font-weight: 600; color: white; "> Thuê Anki </button> 
 </a>
 </div>
