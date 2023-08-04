@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ii-anki-co-ban/top-add-ons-khuyen-nghi/","noteIcon":""}
+{"dg-publish":true,"permalink":"/ii-anki-co-ban/top-add-ons-khuyen-nghi/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 #add-ons 
