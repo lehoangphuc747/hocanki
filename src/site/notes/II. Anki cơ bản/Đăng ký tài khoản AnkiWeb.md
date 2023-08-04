@@ -4,7 +4,7 @@
 
 #AnkiWeb #Sync
 
-> [[II. Anki cơ bản/! Anki cơ bản publish\|Quay lại]]
+> [[II. Anki cơ bản/020 Anki cơ bản publish\|Quay lại]]
 
 ___
 
@@ -23,4 +23,4 @@ Nếu không tìm thấy, hãy thử tìm ở mục thư rác.
 
 ___
 
-> [[II. Anki cơ bản/! Anki cơ bản publish\|Quay lại]]
+> [[II. Anki cơ bản/020 Anki cơ bản publish\|Quay lại]]
