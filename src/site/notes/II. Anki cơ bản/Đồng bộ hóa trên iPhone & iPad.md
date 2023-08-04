@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ii-anki-co-ban/dong-bo-hoa-tren-i-phone-and-i-pad/","noteIcon":""}
+{"dg-publish":true,"permalink":"/ii-anki-co-ban/dong-bo-hoa-tren-i-phone-and-i-pad/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 #AnkiWeb #iOS #Sync 
