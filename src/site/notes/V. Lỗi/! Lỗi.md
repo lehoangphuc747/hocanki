@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/v-loi/loi/","title":"Lỗi","noteIcon":1}
+{"dg-publish":true,"title":"Lỗi","dg-note-icon":1,"permalink":"/v-loi/loi/","dgPassFrontmatter":true,"noteIcon":1}
 ---
 
 
