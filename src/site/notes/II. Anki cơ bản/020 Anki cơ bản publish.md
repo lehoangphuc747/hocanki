@@ -64,8 +64,16 @@ ___
 { #994d8d}
 
 
-> [👑 Tạo thẻ Basic (ví dụ English và từ điển Cambridge)](https://www.facebook.com/100006970567626/videos/270185489085121/)
+> [👑 Tạo thẻ Basic (ví dụ English và từ điển Cambridge) - Thẻ xuôi](https://www.facebook.com/100006970567626/videos/270185489085121/)
 { #13dbf5}
+
+
+> [👑 Tạo thẻ Basic (and reversed card) - Thẻ ngược xuôi](https://www.facebook.com/100006970567626/videos/307515391787740/)
+{ #922c44}
+
+
+> [👑 Tạo thẻ Basic (optional reversed card) - Thẻ xuôi + Ngược tùy chọn](https://www.facebook.com/100006970567626/videos/588292580172236/)
+{ #0cb7f5}
 
 
 ## Nâng cấp thẻ
