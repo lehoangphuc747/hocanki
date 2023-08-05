@@ -88,7 +88,7 @@
 </g>
 </svg> </center>
 
-## <center>Hướng dẫn làm quen Anki cho người mới</center>
+### <center>Hướng dẫn làm quen Anki cho người mới</center>
 
 <span style="font-size: 30px;">Liên hệ: </span> &nbsp; [<img  src="https://i.imgur.com/CZ7hhJg.png" width="80">](https://www.facebook.com/tui.la.phuc747)  [<img  src="https://i.imgur.com/HNBJNZE.png" width="30">](https://zalo.me/346598402) [<img  src="https://i.imgur.com/9PROKnb.png" width="30">](https://t.me/lehoangphuc747)
 
