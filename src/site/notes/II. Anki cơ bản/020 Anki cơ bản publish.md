@@ -43,7 +43,7 @@ ___
 
 
 
-> [👑 Cách tạo Deck và Subdeck (Bộ thẻ và bộ thẻ con) - Khóa trước](https://www.facebook.com/100006970567626/videos/948967736190048/) 
+> [👑 Cách tạo Deck và Subdeck (Bộ thẻ và bộ thẻ con) - Video cũ](https://www.facebook.com/100006970567626/videos/948967736190048/) 
 { #efd560}
 
 
