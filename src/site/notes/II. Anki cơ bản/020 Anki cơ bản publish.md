@@ -34,7 +34,7 @@ ___
 
 ## Tạo Deck & Tags
 
-> [👑 Tạo Deck (máy tính)](https://www.facebook.com/100006970567626/videos/269699682445236/)
+> [[II. Anki cơ bản/Tạo Deck (máy tính)\| ✅ Tạo Deck (máy tính)]]
 { #6ba169}
 
 
