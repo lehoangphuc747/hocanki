@@ -120,7 +120,7 @@ Tìm hiểu các Add-ons, Extension, chỉnh sửa giao diện Anki và bộ th�
 > [[IV. Mẹo & thủ thuật/IV. Tips & Tricks\|Truy cập]]
 
 # V. Lỗi
-> [[! Lỗi \| Truy cập]]
+> [[V. Lỗi/! Lỗi\|Truy cập]]
 
 # VI. Tổng hợp một số bộ thẻ
 ___
