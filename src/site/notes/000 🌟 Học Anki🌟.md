@@ -117,7 +117,7 @@ Tìm hiểu các Add-ons, Extension, chỉnh sửa giao diện Anki và bộ th�
 > [[III. Anki nâng cao/! Anki Nâng cao\|Truy cập]]
 
 # IV. Tips & Tricks
-> [[IV. Mẹo & thủ thuật/Tips & Tricks\|Truy cập]]
+> [[IV. Mẹo & thủ thuật/IV. Tips & Tricks\|Truy cập]]
 
 # V. Lỗi
 > [[! Lỗi \| Truy cập]]
