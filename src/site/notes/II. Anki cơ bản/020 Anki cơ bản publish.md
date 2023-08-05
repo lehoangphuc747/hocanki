@@ -76,6 +76,10 @@ ___
 { #0cb7f5}
 
 
+> [👑 Tạo thẻ Basic (type in the answer) - Gõ đáp án](https://www.facebook.com/100006970567626/videos/251641787687604/)
+{ #0c4501}
+
+
 ## Nâng cấp thẻ
 
 > [👑 Tên Fields, Fields](https://www.facebook.com/groups/ankikhoa2/posts/659349429580693/)
