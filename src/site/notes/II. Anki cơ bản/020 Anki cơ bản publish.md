@@ -80,6 +80,14 @@ ___
 { #0c4501}
 
 
+> [👑 Tạo thẻ Cloze - Ẩn thường](https://www.facebook.com/100006970567626/videos/601618848830670/)
+{ #00bf51}
+
+
+> 👑 [Tạo thẻ Cloze - Ẩn đồng thời](https://www.facebook.com/groups/ankikhoa2/permalink/660008729514763/)
+{ #c0c78f}
+
+
 ## Nâng cấp thẻ
 
 > [👑 Tên Fields, Fields](https://www.facebook.com/groups/ankikhoa2/posts/659349429580693/)
