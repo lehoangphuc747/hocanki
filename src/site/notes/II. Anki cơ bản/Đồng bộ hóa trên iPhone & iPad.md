@@ -10,6 +10,7 @@ ___
 
 > [Truy cập nhóm Hướng dẫn](https://www.facebook.com/100006970567626/videos/837128328047101/)
 
+> ⚠️ Trước khi đồng bộ: [[II. Anki cơ bản/Hiểu về đồng bộ hóa Anki\|Hiểu về đồng bộ hóa Anki]]
 
 ![](https://www.youtube.com/watch?v=aHGa2oDWzKE)
 
