@@ -21,6 +21,18 @@ Nếu không tìm thấy, hãy thử tìm ở mục thư rác.
 
 > [Gặp vấn đề liên quan đến tạo tài khoản AnkiWeb → Nhắn tin cho mình](https://www.facebook.com/tui.la.phuc747)
 
+
+
+## Tiến hành đồng bộ
+
+> ⚠️ Trước khi đồng bộ: [[II. Anki cơ bản/Hiểu về đồng bộ hóa Anki\|Hiểu về đồng bộ hóa Anki]]
+
+> [[II. Anki cơ bản/Đồng bộ hóa Anki trên máy tính\|✅ Đồng bộ hóa Anki trên máy tính]]
+
+> [[II. Anki cơ bản/Đồng bộ hóa trên iPhone & iPad\|✅ Đồng bộ hóa trên iPhone & iPad]]
+
+> [[II. Anki cơ bản/Đồng bộ hóa Anki trên Android\|✅ Đồng bộ hóa Anki trên Android]]
+
 ___
 
 > [[II. Anki cơ bản/020 Anki cơ bản publish\|Quay lại]]
