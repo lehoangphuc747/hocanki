@@ -116,6 +116,9 @@ Nắm vững các kiến thức cơ bản của Anki.
 > [[II. Anki cơ bản/020 Anki cơ bản publish\|Truy cập]]
 
 # III. Anki nâng cao
+{ #773ef1}
+
+
 Tìm hiểu các Add-ons, Extension, chỉnh sửa giao diện Anki và bộ thẻ.
 > [[III. Anki nâng cao/030 Anki Nâng cao publish\|Truy cập]]
 
