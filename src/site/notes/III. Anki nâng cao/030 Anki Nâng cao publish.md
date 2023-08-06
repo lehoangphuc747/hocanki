@@ -23,13 +23,15 @@ ___
 { #ad84a8}
 
 
-## Easy Learn Word - Đọc báo, Youtube
-⚠️ Đang phát triển
-> [[III. Anki nâng cao/Easy Learn Word\|Easy Learn Word]]
+> [👑 Easy Learn Word (Extension) - Đọc báo, Youtube]()
+> ⚠️ Đang phát triển
+{ #6a1a00}
+
 
 # 💎Nâng cao
-## Multiplce Choice Support - Thẻ trắc nghiệm
 >[[III. Anki nâng cao/Multiple Choice Support - Tạo thẻ dạng trắc nghiệm (Multiple Choice) bằng Anki\|Multiple Choice Support - Tạo thẻ dạng trắc nghiệm (Multiple Choice) bằng Anki]]
+{ #ebb6b6}
+
 
 ___
 > [[000 🌟 Học Anki🌟\|Quay lại]]
