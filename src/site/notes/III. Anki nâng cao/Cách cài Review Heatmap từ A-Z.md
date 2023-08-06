@@ -6,7 +6,7 @@
 
 (theo dõi quá trình và tạo động lực học Anki)
 
-[[III. Anki nâng cao/! Anki Nâng cao\|II. Anki nâng cao]]
+[[III. Anki nâng cao/030 Anki Nâng cao\|II. Anki nâng cao]]
 ___
 
 [Review Heatmap - AnkiWeb](https://ankiweb.net/shared/info/1771074083)
