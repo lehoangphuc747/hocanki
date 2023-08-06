@@ -8,8 +8,9 @@
 
 ___
 
-![](https://i.imgur.com/NQTkJEb.png)
+Lỗi xuất hiện khi đồng bộ qua [[II. Anki cơ bản/Đăng ký tài khoản AnkiWeb\|AnkiWeb]]
 
+![](https://i.imgur.com/NQTkJEb.png)
 
 # Cách 1: Check Database (Kiểm tra Cơ sở dữ liệu) và đồng bộ lại
 
