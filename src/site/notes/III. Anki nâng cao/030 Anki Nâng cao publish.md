@@ -23,7 +23,7 @@ ___
 { #ad84a8}
 
 
-> [👑 Easy Learn Word (Extension) - Đọc báo, Youtube]()
+> [[III. Anki nâng cao/Easy Learn Word (Extension) - Đọc báo, Youtube,...\|👑 Easy Learn Word (Extension) - Đọc báo, Youtube]]
 > ⚠️ Đang phát triển
 { #6a1a00}
 
