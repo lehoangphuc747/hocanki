@@ -4,9 +4,9 @@
 
 #add-ons 
 
-> [[II. Anki cơ bản/020 Anki cơ bản publish\|Anki cơ bản]]
+> [[II. Anki cơ bản/020 Anki cơ bản publish#^f0c139\|Anki cơ bản]]
 
-> [[II. Anki cơ bản/Top Add-ons (Khuyến nghị)\|Top Add-ons (Khuyến nghị)]]
+> [[II. Anki cơ bản/Top Add-ons (Khuyến nghị)#^846eb6\|Top Add-ons (Khuyến nghị)]]
 
 [[II. Anki cơ bản/021 Anki cơ bản vip#^9d7a38\|❌❌❌]]
 ___
