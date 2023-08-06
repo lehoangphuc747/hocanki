@@ -144,7 +144,7 @@ ___
 
 ![](https://i.imgur.com/H6CkcYh.png)
 
-> [👑 ]()
+> [[III. Anki nâng cao/More Overview Stats 2.1\| 👑 More Overview Stats 2.1]]
 
 ![](https://i.imgur.com/z5to9Cx.png)
 ___
