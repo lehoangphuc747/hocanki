@@ -4,7 +4,7 @@
 
 #add-ons 
 
-[[III. Anki nâng cao/030 Anki Nâng cao\|030 Anki Nâng cao]]
+[[III. Anki nâng cao/030 Anki Nâng cao publish\|030 Anki Nâng cao publish]]
 [[II. Anki cơ bản/Top Add-ons (Khuyến nghị)\|Top Add-ons (Khuyến nghị)]]
 ___
 [More Overview Stats 2.1 - AnkiWeb](https://ankiweb.net/shared/info/738807903)
