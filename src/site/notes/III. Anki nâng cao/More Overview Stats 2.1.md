@@ -4,8 +4,11 @@
 
 #add-ons 
 
-[[III. Anki nâng cao/030 Anki Nâng cao publish\|030 Anki Nâng cao publish]]
-[[II. Anki cơ bản/Top Add-ons (Khuyến nghị)\|Top Add-ons (Khuyến nghị)]]
+> [[II. Anki cơ bản/020 Anki cơ bản publish\|Anki cơ bản]]
+
+> [[II. Anki cơ bản/Top Add-ons (Khuyến nghị)\|Top Add-ons (Khuyến nghị)]]
+
+[[II. Anki cơ bản/021 Anki cơ bản vip#^9d7a38\|❌❌❌]]
 ___
 [More Overview Stats 2.1 - AnkiWeb](https://ankiweb.net/shared/info/738807903)
 Code: **738807903**
