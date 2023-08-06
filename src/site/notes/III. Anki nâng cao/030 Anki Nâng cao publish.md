@@ -6,32 +6,22 @@ Tìm hiểu các Add-ons, Extension, chỉnh sửa giao diện Anki và bộ th�
 
 > [[000 🌟 Học Anki🌟\|Quay lại]]
 
-> [[031 Anki nâng cao\|❌ Không truy cập]]
+> [[031 Anki nâng cao vip\|❌ Không truy cập]]
 
 ___
 
-# 🕶️ Nâng cao trải nghiệm học
-## Review Heatmap - 💪 Động lực, quá trình
-{ #b68e51}
-
-
-
-![](https://i.imgur.com/H6CkcYh.png)
-
-## More Overview Stats 2.1 - 📊 Thông tin
->[[III. Anki nâng cao/More Overview Stats 2.1\|More Overview Stats 2.1]]
-
-![](https://i.imgur.com/z5to9Cx.png)
-
 # 🔭 Thêm từ khi đọc báo, xem Youtube, đọc file PDF
 
-## Read Pronunciation - Đọc báo, Youtube, đọc PDF
-(từ điển: Google Traslate, Wiktionary, Wikipedia)
-> [[III. Anki nâng cao/Read Pronunciation - Thêm từ vựng khi lướt Web đọc báo, xem Youtube, Netflix, đọc file PDF (English & French)\|Read Pronunciation - Thêm từ vựng khi lướt Web đọc báo, xem Youtube, Netflix, đọc file PDF (English & French)]] 
 
-## ReadingLWT (Windows) - Đọc báo, đọc PDF
-(từ điển: Cambridge, Oxford, Macmillan, Longman, Collins,...)
-> [[III. Anki nâng cao/ReadingLWT - Cách thêm từ vựng nhanh khi lướt Web, đọc file PDF (từ điển Anh-Việt, Oxford, Cambridge, Longman,..)\|ReadingLWT - Cách thêm từ vựng nhanh khi lướt Web, đọc file PDF (từ điển Anh-Việt, Oxford, Cambridge, Longman,..)]]
+> [👑 Read Pronunciation ](https://www.facebook.com/groups/ankikhoa2/posts/653970943451875/)
+> (từ điển hỗ trợ: Google Traslate, Wiktionary, Wikipedia)
+{ #c52051}
+
+
+> [👑 ReadingLWT (Windows) - Cách thêm từ vựng nhanh khi lướt Web, đọc file PDF (từ điển Anh-Việt, Oxford, Cambridge, Longman,..)](https://www.facebook.com/100006970567626/videos/249611901177402/)
+> (từ điển hỗ trợ: Cambridge, Oxford, Macmillan, Longman, Collins,...)
+{ #ad84a8}
+
 
 ## Easy Learn Word - Đọc báo, Youtube
 ⚠️ Đang phát triển
