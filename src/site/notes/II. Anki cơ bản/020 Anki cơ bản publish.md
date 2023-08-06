@@ -135,6 +135,18 @@ ___
 > [👑 Suspended Card](https://www.facebook.com/100006970567626/videos/1013283566338415/)
 { #63b333}
 
+
+## Nâng cao trải nghiệm học
+
+> [👑 Review Heatmap - 💪 Động lực, quá trình](https://www.facebook.com/100006970567626/videos/1324566178460463/)
+{ #debb02}
+
+
+![](https://i.imgur.com/H6CkcYh.png)
+
+> [👑 ]()
+
+![](https://i.imgur.com/z5to9Cx.png)
 ___
 
 > [[000 🌟 Học Anki🌟\|Quay lại]]
