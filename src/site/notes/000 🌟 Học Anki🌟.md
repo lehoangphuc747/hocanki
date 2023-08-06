@@ -109,6 +109,9 @@ Là mấy nội dung mình xàm xí về Anki và chuỗi hướng dẫn này.
 > [[I. Đàm đạo/010 Đàm đạo\|Truy cập]]
 
 # II. Anki cơ bản
+{ #7c410d}
+
+
 Nắm vững các kiến thức cơ bản của Anki.
 > [[II. Anki cơ bản/020 Anki cơ bản publish\|Truy cập]]
 
