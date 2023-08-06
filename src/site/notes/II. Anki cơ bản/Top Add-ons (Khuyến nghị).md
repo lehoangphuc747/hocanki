@@ -19,6 +19,9 @@ code: **1771074083**
 
 
 # More Overview Stats 2.1
+{ #846eb6}
+
+
 [[III. Anki nâng cao/More Overview Stats 2.1\|Xem hướng dẫn]]
 
 Code: **738807903**
