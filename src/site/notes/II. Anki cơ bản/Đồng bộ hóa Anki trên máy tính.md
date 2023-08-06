@@ -9,9 +9,9 @@
 ___
 > [Truy cập nhóm Hướng dẫn](https://www.facebook.com/100006970567626/videos/1312090109715612/)
 
-> ⚠️ Trước khi đồng bộ: [[II. Anki cơ bản/Hiểu về đồng bộ hóa Anki\|Hiểu về đồng bộ hóa Anki]]
+> ⚠️ Trước khi đồng bộ: [👑 Hiểu về đồng bộ hóa Anki](https://www.facebook.com/groups/ankikhoa2/posts/656841203164849/)
 
-![](https://www.youtube.com/embed/xLIu2s0stXI)
+<iframe width="600" height="350" src="https://www.youtube.com/embed/xLIu2s0stXI" title="Đồng bộ hóa Anki trên máy tính" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ___
 
