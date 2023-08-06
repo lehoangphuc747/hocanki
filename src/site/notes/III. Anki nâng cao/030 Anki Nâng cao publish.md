@@ -29,7 +29,7 @@ ___
 
 
 # 💎Nâng cao
->[[III. Anki nâng cao/Multiple Choice Support - Tạo thẻ dạng trắc nghiệm (Multiple Choice) bằng Anki\|Multiple Choice Support - Tạo thẻ dạng trắc nghiệm (Multiple Choice) bằng Anki]]
+> [👑 Multiple Choice Support - Tạo thẻ dạng trắc nghiệm (Multiple Choice) bằng Anki](https://www.facebook.com/100006970567626/videos/647310920677093/)
 { #ebb6b6}
 
 
