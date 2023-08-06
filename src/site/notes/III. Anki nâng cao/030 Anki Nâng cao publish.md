@@ -13,12 +13,12 @@ ___
 # 🔭 Thêm từ khi đọc báo, xem Youtube, đọc file PDF
 
 
-> [👑 Read Pronunciation ](https://www.facebook.com/groups/ankikhoa2/posts/653970943451875/)
+> [👑 Read Pronunciation (Extension) - Thêm từ vựng khi lướt Web đọc báo, xem Youtube, Netflix, đọc file PDF (English & French) ](https://www.facebook.com/groups/ankikhoa2/posts/653970943451875/) #Extension 
 > (từ điển hỗ trợ: Google Traslate, Wiktionary, Wikipedia)
 { #c52051}
 
 
-> [👑 ReadingLWT (Windows) - Cách thêm từ vựng nhanh khi lướt Web, đọc file PDF (từ điển Anh-Việt, Oxford, Cambridge, Longman,..)](https://www.facebook.com/100006970567626/videos/249611901177402/)
+> [👑 ReadingLWT (Windows) - Cách thêm từ vựng nhanh khi lướt Web, đọc file PDF (từ điển Anh-Việt, Oxford, Cambridge, Longman,..)](https://www.facebook.com/100006970567626/videos/249611901177402/) #phần-mềm 
 > (từ điển hỗ trợ: Cambridge, Oxford, Macmillan, Longman, Collins,...)
 { #ad84a8}
 
