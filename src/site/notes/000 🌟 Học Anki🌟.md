@@ -114,7 +114,7 @@ Nắm vững các kiến thức cơ bản của Anki.
 
 # III. Anki nâng cao
 Tìm hiểu các Add-ons, Extension, chỉnh sửa giao diện Anki và bộ thẻ.
-> [[III. Anki nâng cao/030 Anki Nâng cao\|Truy cập]]
+> [[III. Anki nâng cao/030 Anki Nâng cao publish\|Truy cập]]
 
 # IV. Tips & Tricks
 > [[IV. Mẹo & thủ thuật/IV. Tips & Tricks\|Truy cập]]
