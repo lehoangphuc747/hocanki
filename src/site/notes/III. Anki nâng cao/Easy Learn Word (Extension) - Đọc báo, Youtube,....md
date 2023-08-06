@@ -92,7 +92,7 @@ Copy đoạn code sau thay thế đoạn code trong Anki và bấm OK.
 
 # Cách tra từ và thêm thẻ vào Anki
 
-![](https://www.youtube.com/embed/WW4zfipQfoo)
+<iframe width="1535" height="786" src="https://www.youtube.com/embed/WW4zfipQfoo" title="Search and Create Card | ELW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 
