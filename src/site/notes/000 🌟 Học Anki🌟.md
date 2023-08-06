@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"dg-pinned":true,"dg-note-icon":3,"title":"HỌC ANKI","sticker":"lucide//star","permalink":"/000-hoc-anki/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":3}
+{"dg-publish":true,"dg-home":true,"dg-pinned":true,"dg-note-icon":3,"title":"HỌC ANKI","permalink":"/000-hoc-anki/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":3}
 ---
 
 # <center> <?xml version="1.0" encoding="iso-8859-1"?><!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 512.001 512.001" style="enable-background:new 0 0 512.001 512.001;" xml:space="preserve" width="35">
