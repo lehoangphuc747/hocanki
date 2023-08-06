@@ -4,7 +4,7 @@
 
 #multiple-choice #add-ons
 
-> [[III. Anki nâng cao/030 Anki Nâng cao\| Quay lại]]
+> [[III. Anki nâng cao/030 Anki Nâng cao publish\| Quay lại]]
 
 ___ 
 
