@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/iii-anki-nang-cao/fastbar-with-nightmode-support/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
-[[III. Anki nâng cao/! Anki Nâng cao\|! Anki Nâng cao]]
+[[III. Anki nâng cao/030 Anki Nâng cao\|030 Anki Nâng cao]]
 [[II. Anki cơ bản/Top Add-ons (Khuyến nghị)\|Top Add-ons (Khuyến nghị)]]
 ___
 [Fastbar- with nightmode support - AnkiWeb](https://ankiweb.net/shared/info/46611790)
