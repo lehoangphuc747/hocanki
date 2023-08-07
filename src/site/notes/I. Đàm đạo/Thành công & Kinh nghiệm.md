@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/i-dam-dao/thanh-cong-and-kinh-nghiem/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/i-dam-dao/thanh-cong-and-kinh-nghiem/","dgPassFrontmatter":true}
 ---
 
 > [[I. Đàm đạo/010 Đàm đạo\|Quay lại]]
