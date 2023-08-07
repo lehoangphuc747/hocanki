@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/iii-anki-nang-cao/fastbar-with-nightmode-support/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/iii-anki-nang-cao/fastbar-with-nightmode-support/","dgPassFrontmatter":true}
 ---
 
 [[III. Anki nâng cao/030 Anki Nâng cao publish\|030 Anki Nâng cao publish]]
