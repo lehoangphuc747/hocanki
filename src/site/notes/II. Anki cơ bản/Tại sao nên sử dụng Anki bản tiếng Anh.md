@@ -1,5 +1,5 @@
 ---
-{"sticker":"lucide//star","dg-publish":true,"title":"Tại sao nên sử dụng Anki bản tiếng Anh?","permalink":"/ii-anki-co-ban/tai-sao-nen-su-dung-anki-ban-tieng-anh/","dgPassFrontmatter":true,"noteIcon":""}
+{"sticker":"lucide//star","dg-publish":true,"title":"Tại sao nên sử dụng Anki bản tiếng Anh?","permalink":"/ii-anki-co-ban/tai-sao-nen-su-dung-anki-ban-tieng-anh/","dgPassFrontmatter":true}
 ---
 
 #Learning-English 
