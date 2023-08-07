@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/iii-anki-nang-cao/more-overview-stats-2-1/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/iii-anki-nang-cao/more-overview-stats-2-1/","dgPassFrontmatter":true}
 ---
 
 #add-ons 
