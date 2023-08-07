@@ -135,3 +135,7 @@ ___
 > [[II. Anki cơ bản/Top Add-ons (Khuyến nghị)\|Truy cập]]
 
 > [[Canvas.canvas|❌ Canvas]]
+
+___
+# Hỗ trợ
+> [[Hỗ trợ\|Truy cập]]
