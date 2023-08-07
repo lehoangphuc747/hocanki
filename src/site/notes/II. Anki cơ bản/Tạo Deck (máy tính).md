@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ii-anki-co-ban/tao-deck-may-tinh/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/ii-anki-co-ban/tao-deck-may-tinh/","dgPassFrontmatter":true}
 ---
 
 #Deck
