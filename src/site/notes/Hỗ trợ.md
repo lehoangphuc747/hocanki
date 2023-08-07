@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ho-tro/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/ho-tro/","dgPassFrontmatter":true}
 ---
 
 > ![](https://i.imgur.com/16XdEBT.png)
