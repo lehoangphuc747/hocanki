@@ -101,6 +101,13 @@
   </a>
 </div>
 
+---
+> [!NOTE] Steve Maraboli
+> “At the end of the day, let there be no excuses, no explanations, no regrets.”
+
+
+
+
 ___
 
 # I. Đàm đạo
