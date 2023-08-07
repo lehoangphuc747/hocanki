@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-note-icon":3,"title":"Tips & Tricks","permalink":"/iv-meo-and-thu-thuat/iv-tips-and-tricks/","dgPassFrontmatter":true,"noteIcon":3}
+{"dg-publish":true,"dg-note-icon":3,"title":"Tips & Tricks","permalink":"/iv-meo-and-thu-thuat/iv-tips-and-tricks/","dgPassFrontmatter":true}
 ---
 
 
