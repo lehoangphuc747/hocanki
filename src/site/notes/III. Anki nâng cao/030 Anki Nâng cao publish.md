@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-pinned":true,"title":"Anki Nâng cao","permalink":"/iii-anki-nang-cao/030-anki-nang-cao-publish/","pinned":true,"dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"dg-pinned":true,"title":"Anki Nâng cao","permalink":"/iii-anki-nang-cao/030-anki-nang-cao-publish/","pinned":true,"dgPassFrontmatter":true}
 ---
 
 Tìm hiểu các Add-ons, Extension, chỉnh sửa giao diện Anki và bộ thẻ.
