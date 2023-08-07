@@ -94,11 +94,10 @@
 
 <div style="display: flex; flex-direction: column; align-items: center; cursor: pointer;">
   <a href="https://www.facebook.com/groups/ankikhoa2/" target="_blank">
-    <button style="font-size: 24px; padding: 10px; margin-top: 10px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent);">Nhóm Hướng dẫn Anki (Truy cập)</button>
+    <button style="font-size: 24px; padding: 10px; margin: 10px 0; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent);">Nhóm Hướng dẫn Anki (Truy cập)</button>
   </a>
-  <span style="height: 10px;"></span>
   <a href="https://hocanki.vercel.app/i-dam-dao/cach-huong-dan-anki-hoat-dong/" target="_blank">
-    <button style="font-size: 24px; padding: 10px; margin-top: 10px; background: #D71313; font-weight: 600; color: #EEEDED;">ĐỌC NGAY</button>
+    <button style="font-size: 24px; padding: 10px; margin: 10px 0; background: #D71313; font-weight: 600; color: #EEEDED;">ĐỌC NGAY</button>
   </a>
 </div>
 
