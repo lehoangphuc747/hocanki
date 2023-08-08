@@ -38,9 +38,7 @@ ___
 { #6ba169}
 
 
-> [👑 Tạo Subdeck (máy tính)](https://www.facebook.com/100006970567626/videos/1309708296640380/)
-{ #776a1b}
-
+> [[II. Anki cơ bản/Tạo Subdeck (máy tính)\|✅ Tạo Subdeck (máy tính)]]
 
 
 > [👑 Cách tạo Deck và Subdeck (Bộ thẻ và bộ thẻ con) - Video cũ](https://www.facebook.com/100006970567626/videos/948967736190048/) 
@@ -84,8 +82,12 @@ ___
 { #00bf51}
 
 
-> 👑 [Tạo thẻ Cloze - Ẩn đồng thời](https://www.facebook.com/groups/ankikhoa2/permalink/660008729514763/)
+> [👑 Tạo thẻ Cloze - Ẩn đồng thời](https://www.facebook.com/groups/ankikhoa2/permalink/660008729514763/)
 { #c0c78f}
+
+
+> [👑 Tạo thẻ Cloze Hint - Điền vào chỗ trống có Gợi ý]()
+{ #6048b3}
 
 
 ## Nâng cấp thẻ
