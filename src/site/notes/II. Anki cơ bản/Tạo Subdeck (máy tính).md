@@ -4,7 +4,9 @@
 
 #Subdeck 
 
-> [[II. Anki cơ bản/021 Anki cơ bản vip#^692cfe\|Anki cơ bản]]
+> [[II. Anki cơ bản/020 Anki cơ bản publish#^97f1b6\|Quay lại]]
+
+[[II. Anki cơ bản/021 Anki cơ bản vip#^692cfe\|❌❌❌]]
 
 ___
 
