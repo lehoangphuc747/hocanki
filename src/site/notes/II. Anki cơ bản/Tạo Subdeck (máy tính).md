@@ -4,7 +4,7 @@
 
 #Subdeck 
 
-[[II. Anki cơ bản/021 Anki cơ bản vip#^692cfe\|Anki cơ bản]]
+> [[II. Anki cơ bản/021 Anki cơ bản vip#^692cfe\|Anki cơ bản]]
 
 ___
 
