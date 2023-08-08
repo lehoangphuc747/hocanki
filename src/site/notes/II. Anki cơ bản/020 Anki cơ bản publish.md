@@ -39,6 +39,8 @@ ___
 
 
 > [[II. Anki cơ bản/Tạo Subdeck (máy tính)\|✅ Tạo Subdeck (máy tính)]]
+{ #97f1b6}
+
 
 
 > [👑 Cách tạo Deck và Subdeck (Bộ thẻ và bộ thẻ con) - Video cũ](https://www.facebook.com/100006970567626/videos/948967736190048/) 
