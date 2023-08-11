@@ -92,7 +92,7 @@ ___
 { #6048b3}
 
 
-> [[Tại sao nên dùng thẻ Cloze\|👑 Tại sao nên dùng thẻ Cloze?]]
+> [[II. Anki cơ bản/Tại sao nên dùng thẻ Cloze\|👑 Tại sao nên dùng thẻ Cloze?]]
 
 ## Nâng cấp thẻ
 
