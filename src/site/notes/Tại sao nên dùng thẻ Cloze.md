@@ -61,4 +61,4 @@ Còn nếu muốn thêm gợi ý cho nội dung Ẩn - trường hợp nội dun
 - **Copy → Paste → Cloze**: thay vì viết lại nội dung và đặt câu hỏi theo ý mình hiểu.
 - **Thiếu bức tranh toàn cảnh**: Nhược điểm của Anki sẽ khiến cho bạn không nắm được toàn cảnh vấn đề. → Kết hợp Obsidian → Ghi chú → Đặt vấn đề → Ôn tập bằng Anki.
 
-Mình sẽ đi sâu hơn về cách ==Ankify - Anki== hóa kiến thức ở những bài sau.
+Mình sẽ đi sâu hơn về cách ==Ankify - Anki== hóa kiến thức bằng Cloze ở những bài sau.
