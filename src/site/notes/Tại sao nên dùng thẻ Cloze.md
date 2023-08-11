@@ -8,7 +8,7 @@
 
 ---
 
-**Thẻ Cloze**
+# **Thẻ Cloze**
 **Tên đầy đủ:** Cloze deletion
 
 Ví dụ, nếu bạn muốn ghi nhớ một kiến thức như thế này:
