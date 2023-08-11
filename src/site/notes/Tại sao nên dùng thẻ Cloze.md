@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tai-sao-nen-dung-the-cloze/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":"Tại sao nên dùng thẻ Cloze?","permalink":"/tai-sao-nen-dung-the-cloze/","dgPassFrontmatter":true}
 ---
 
 > [[II. Anki cơ bản/020 Anki cơ bản publish\|Quay lại]]
