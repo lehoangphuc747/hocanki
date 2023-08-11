@@ -5,7 +5,7 @@
 > [[II. Anki cơ bản/020 Anki cơ bản publish\|Quay lại]]
 
 [[II. Anki cơ bản/021 Anki cơ bản vip\|❌❌❌]]
-[Xem trên Web]()
+
 ---
 
 # **Thẻ Cloze**
