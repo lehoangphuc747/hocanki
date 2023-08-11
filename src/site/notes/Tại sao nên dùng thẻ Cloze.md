@@ -51,6 +51,8 @@ Còn nếu muốn thêm gợi ý cho nội dung Ẩn - trường hợp nội dun
 > Và... đáp án.
 > ![Pasted image 20230811170324.png](/img/user/Y.%20Files/Pasted%20image%2020230811170324.png)
 
+
+
 # Chú ý
 
 - **Không dành cho học ngoại ngữ**: rất khó tạo thẻ (không phải không tạo được)
