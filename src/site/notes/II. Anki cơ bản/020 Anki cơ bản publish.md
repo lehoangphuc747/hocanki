@@ -88,7 +88,7 @@ ___
 { #c0c78f}
 
 
-> [👑 Tạo thẻ Cloze Hint - Điền vào chỗ trống có Gợi ý]()
+> [👑 Tạo thẻ Cloze Hint - Điền vào chỗ trống có Gợi ý](https://www.facebook.com/100006970567626/videos/2561178154045207/)
 { #6048b3}
 
 
