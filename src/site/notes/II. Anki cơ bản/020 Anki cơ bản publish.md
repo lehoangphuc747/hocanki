@@ -6,8 +6,8 @@
 
 ## Lưu ý
 
-✅ Free
-👑 Nội dung trả phí / thành viên nhóm Hướng dẫn có thể truy cập
+✅ Truy cập MIỄN PHÍ
+👑 Nội dung TRẢ PHÍ / thành viên nhóm HƯỚNG DẪN có thể truy cập
 
 [[II. Anki cơ bản/021 Anki cơ bản vip\| ❌ Không truy cập cái này]]
 
