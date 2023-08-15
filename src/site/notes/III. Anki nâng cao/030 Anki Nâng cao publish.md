@@ -4,6 +4,9 @@
 
 Tìm hiểu các Add-ons, Extension, chỉnh sửa giao diện Anki và bộ thẻ.
 
+✅ Truy cập MIỄN PHÍ
+👑 Nội dung thành viên **nhóm HƯỚNG DẪN** có thể truy cập
+
 > [[000 🌟 Học Anki🌟#^773ef1\|Quay lại]]
 
 > [[031 Anki nâng cao vip\|❌ Không truy cập]]
