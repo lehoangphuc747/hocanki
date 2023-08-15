@@ -94,6 +94,11 @@ ___
 
 > [[II. Anki cơ bản/Tại sao nên dùng thẻ Cloze\|✅ Tại sao nên dùng thẻ Cloze?]]
 
+
+## Ankify - Anki hóa
+
+> [[II. Anki cơ bản/Ankify - Anki hóa\|✅ Ankify - Anki hóa]]
+
 ## Nâng cấp thẻ
 
 > [👑 Tên Fields, Fields](https://www.facebook.com/groups/ankikhoa2/posts/659349429580693/)
