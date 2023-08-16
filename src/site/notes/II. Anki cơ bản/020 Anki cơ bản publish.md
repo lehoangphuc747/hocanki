@@ -95,6 +95,11 @@ ___
 > [[II. Anki cơ bản/Tại sao nên dùng thẻ Cloze\|✅ Tại sao nên dùng thẻ Cloze?]]
 
 
+## Thực hành 1
+
+[[II. Anki cơ bản/(Thực hành 1) Tạo thẻ từ vựng tiếng Anh - 1 mặt - có hình ảnh, âm thanh\|(Thực hành 1) Tạo thẻ từ vựng tiếng Anh - 1 mặt - có hình ảnh, âm thanh]]
+
+
 ## Ankify - Anki hóa
 
 > [[II. Anki cơ bản/Ankify - Anki hóa\|✅ Ankify - Anki hóa]]
