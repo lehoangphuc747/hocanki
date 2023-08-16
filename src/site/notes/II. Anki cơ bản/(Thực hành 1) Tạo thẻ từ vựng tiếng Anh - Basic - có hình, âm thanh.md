@@ -16,4 +16,4 @@ Bài tập đầu tiên thực hành tạo từ vựng theo kết quả dưới 
 
 # Thêm âm thanh
 
-[[III. Anki nâng cao/Cách tạo tài khoản Azure TTS miễn phí (dùng cho AwesomeTTS, HyperTTS)\|Cách tạo tài khoản Azure TTS miễn phí (dùng cho AwesomeTTS, HyperTTS)]]
+[[III. Anki nâng cao/✅ Cách tạo tài khoản Azure TTS miễn phí (dùng cho AwesomeTTS, HyperTTS)\|✅ Cách tạo tài khoản Azure TTS miễn phí (dùng cho AwesomeTTS, HyperTTS)]]
