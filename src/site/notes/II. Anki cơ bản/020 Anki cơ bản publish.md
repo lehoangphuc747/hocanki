@@ -161,7 +161,7 @@ ___
 
 > [[II. Anki cơ bản/👑 Backup Anki - Sao lưu dữ liệu\|👑 Backup Anki - Sao lưu dữ liệu]]
 
-> [[]]
+> [[II. Anki cơ bản/👑 Restore from Backup - Khôi phục bản sao lưu\|👑 Restore from Backup - Khôi phục bản sao lưu]]
 
 ## Nâng cao trải nghiệm học
 
