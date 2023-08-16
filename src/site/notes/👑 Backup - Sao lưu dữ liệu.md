@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/backup-sao-luu-du-lieu/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/backup-sao-luu-du-lieu/","hide":true,"dgPassFrontmatter":true}
 ---
 
 AnkiWeb là dịch vụ lưu trữ đám mây, miễn phí, và sẽ xóa dữ liệu nếu không đồng bộ trong 6 tháng trở lên.
