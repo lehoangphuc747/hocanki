@@ -8,8 +8,13 @@
 
 ✅ Truy cập MIỄN PHÍ
 👑 Nội dung thành viên **nhóm HƯỚNG DẪN** có thể truy cập
-
 [[II. Anki cơ bản/021 Anki cơ bản vip\| ❌ Không truy cập cái này]]
+
+<div style="display: flex; flex-direction: column; align-items: center; cursor: pointer;">
+  <a href="https://www.facebook.com/tui.la.phuc747/" target="_blank">
+    <button style="font-size: 24px; padding: 10px; margin: 10px 0; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); height: 100%; width-max:90%;">Tham gia nhóm Hướng dẫn Anki</button>
+  </a>
+</div>
 
 ___
 ## 01. Tải, cài đặt & Đồng bộ
