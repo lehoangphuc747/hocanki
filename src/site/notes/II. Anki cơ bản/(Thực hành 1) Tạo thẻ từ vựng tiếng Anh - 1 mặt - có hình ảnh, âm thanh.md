@@ -12,7 +12,7 @@ Bài tập đầu tiên thực hành tạo từ vựng theo kết quả dưới 
 
 # Bài hướng dẫn
 
-[Truy cập Web](https://hocanki.com/ii-anki-co-ban/thuc-hanh-1-tao-the-tu-vung-tieng-anh-1-mat-co-hinh-anh-am-thanh/)
+[👑 Xem video chi tiết]()
 
 # Thêm âm thanh
 
