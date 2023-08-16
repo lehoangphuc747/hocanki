@@ -159,7 +159,7 @@ ___
 
 ## Backup (Sao lưu dữ liệu)
 
-> [[👑 Backup - Sao lưu dữ liệu\|👑 Backup - Sao lưu dữ liệu]]
+> [[👑 Backup Anki - Sao lưu dữ liệu\|👑 Backup Anki - Sao lưu dữ liệu]]
 
 > [[]]
 
