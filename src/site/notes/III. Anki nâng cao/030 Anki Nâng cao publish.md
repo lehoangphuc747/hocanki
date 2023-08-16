@@ -6,12 +6,15 @@ Tìm hiểu các Add-ons, Extension, chỉnh sửa giao diện Anki và bộ th�
 
 ✅ Truy cập MIỄN PHÍ
 👑 Nội dung thành viên **nhóm HƯỚNG DẪN** có thể truy cập
+[[031 Anki nâng cao vip\|❌ Không truy cập cái này]]
 
-> [[000 🌟 Học Anki🌟#^773ef1\|Quay lại]]
+<div style="display: flex; flex-direction: column; align-items: center; cursor: pointer;">
+  <a href="https://www.facebook.com/tui.la.phuc747/" target="_blank">
+    <button style="font-size: 24px; padding: 10px; margin: 10px 0; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); height: 100%; width-max:90%;">Tham gia nhóm Hướng dẫn Anki</button>
+  </a>
+</div>
 
-> [[031 Anki nâng cao vip\|❌ Không truy cập]]
-
-___
+_______
 
 # 🔭 Thêm từ khi đọc báo, xem Youtube, đọc file PDF
 
