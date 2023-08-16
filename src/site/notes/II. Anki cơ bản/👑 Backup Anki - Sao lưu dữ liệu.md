@@ -15,7 +15,11 @@ Theo mặc định, Anki sẽ Backup dữ liệu:
 - Lưu trữ 10 bản backup/tuần
 - Lưu trữ 9 bản backup/tháng 
 
+→ **Không có âm thanh, hình ảnh**
+
 Nếu bạn lo ngại dữ liệu của mình thì nên backup thủ công định kỳ mỗi tháng hoặc 3 tháng một lần.
+
+→ **Có âm thanh, hình ảnh**
 
 > [👑 Xem video hướng dẫn](https://www.facebook.com/groups/ankikhoa2/posts/666254385556864/)
 
