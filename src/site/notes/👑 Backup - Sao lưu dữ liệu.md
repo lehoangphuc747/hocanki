@@ -2,9 +2,14 @@
 {"dg-publish":true,"dg-hide":true,"permalink":"/backup-sao-luu-du-lieu/","hide":true,"dgPassFrontmatter":true}
 ---
 
+#backup
+
 AnkiWeb là dịch vụ lưu trữ đám mây, miễn phí, và sẽ xóa dữ liệu nếu không đồng bộ trong 6 tháng trở lên.
 
-Anki mặc định sẽ Backup dữ liệu:
+Do đó, mình cảnh báo là không được quá phụ thuộc vào AnkiWeb.
+AnkiWeb nên là công cụ để đồng bộ hóa dữ liệu giữa các thiết bị với nhau. HẾT.
+
+Theo mặc định, Anki sẽ Backup dữ liệu:
 - Mỗi 30 phút
 - Lưu trữ 12 bản backup/ngày
 - Lưu trữ 10 bản backup/tuần
