@@ -159,7 +159,7 @@ ___
 
 ## Backup (Sao lưu dữ liệu)
 
-> [[👑 Backup Anki - Sao lưu dữ liệu\|👑 Backup Anki - Sao lưu dữ liệu]]
+> [[II. Anki cơ bản/👑 Backup Anki - Sao lưu dữ liệu\|👑 Backup Anki - Sao lưu dữ liệu]]
 
 > [[]]
 
