@@ -25,4 +25,4 @@ Nếu bạn lo ngại dữ liệu của mình thì nên backup thủ công đị
 
 Trường hợp cần khôi phục lại dữ liệu từ Backup (Bản sao lưu)
 
-> [[👑 Restore from Backup - Khôi phục bản sao lưu\|👑 Restore from Backup - Khôi phục bản sao lưu]]
+> [[II. Anki cơ bản/👑 Restore from Backup - Khôi phục bản sao lưu\|👑 Restore from Backup - Khôi phục bản sao lưu]]
