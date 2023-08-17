@@ -25,4 +25,4 @@ Truy cập trang chủ của Azure [Ở ĐÂY](https://azure.microsoft.com/en-us
 ---
 Gặp vấn đề trong việc tạo Azure API → [Nhắn cho mình](https://www.facebook.com/tui.la.phuc747)
 
-> [👑 Video hướng dẫn tạo tài khoản Azure và thêm API key vào HyperTTS, AwesomeTTS]()
+> [👑 Video hướng dẫn tạo tài khoản Azure và thêm API key vào HyperTTS, AwesomeTTS](https://www.facebook.com/groups/ankikhoa2/posts/666346462214323)
