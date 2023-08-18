@@ -66,7 +66,7 @@ Nhiều khi mình tưởng là đã hiểu nhưng khi gặp câu hỏi về cùn
 
 Cho nên hãy chia nhỏ vấn đề ra nhiều câu hỏi mà có thể trả lời trong vòng 3 giây.
 
-Tập trung điều này cho mình: ĐƠN GIẢN
+Tập trung điều này cho mình: ĐƠN GIẢN.
 
 ![](https://i.imgur.com/FYrF9zT.gif)
 
