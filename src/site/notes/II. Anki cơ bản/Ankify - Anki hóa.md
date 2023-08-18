@@ -37,11 +37,14 @@ Trách nhiệm là ở bạn thôi. Do thói quen lười tư duy đã bám rễ
 ![](https://i.imgur.com/dpi5IEo.gif)
 
 ## HIỂU
-Thường xảy ra khi đã học và làm quen với 1 kiến thức nào đó và đột nhiên trải qua cảm giác:
+Thường xảy ra khi đã học và đào sâu 1 kiến thức nào đó.
+Và khi tích đủ kiến thức cơ bản để có thể hiểu được thì bạn sẽ trải qua cảm giác:
 
 > “À… thì ra là vậy!”.
 
 ![](https://i.imgur.com/NdVEmqn.gif)
+
+**Lưu ý:** Quá trình nãy vẫn có thể xảy ra với những kiến thức mà *bạn nghĩ rằng mình đã hiểu.*
 
 Nhưng đây là hiểu dựa trên những gì được học. Vẫn là kiến thức của người khác. Nó chỉ là của mình khi bản thân có thể CHUYỂN HÓA KIẾN THỨC.
 
