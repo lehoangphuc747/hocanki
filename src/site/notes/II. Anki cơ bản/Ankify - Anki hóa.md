@@ -60,7 +60,7 @@ Tạo thẻ này để làm gì?
 
 Nôm na là làm khó bản thân á.
 
-Nhiều khi mình tưởng là đã hiểu nhưng khi gặp những câu hỏi về cùng 1 chủ đề ở góc độ khác là…
+Nhiều khi mình tưởng là đã hiểu nhưng khi gặp câu hỏi về cùng 1 chủ đề ở góc độ khác là…
 
 ![](https://i.imgur.com/fmhbCRw.gif)
 
