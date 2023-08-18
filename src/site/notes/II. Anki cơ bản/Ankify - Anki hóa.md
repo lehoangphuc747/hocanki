@@ -70,7 +70,7 @@ Tập trung điều này cho mình: ĐƠN GIẢN.
 
 ![](https://i.imgur.com/FYrF9zT.gif)
 
-Những kiến thức mà mình có được từ việc đặt câu hỏi theo cách bản thân hiểu được sẽ là của mình.
+Những kiến thức mà mình có được từ việc đặt câu hỏi theo cách hiểu của bản thân sẽ là của bạn.
 
 ![](https://i.imgur.com/6oMVSjY.gif)
 
