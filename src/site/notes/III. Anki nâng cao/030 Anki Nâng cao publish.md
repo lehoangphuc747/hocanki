@@ -38,7 +38,6 @@ _______
 > [👑 Multiple Choice Support - Tạo thẻ dạng trắc nghiệm (Multiple Choice) bằng Anki](https://www.facebook.com/100006970567626/videos/647310920677093/)
 { #ebb6b6}
 
-> [[III. Anki nâng cao/👑 Cách tạo tài khoản Azure TTS miễn phí (AwesomeTTS, HyperTTS)\|👑 Cách tạo tài khoản Azure TTS miễn phí (AwesomeTTS, HyperTTS)]]
 
 ___
 > [[000 🌟 Học Anki🌟\|Quay lại]]
