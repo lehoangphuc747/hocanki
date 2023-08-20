@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/i-dam-dao/thanh-cong-and-kinh-nghiem/","dgPassFrontmatter":true}
 ---
 
-> [[I. Đàm đạo/010 Đàm đạo\|Quay lại]]
+> [[I. Đàm đạo/010 Dẫn nhập\|Quay lại]]
 
 ___
 # Vốn từ ~20,000 nhờ Anki
@@ -208,4 +208,4 @@ ___
 
 
 ___
-> [[I. Đàm đạo/010 Đàm đạo\|Quay lại]]
+> [[I. Đàm đạo/010 Dẫn nhập\|Quay lại]]
