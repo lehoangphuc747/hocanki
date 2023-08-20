@@ -4,8 +4,6 @@
 
 #HyperTTS #TTS 
 
-![](https://i.imgur.com/zYx6PuC.png)
-
 **Code:** 111623432
 
 > [Link Add-ons](https://ankiweb.net/shared/info/111623432)
