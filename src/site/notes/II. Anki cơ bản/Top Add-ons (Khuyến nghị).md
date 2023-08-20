@@ -11,72 +11,30 @@ Dưới đây là một số Add-ons mà mình sử dụng hoặc đã test qua.
 Mọi người xem xét và tùy theo nhu cầu của mình mà lựa chọn nhé.
 
 # Cách cài Review Heatmap từ A-Z
-[[III. Anki nâng cao/✅ Review Heatmap - 💪 Động lực, quá trình\|Xem hướng dẫn]]
 
-code: **1771074083**
-
-![](https://i.imgur.com/YiOBU3Qh.png)
+> [[III. Anki nâng cao/✅ Review Heatmap - 💪 Động lực, quá trình\|Xem hướng dẫn]]
 
 
 # AwesomeTTS - thêm âm thanh
 
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/cai-awesome-tts/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-
-**Code:** 1436550454
-
-> [Link Add-ons](https://ankiweb.net/shared/info/1436550454)
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/70py7QOzveQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-</div></div>
-
+> [[✅ Cài AwesomeTTS\|✅ Cài AwesomeTTS]]
 
 
 # HyperTTS - em cùng cha khác mẹ của AwesomeTTS
 
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/ii-anki-co-ban/cai-hyper-tts/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-#HyperTTS #TTS 
-
-**Code:** 111623432
-
-> [Link Add-ons](https://ankiweb.net/shared/info/111623432)
-
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
-  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/kJ9-JU4AYP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-</div></div>
+> [[II. Anki cơ bản/✅ Cài HyperTTS\|✅ Cài HyperTTS]]
 
 
 # More Overview Stats 2.1
-{ #846eb6}
 
-
-[[III. Anki nâng cao/More Overview Stats 2.1\|Xem hướng dẫn]]
-
-Code: **738807903**
-
-![](https://i.imgur.com/z5to9Cx.png)
+> [[III. Anki nâng cao/✅ More Overview Stats 2.1\|Xem hướng dẫn]]
 
 
 # Fastbar- with nightmode support
-[[III. Anki nâng cao/Fastbar- with nightmode support\|Xem hướng dẫn]]
 
-Code: 46611790
+> [[III. Anki nâng cao/✅ Fastbar - with nightmode support\|Xem hướng dẫn]]
 
-![](https://i.imgur.com/4oiroMs.png)
+
 
 
 # Multiple Choice Support - Tạo thẻ dạng trắc nghiệm (Multiple Choice) bằng Anki
