@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-pinned":true,"dg-note-icon":1,"title":"Anki cơ bản","permalink":"/ii-anki-co-ban/020-anki-co-ban-publish/","pinned":true,"dgPassFrontmatter":true}
 ---
 
-> [[000 🌟 Học Anki🌟#^7c410d\|Quay lại]]
+Nắm vững các kiến thức cơ bản của Anki.
 
 ## Lưu ý
 
