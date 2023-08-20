@@ -31,6 +31,10 @@ Bài tập đầu tiên thực hành tạo từ vựng theo kết quả dưới 
   <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/70py7QOzveQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+> [[III. Anki nâng cao/👑 Cách tạo tài khoản Azure TTS miễn phí (AwesomeTTS, HyperTTS)\|👑 Cách tạo tài khoản Azure TTS miễn phí (AwesomeTTS, HyperTTS)]]
+
+> [[II. Anki cơ bản/👑 Thêm âm thanh hàng loạt bằng AwesomeTTS\|👑 Thêm âm thanh hàng loạt bằng AwesomeTTS]]
+
 </div></div>
 
 
