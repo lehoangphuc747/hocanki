@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/iii-anki-nang-cao/easy-learn-word-extension-doc-bao-youtube/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/iii-anki-nang-cao/easy-learn-word-extension-doc-bao-youtube/","hide":true,"dgPassFrontmatter":true}
 ---
 
 #Extension 
