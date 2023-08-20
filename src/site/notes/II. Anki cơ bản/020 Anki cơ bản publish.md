@@ -95,11 +95,17 @@ ___
 
 > [[II. Anki cơ bản/Tại sao nên dùng thẻ Cloze\|✅ Tại sao nên dùng thẻ Cloze?]]
 
+## Thêm âm thanh
+
+> [[✅ Cài AwesomeTTS\|✅ Cài AwesomeTTS]]
+
+> [[II. Anki cơ bản/👑 Thêm âm thanh hàng loạt bằng AwesomeTTS\|👑 Thêm âm thanh hàng loạt bằng AwesomeTTS]]
+
+
 ## Thực hành 1
 
 > [[II. Anki cơ bản/(Thực hành 1) Tạo thẻ từ vựng tiếng Anh - Basic - có hình, âm thanh\|👑 (Thực hành 1) Tạo thẻ từ vựng tiếng Anh - 1 mặt - có hình ảnh, âm thanh]]
 
-> [[II. Anki cơ bản/👑 Thêm âm thanh hàng loạt bằng AwesomeTTS\|👑 Thêm âm thanh hàng loạt bằng AwesomeTTS]]
 
 ## Ankify - Anki hóa
 
