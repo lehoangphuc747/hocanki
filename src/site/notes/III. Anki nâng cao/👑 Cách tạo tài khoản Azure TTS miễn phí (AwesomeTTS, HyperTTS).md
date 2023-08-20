@@ -22,7 +22,7 @@ Mã giới thiệu: ```0346598402```
 
 ❌ **Hiện tại mình thử với Mastercard ảo của Cake thì bị lỗi. Chuyển sang test trên thẻ Visa (bank chính) thì ok.** 
 
-Thật ra, đa số mọi người sẽ không xài quá nửa triệu ký tự/tháng, nhưng nếu muốn đảm bảo an toàn thì nên sử dụng thẻ Visa/Mastercard phụ không có tiền trong đấy. Phí tạo và duy trì Visa/Mastercard tương đối rẻ so với việc chi 1 triệu 200k / năm.
+Thật ra, đa số mọi người sẽ không xài quá 500,000 ký tự/tháng, nhưng nếu muốn đảm bảo an toàn thì nên sử dụng thẻ Visa/Mastercard phụ không có tiền trong đấy. Phí tạo và duy trì Visa/Mastercard tương đối rẻ so với việc chi 1 triệu 200k / năm.
 
 Truy cập trang chủ của Azure [Ở ĐÂY](https://azure.microsoft.com/en-us/)
 
