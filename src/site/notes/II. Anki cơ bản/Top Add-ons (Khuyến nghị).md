@@ -12,7 +12,7 @@ Mọi người xem xét và tùy theo nhu cầu của mình mà lựa chọn nh�
 
 # Review Heatmap - 💪 Động lực, quá trình
 
-> [[III. Anki nâng cao/✅ Review Heatmap - 💪 Động lực, quá trình\|Xem hướng dẫn]]
+> [[III. Anki nâng cao/✅ Review Heatmap - 💪 Động lực, quá trình\|✅ Review Heatmap - 💪 Động lực, quá trình]]
 
 
 # AwesomeTTS - thêm âm thanh
@@ -27,12 +27,12 @@ Mọi người xem xét và tùy theo nhu cầu của mình mà lựa chọn nh�
 
 # More Overview Stats 2.1
 
-> [[III. Anki nâng cao/✅ More Overview Stats 2.1\|Xem hướng dẫn]]
+> [[III. Anki nâng cao/✅ More Overview Stats 2.1\|✅ More Overview Stats 2.1]]
 
 
 # Fastbar- with nightmode support
 
-> [[III. Anki nâng cao/✅ Fastbar - with nightmode support\|Xem hướng dẫn]]
+> [[III. Anki nâng cao/✅ Fastbar - with nightmode support\|✅ Fastbar - with nightmode support]]
 
 
 
