@@ -10,7 +10,7 @@ ___
 Dưới đây là một số Add-ons mà mình sử dụng hoặc đã test qua. 
 Mọi người xem xét và tùy theo nhu cầu của mình mà lựa chọn nhé.
 
-# Cách cài Review Heatmap từ A-Z
+# Review Heatmap - 💪 Động lực, quá trình
 
 > [[III. Anki nâng cao/✅ Review Heatmap - 💪 Động lực, quá trình\|Xem hướng dẫn]]
 
