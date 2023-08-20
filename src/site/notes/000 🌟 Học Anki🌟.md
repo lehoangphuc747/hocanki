@@ -102,13 +102,6 @@
 </div>
 
 ---
-> [!NOTE] Steve Maraboli
-> “At the end of the day, let there be no excuses, no explanations, no regrets.”
-
-
-
-
-___
 
 # I. Dẫn nhập
 
@@ -143,3 +136,8 @@ ___
 ___
 # Hỗ trợ
 > [[Hỗ trợ\|Truy cập]]
+
+
+---
+> [!NOTE] Steve Maraboli
+> “At the end of the day, let there be no excuses, no explanations, no regrets.”
