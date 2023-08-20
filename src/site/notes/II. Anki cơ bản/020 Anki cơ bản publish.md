@@ -170,13 +170,8 @@ ___
 
 > [[III. Anki nâng cao/✅ Review Heatmap - 💪 Động lực, quá trình\|✅ Review Heatmap - 💪 Động lực, quá trình]]
 
-![](https://i.imgur.com/H6CkcYh.png)
+> [[III. Anki nâng cao/✅ More Overview Stats 2.1\|✅ More Overview Stats 2.1]]
 
-> [[III. Anki nâng cao/More Overview Stats 2.1\| ✅ More Overview Stats 2.1]]
-{ #f0c139}
-
-
-![](https://i.imgur.com/z5to9Cx.png)
 ___
 
 > [[000 🌟 Học Anki🌟\|Quay lại]]
