@@ -6,6 +6,10 @@
 
 ![Thêm âm thanh hàng loạt bằng AwesomeTTS.png](/img/user/Y.%20Files/Th%C3%AAm%20%C3%A2m%20thanh%20h%C3%A0ng%20lo%E1%BA%A1t%20b%E1%BA%B1ng%20AwesomeTTS.png)
 
+# Dành cho:
+
+**Ai muốn thêm từ vựng, câu bằng File Excel có sẵn**
+
 # Cài Add-ons AwesomeTTS
 
 
