@@ -33,7 +33,7 @@ Bài tập đầu tiên thực hành tạo từ vựng theo kết quả dưới 
 
 > [[III. Anki nâng cao/👑 Cách tạo tài khoản Azure TTS miễn phí (AwesomeTTS, HyperTTS)\|👑 Cách tạo tài khoản Azure TTS miễn phí (AwesomeTTS, HyperTTS)]]
 
-# Bài hướng dẫn
+# Video hướng dẫn
 
 > [👑 Xem video chi tiết](https://www.facebook.com/groups/ankikhoa2/posts/665973545584948/)
 
