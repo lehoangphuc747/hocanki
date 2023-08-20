@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-note-icon":1,"dg-hide":true,"permalink":"/i-dam-dao/cach-huong-dan-anki-hoat-dong/","hide":true,"dgPassFrontmatter":true}
 ---
 
-> [[I. Đàm đạo/010 Đàm đạo\|Quay lại]]
+> [[I. Đàm đạo/010 Dẫn nhập\|Quay lại]]
 
 ___
 
