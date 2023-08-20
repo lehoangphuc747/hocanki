@@ -110,9 +110,9 @@
 
 ___
 
-# I. Đàm đạo
-Là mấy nội dung mình xàm xí về Anki và chuỗi hướng dẫn này.
-> [[I. Đàm đạo/010 Đàm đạo\|Truy cập]]
+# I. Dẫn nhập
+
+> [[I. Đàm đạo/010 Dẫn nhập\|Truy cập]]
 
 # II. Anki cơ bản
 { #7c410d}
@@ -124,7 +124,6 @@ Là mấy nội dung mình xàm xí về Anki và chuỗi hướng dẫn này.
 { #773ef1}
 
 
-Tìm hiểu các Add-ons, Extension, chỉnh sửa giao diện Anki và bộ thẻ.
 > [[III. Anki nâng cao/030 Anki Nâng cao publish\|Truy cập]]
 
 # IV. Tips & Tricks
