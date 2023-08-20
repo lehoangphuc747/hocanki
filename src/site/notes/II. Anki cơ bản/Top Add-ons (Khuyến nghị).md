@@ -4,9 +4,6 @@
 
 #add-ons 
 
-> [[000 🌟 Học Anki🌟\|Quay lại]]
-
-___
 Dưới đây là một số Add-ons mà mình sử dụng hoặc đã test qua. 
 Mọi người xem xét và tùy theo nhu cầu của mình mà lựa chọn nhé.
 
