@@ -4,14 +4,6 @@
 
 #Extension 
 
-[[031 Anki nâng cao vip#^d24e1a\|❌❌❌]]
-
-> [[III. Anki nâng cao/030 Anki Nâng cao publish#^6a1a00\|Anki nâng cao]]
-
-[Truy cập nhóm Học](https://www.facebook.com/100006970567626/videos/1213040082714081/)
-
-___
-
 Video cho ai lười đọc:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z0uRi3Cel_4" title="Hướng dẫn sử dụng Easy Learn Word Dictionary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -98,6 +90,3 @@ Copy đoạn code sau thay thế đoạn code trong Anki và bấm OK.
 
 Nhóm hỗ trợ phần mềm:
 > [Truy cập](https://m.me/j/Abaid3A2BVa9TAbp/)
-
-___
-> [[000 🌟 Học Anki🌟\|Quay lại]]
