@@ -8,9 +8,13 @@ Muốn thêm âm thanh cho từ vựng, câu nhưng không biết phải làm th
 
 → AwesomeTTS, HyperTTS
 
-Nhưng không muốn bỏ ra 5$/tháng, mà vẫn muốn có âm thanh chất lượng.
+> [Đăng ký API key 5$ tháng từ chính chủ AwesomeTTS, HyperTTS](https://languagetools.anki.study/awesometts-plus)
+
+Hoặc không muốn bỏ ra 5$/tháng, mà vẫn muốn có âm thanh chất lượng.
 
 → Azure TTS gói miễn phí. 
+
+**Cần:** Thẻ thanh toán quốc tế 
 
 Tạo thẻ Mastercard ảo bằng [Cake - Ngân hàng số](https://cake.vn/).
 Tải ứng dụng: [CH Play](https://play.google.com/store/apps/details?id=xyz.be.cake) / [App Store](https://apps.apple.com/vn/app/cake-ng%C3%A2n-h%C3%A0ng-s%E1%BB%91/id1551907051?l=vi)
