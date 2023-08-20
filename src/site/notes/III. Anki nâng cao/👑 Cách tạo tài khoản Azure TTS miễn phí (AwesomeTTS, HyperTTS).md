@@ -16,7 +16,7 @@ Tạo thẻ Mastercard ảo bằng [Cake - Ngân hàng số](https://cake.vn/).
 Tải ứng dụng: [CH Play](https://play.google.com/store/apps/details?id=xyz.be.cake) / [App Store](https://apps.apple.com/vn/app/cake-ng%C3%A2n-h%C3%A0ng-s%E1%BB%91/id1551907051?l=vi)
 Mã giới thiệu: ```0346598402```
 
-❌ Hiện tại mình thử với Mastercard ảo của Cake thì bị lỗi. Chuyển sang test trên thẻ Visa (bank chính) thì ok. Mọi người thử trên thẻ Cake ảo xem thế nào rồi báo lại mình ạ.
+❌ **Hiện tại mình thử với Mastercard ảo của Cake thì bị lỗi. Chuyển sang test trên thẻ Visa (bank chính) thì ok.** 
 
 Thật ra, đa số mọi người sẽ không xài quá nửa triệu ký tự/tháng, nhưng nếu muốn đảm bảo an toàn thì nên sử dụng thẻ Visa/Mastercard phụ không có tiền trong đấy. Phí tạo và duy trì Visa/Mastercard tương đối rẻ so với việc chi 1 triệu 200k / năm.
 
