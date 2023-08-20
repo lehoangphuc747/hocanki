@@ -47,20 +47,16 @@ ___
 { #97f1b6}
 
 
-
 > [👑 Cách tạo Deck và Subdeck (Bộ thẻ và bộ thẻ con) - Video cũ](https://www.facebook.com/100006970567626/videos/948967736190048/) 
 { #efd560}
-
 
 
 > [👑 Tạo, quản lý và học Anki theo Tags](https://www.facebook.com/100006970567626/videos/1735576880208862/) 
 { #79c709}
 
 
-
 > [👑 Xóa tags không sử dụng (Unused Tags)](https://www.facebook.com/groups/ankikhoa2/posts/658428619672774/)
 { #85168f}
-
 
 
 ## Tạo thẻ
@@ -99,11 +95,11 @@ ___
 
 > [[II. Anki cơ bản/Tại sao nên dùng thẻ Cloze\|✅ Tại sao nên dùng thẻ Cloze?]]
 
-
 ## Thực hành 1
 
 > [[II. Anki cơ bản/(Thực hành 1) Tạo thẻ từ vựng tiếng Anh - Basic - có hình, âm thanh\|👑 (Thực hành 1) Tạo thẻ từ vựng tiếng Anh - 1 mặt - có hình ảnh, âm thanh]]
 
+[[II. Anki cơ bản/Thêm âm thanh hàng loạt bằng AwesomeTTS\|Thêm âm thanh hàng loạt bằng AwesomeTTS]]
 
 ## Ankify - Anki hóa
 
