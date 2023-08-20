@@ -43,8 +43,6 @@ Vì giá không cố định nên mọi người có thể xem ở đây.
 
 
 
-![](https://i.imgur.com/4U85y7W.png)
-
 **Code:** 1436550454
 
 > [Link Add-ons](https://ankiweb.net/shared/info/1436550454)
@@ -65,8 +63,6 @@ Vì giá không cố định nên mọi người có thể xem ở đây.
 
 
 #HyperTTS #TTS 
-
-![](https://i.imgur.com/zYx6PuC.png)
 
 **Code:** 111623432
 
