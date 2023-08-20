@@ -4,6 +4,8 @@
 
 #create #practice #Learning-English #Basic 
 
+![THỰC HÀNH 1 Tạo thẻ từ vựng tiếng Anh Basic có hình ảnh, âm thanh.png](/img/user/Y.%20Files/TH%E1%BB%B0C%20H%C3%80NH%201%20T%E1%BA%A1o%20th%E1%BA%BB%20t%E1%BB%AB%20v%E1%BB%B1ng%20ti%E1%BA%BFng%20Anh%20Basic%20c%C3%B3%20h%C3%ACnh%20%E1%BA%A3nh,%20%C3%A2m%20thanh.png)
+
 # Bài mẫu
 
 Bài tập đầu tiên thực hành tạo từ vựng theo kết quả dưới đây:
