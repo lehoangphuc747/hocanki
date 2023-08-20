@@ -118,7 +118,6 @@ Là mấy nội dung mình xàm xí về Anki và chuỗi hướng dẫn này.
 { #7c410d}
 
 
-Nắm vững các kiến thức cơ bản của Anki.
 > [[II. Anki cơ bản/020 Anki cơ bản publish\|Truy cập]]
 
 # III. Anki nâng cao
