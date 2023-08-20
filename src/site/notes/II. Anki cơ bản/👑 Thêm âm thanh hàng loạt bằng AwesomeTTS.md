@@ -7,6 +7,7 @@
 # Cài Add-ons AwesomeTTS
 
 **Code:** 1436550454
+
 > [Link Add-ons](https://ankiweb.net/shared/info/1436550454)
 
 # Cách sử dụng AwesomeTTS miễn phí bằng thẻ Visa (Azure)
@@ -38,6 +39,6 @@ Hoặc cũng có thể mở file excel bằng LibreOffice Calc:
 
 # Thực chiến
 
-
+> [👑 Xem video hướng dẫn](https://hocanki.com/ii-anki-co-ban/them-am-thanh-hang-loat-bang-awesome-tts/)
 
 
