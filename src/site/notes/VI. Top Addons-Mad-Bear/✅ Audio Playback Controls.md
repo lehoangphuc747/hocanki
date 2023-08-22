@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-hide":true,"member":"free","tags":["add-ons","phim"],"permalink":"/vi-top-addons-mad-bear/audio-playback-controls/","hide":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"member":"free","tags":["add-ons","phim","free"],"permalink":"/vi-top-addons-mad-bear/audio-playback-controls/","hide":true,"dgPassFrontmatter":true}
 ---
 
 **Code:** `312734862`
