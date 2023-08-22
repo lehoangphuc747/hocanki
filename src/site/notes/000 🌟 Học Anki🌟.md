@@ -130,16 +130,13 @@
 > [[VI. Top Addons-Mad-Bear/Top Add-ons (Khuyến nghị)\|Truy cập]]
 
 # VII. Tổng hợp một số bộ thẻ
-___
 
-
-
-> [[Canvas.canvas|❌ Canvas]]
-
-___
 # Hỗ trợ
 > [[Hỗ trợ\|Truy cập]]
 
+___
+
+> [[Canvas.canvas|❌ Canvas]]
 
 ---
 > [!NOTE] Steve Maraboli
