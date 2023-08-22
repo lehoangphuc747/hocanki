@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-hide":true,"permalink":"/iii-anki-nang-cao/fastbar-with-nightmode-support/","hide":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"member":"free","tags":["add-ons","free"],"permalink":"/iii-anki-nang-cao/fastbar-with-nightmode-support/","hide":true,"dgPassFrontmatter":true}
 ---
 
 
