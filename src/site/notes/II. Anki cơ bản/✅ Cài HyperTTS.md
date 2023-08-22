@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-hide":true,"permalink":"/ii-anki-co-ban/cai-hyper-tts/","hide":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"member":"free","tags":["HyperTTS","add-ons","free"],"permalink":"/ii-anki-co-ban/cai-hyper-tts/","hide":true,"dgPassFrontmatter":true}
 ---
 
 #HyperTTS #TTS 
