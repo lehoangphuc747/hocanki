@@ -27,6 +27,10 @@ Mọi người xem xét và tùy theo nhu cầu của mình mà lựa chọn nh�
 > [[III. Anki nâng cao/✅ More Overview Stats 2.1\|✅ More Overview Stats 2.1]]
 
 
+# Audio Playback Controls
+
+> [[✅ Audio Playback Controls\|✅ Audio Playback Controls]]
+
 # Fastbar- with nightmode support
 
 > [[III. Anki nâng cao/✅ Fastbar - with nightmode support\|✅ Fastbar - with nightmode support]]
