@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-hide":true,"permalink":"/cai-awesome-tts/","hide":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"member":"free","tags":["add-ons","AwesomeTTS","free"],"permalink":"/cai-awesome-tts/","hide":true,"dgPassFrontmatter":true}
 ---
 
 
