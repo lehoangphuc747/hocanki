@@ -27,9 +27,9 @@ Mọi người xem xét và tùy theo nhu cầu của mình mà lựa chọn nh�
 > [[III. Anki nâng cao/✅ More Overview Stats 2.1\|✅ More Overview Stats 2.1]]
 
 
-# Audio Playback Controls
+# Audio Playback Controls - Chỉnh tốc độ âm thanh để học phim trong Anki
 
-> [[VI. Top Addons-Mad-Bear/✅ Audio Playback Controls\|✅ Audio Playback Controls]]
+> [[VI. Top Addons-Mad-Bear/✅ Audio Playback Controls - Chỉnh tốc độ âm thanh để học phim trong Anki\|✅ Audio Playback Controls - Chỉnh tốc độ âm thanh để học phim trong Anki]]
 
 # Fastbar- with nightmode support
 
