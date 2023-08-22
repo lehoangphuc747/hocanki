@@ -88,9 +88,10 @@
 </g>
 </svg> </center>
 
-### <center>Hướng dẫn làm quen Anki cho người mới</center>
 
-<span style="font-size: 30px;">Liên hệ: </span> &nbsp; [<img  src="https://i.imgur.com/CZ7hhJg.png" width="80">](https://www.facebook.com/tui.la.phuc747)  [<img  src="https://i.imgur.com/HNBJNZE.png" width="30">](https://zalo.me/346598402) [<img  src="https://i.imgur.com/9PROKnb.png" width="30">](https://t.me/lehoangphuc747)
+![](https://i.imgur.com/0cdlzKr.png)
+
+<span style="font-size: 30px; font-weight: bold;">Đăng ký tham gia: </span> &nbsp; [<img  src="https://i.imgur.com/CZ7hhJg.png" width="80">](https://www.facebook.com/tui.la.phuc747)  [<img  src="https://i.imgur.com/HNBJNZE.png" width="30">](https://zalo.me/346598402) [<img  src="https://i.imgur.com/9PROKnb.png" width="30">](https://t.me/lehoangphuc747)
 
 <div style="display: flex; flex-direction: column; align-items: center; cursor: pointer;">
   <a href="https://www.facebook.com/groups/ankikhoa2/" target="_blank">
@@ -125,11 +126,13 @@
 # V. Lỗi
 > [[V. Lỗi/! Lỗi\|Truy cập]]
 
-# VI. Tổng hợp một số bộ thẻ
+# VI. Top Addons
+> [[VI. Top Addons-Mad-Bear/Top Add-ons (Khuyến nghị)\|Truy cập]]
+
+# VII. Tổng hợp một số bộ thẻ
 ___
 
-# Top Addons
-> [[Top Add-ons (Khuyến nghị)\|Truy cập]]
+
 
 > [[Canvas.canvas|❌ Canvas]]
 
