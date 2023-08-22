@@ -39,7 +39,7 @@ Mọi người xem xét và tùy theo nhu cầu của mình mà lựa chọn nh�
 
 
 # Multiple Choice Support - Tạo thẻ dạng trắc nghiệm (Multiple Choice) bằng Anki
-[[III. Anki nâng cao/Multiple Choice Support - Tạo thẻ dạng trắc nghiệm (Multiple Choice) bằng Anki\|Multiple Choice Support - Tạo thẻ dạng trắc nghiệm (Multiple Choice) bằng Anki]]
+> [[III. Anki nâng cao/Multiple Choice Support - Tạo thẻ dạng trắc nghiệm (Multiple Choice) bằng Anki\|Multiple Choice Support - Tạo thẻ dạng trắc nghiệm (Multiple Choice) bằng Anki]]
 
 code: **1497603664**
 
