@@ -9,10 +9,18 @@ ___
 # Kết hợp Facebook & Website (dựa trên Obsidian)
 
 Nội dung sẽ được đăng trong nhóm Facebook (Private) và dẫn link trên [hocanki.com](https://hocanki.com/).
-Chỉ những ai có trong nhóm mới có thể truy cập các nội dung.
+Chỉ những ai có trong nhóm mới có thể truy cập các nội dung 👑.
 Các nội dung được soạn và xây dựng dựa trên nền tảng là [Obsidian mà mình học từ chị Hà](https://khoahocobsidian.com/), và tự mày mò thêm một chút để sử dụng Plugin [Digital Garden](https://github.com/oleeskild/obsidian-digital-garden).
 
 ![](https://i.imgur.com/9l5zKUR.png)
+
+# Các video, bài viết trên hocanki.com đều được link vào nhóm Facebook
+
+Mọi người có thể dùng trang web như một cái mục lục để truy cập chọn bài để học.
+Không nhất thiết là phải xem ở trong Facebook Group.
+Vì cách sắp xếp bài của Facebook như hạch. Search cũng như hạch.
+
+![](https://i.imgur.com/dtZL0Fe.gif)
 
 # Các dạng nội dung:
 
@@ -27,14 +35,10 @@ Mình sẽ chia nhỏ nội dung hết sức có thể, để mọi người có
 
 # 3 kiểu Link trên Web:
 
-✅ Free  
-👑 Nội dung trả phí / thành viên nhóm Hướng dẫn có thể truy cập
+✅ Truy cập MIỄN PHÍ
+👑 Nội dung thành viên **nhóm HƯỚNG DẪN** có thể truy cập
 ❌ Backlink Obsidian nơi mình lên ý tưởng, content,... Không thể truy cập.
 
-# Sau khi hoàn thành 1 hướng dẫn (Đọc, xem video, thực hành)
-Mọi người vui lòng Đánh dấu **<font color="#0070c0">Xong</font>** giúp mình ạ.
-
-![](https://i.imgur.com/qd9yt7M.png)
 
 # Gặp vấn đề, thắc mắc, muốn trao đổi
 
