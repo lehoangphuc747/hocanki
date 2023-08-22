@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"dg-hide":true,"permalink":"/iii-anki-nang-cao/review-heatmap-dong-luc-qua-trinh/","hide":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"member":"free","tags":["add-ons","Review-heatmap","free"],"permalink":"/iii-anki-nang-cao/review-heatmap-dong-luc-qua-trinh/","hide":true,"dgPassFrontmatter":true}
 ---
 
-#add-ons #Review-heatmap
 
 (theo dõi quá trình và tạo động lực học Anki)
 
