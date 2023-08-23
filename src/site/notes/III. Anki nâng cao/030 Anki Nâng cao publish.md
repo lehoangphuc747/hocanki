@@ -34,6 +34,10 @@ _______
 { #6a1a00}
 
 
+# Học qua phim
+
+> [[Vừa xem phim vừa học bằng Knowclip (Áp dụng cho cả Youtube và Netflix,…)\|Vừa xem phim vừa học bằng Knowclip (Áp dụng cho cả Youtube và Netflix,…)]]
+
 # 💎Nâng cao
 > [👑 Multiple Choice Support - Tạo thẻ dạng trắc nghiệm (Multiple Choice) bằng Anki](https://www.facebook.com/100006970567626/videos/647310920677093/)
 { #ebb6b6}
