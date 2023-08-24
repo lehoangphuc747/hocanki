@@ -92,7 +92,9 @@
 ![](https://i.imgur.com/0cdlzKr.png)
 
 <span style="font-size: 30px; font-weight: bold;">Đăng ký tham gia: </span> &nbsp; [<img  src="https://i.imgur.com/CZ7hhJg.png" width="80">](https://m.me/tui.la.phuc747)  [<img  src="https://i.imgur.com/HNBJNZE.png" width="30">](https://zalo.me/346598402) [<img  src="https://i.imgur.com/9PROKnb.png" width="30">](https://t.me/lehoangphuc747)
+
 (Nhắn tin cho mình để nhận hướng dẫn)
+
 <div style="display: flex; flex-direction: column; align-items: center; cursor: pointer;">
   <a href="https://www.facebook.com/groups/ankikhoa2/" target="_blank">
     <button style="font-size: 24px; padding: 10px; margin: 10px 0; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); height: 100%; width-max:90%;">Nhóm Hướng dẫn Anki <br>(Truy cập)</button>
