@@ -9,7 +9,7 @@ Mọi người xem xét và tùy theo nhu cầu của mình mà lựa chọn nh�
 
 ###### Cách cài Addons trên hocanki.com (mẫu)
 
-> [[Cách cài Addons trên hocanki.com (mẫu)\|Cách cài Addons trên hocanki.com (mẫu)]]
+> [[✅ Cách cài Addons trên hocanki (mẫu)\|✅ Cách cài Addons trên hocanki (mẫu)]]
 
 ###### Review Heatmap - 💪 Động lực, quá trình
 
