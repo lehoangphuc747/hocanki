@@ -46,8 +46,8 @@ Tải và cài đặt **LibreOffice**.
 
 > ![Pasted image 20230819204337.png](/img/user/Y.%20Files/Pasted%20image%2020230819204337.png)
 
-# Tạo file Excel
-Nói vậy cho dễ hiểu. Chứ thật ra là tạo file .ods 🥲
+# Tạo file Excel (LibreOffice Calc)
+Nói vậy cho dễ hiểu. Chứ thật ra là tạo file .ods (OpenDocument Spreadsheet) - mở bằng LibreOffice Calc.
 
 ![](https://i.imgur.com/83HpHHS.png)
 
