@@ -95,6 +95,9 @@ ___
 
 > [[II. Anki cơ bản/Tại sao nên dùng thẻ Cloze\|✅ Tại sao nên dùng thẻ Cloze?]]
 
+
+> [[✅ Ghim Fields\|✅ Ghim Fields]]
+
 ## Thêm âm thanh
 
 > [[✅ Cài AwesomeTTS\|✅ Cài AwesomeTTS]]
