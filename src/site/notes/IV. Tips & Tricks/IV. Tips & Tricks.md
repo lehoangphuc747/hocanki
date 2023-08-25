@@ -11,7 +11,7 @@ ___
 
 > [👑 Cách sử dụng 2 phiên bản Anki trên cùng 1 máy tính](https://www.facebook.com/100006970567626/videos/1454785538639082/)
 
-> [[✅ Dùng AI tạo thẻ Anki\|✅ Dùng AI tạo thẻ Anki]]
+> [[IV. Tips & Tricks/✅ Dùng AI tạo thẻ Anki\|✅ Dùng AI tạo thẻ Anki]]
 
 > [[IV. Tips & Tricks/Cách sắp xếp Deck theo thứ tự từ A-Z\|Cách sắp xếp Deck theo thứ tự từ A-Z]]
 
