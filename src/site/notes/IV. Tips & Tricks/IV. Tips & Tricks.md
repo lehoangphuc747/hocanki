@@ -13,9 +13,11 @@ ___
 
 > [[✅ Dùng AI tạo thẻ Anki\|✅ Dùng AI tạo thẻ Anki]]
 
-[[Cách cài Anki (Vanced)\|Cách cài Anki (Vanced)]]
+> [[IV. Tips & Tricks/Cách sắp xếp Deck theo thứ tự từ A-Z\|Cách sắp xếp Deck theo thứ tự từ A-Z]]
 
-[[IV. Tips & Tricks/Cách sắp xếp Deck theo thứ tự từ A-Z\|Cách sắp xếp Deck theo thứ tự từ A-Z]]
+> [[✅ Ghim Fields\|✅ Ghim Fields]]
+
+[[Cách cài Anki (Vanced)\|Cách cài Anki (Vanced)]]
 
 ___
 
