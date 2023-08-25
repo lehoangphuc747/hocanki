@@ -3,11 +3,11 @@
 ---
 
 
-# Deck lộn xộn như hình dưới đây:
+### Deck lộn xộn như hình dưới đây:
 
 ![](https://i.imgur.com/Hx6bRB1.png)
 
-# Có 2 cách, thêm vào đầu tên deck: 
+# Có 2 cách sắp xếp, thêm vào đầu tên deck: 
 
 ## **1. Số**
 
