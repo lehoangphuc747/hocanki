@@ -81,7 +81,7 @@ ___
 { #0c4501}
 
 
-> [👑 Tạo thẻ Cloze - Ẩn thường](https://www.facebook.com/100006970567626/videos/601618848830670/)
+> [[II. Anki cơ bản/✅ Tạo thẻ Cloze - Ẩn thường\|✅ Tạo thẻ Cloze - Ẩn thường]]
 { #00bf51}
 
 
@@ -100,7 +100,7 @@ ___
 
 ## Thêm âm thanh
 
-> [[✅ Cài AwesomeTTS\|✅ Cài AwesomeTTS]]
+> [[VI. Top Addons/✅ Cài AwesomeTTS\|✅ Cài AwesomeTTS]]
 
 > [[III. Anki nâng cao/👑 Cách tạo tài khoản Azure TTS miễn phí (AwesomeTTS, HyperTTS)\|👑 Cách tạo tài khoản Azure TTS miễn phí (AwesomeTTS, HyperTTS)]]
 
