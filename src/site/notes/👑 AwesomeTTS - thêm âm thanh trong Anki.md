@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-hide":true,"tags":["add-ons","AwesomeTTS"],"permalink":"/awesome-tts-them-am-thanh-trong-anki/","hide":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"member":"VIP","tags":["add-ons","AwesomeTTS"],"permalink":"/awesome-tts-them-am-thanh-trong-anki/","hide":true,"dgPassFrontmatter":true}
 ---
 
 # Cài AwesomeTTS
