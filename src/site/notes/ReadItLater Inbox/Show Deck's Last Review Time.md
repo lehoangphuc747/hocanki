@@ -6,6 +6,6 @@
 
 > [Link Addons](https://ankiweb.net/shared/info/504609572)
 
-> [[✅ Cách cài Addons trên hocanki (mẫu)\|✅ Cách cài Addons trên hocanki (mẫu)]]
+> [[VI. Top Addons/✅ Cách cài Addons trên hocanki (mẫu)\|✅ Cách cài Addons trên hocanki (mẫu)]]
 
 ![](https://i.imgur.com/9To7jiX.png)
