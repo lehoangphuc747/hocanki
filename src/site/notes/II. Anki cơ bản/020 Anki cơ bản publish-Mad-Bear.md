@@ -97,7 +97,7 @@ ___
 
 ## Thêm âm thanh
 
-> [[✅ Cài AwesomeTTS\|✅ Cài AwesomeTTS]]
+> [[VI. Top Addons/✅ Cài AwesomeTTS\|✅ Cài AwesomeTTS]]
 
 > [[III. Anki nâng cao/👑 Cách tạo tài khoản Azure TTS miễn phí (AwesomeTTS, HyperTTS)\|👑 Cách tạo tài khoản Azure TTS miễn phí (AwesomeTTS, HyperTTS)]]
 
