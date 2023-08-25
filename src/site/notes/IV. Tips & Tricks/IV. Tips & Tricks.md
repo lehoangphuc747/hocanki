@@ -15,7 +15,7 @@ ___
 
 > [[IV. Tips & Tricks/Cách sắp xếp Deck theo thứ tự từ A-Z\|Cách sắp xếp Deck theo thứ tự từ A-Z]]
 
-> [[✅ Ghim Fields\|✅ Ghim Fields]]
+> [[II. Anki cơ bản/✅ Ghim Fields\|✅ Ghim Fields]]
 
 [[Cách cài Anki (Vanced)\|Cách cài Anki (Vanced)]]
 
