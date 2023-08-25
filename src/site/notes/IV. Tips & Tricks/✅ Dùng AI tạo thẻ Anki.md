@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-hide":true,"author":"Nguyễn Thiện Nghĩa","tags":["add-ons","AI","create","tips","tricks"],"permalink":"/iv-tips-and-tricks/dung-ai-tao-the-anki/","hide":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"author":"Nguyễn Thiện Nghĩa","tags":["AI","create","tips","tricks"],"permalink":"/iv-tips-and-tricks/dung-ai-tao-the-anki/","hide":true,"dgPassFrontmatter":true}
 ---
 
 
