@@ -104,6 +104,8 @@ ___
 
 > [[III. Anki nâng cao/👑 Cách tạo tài khoản Azure TTS miễn phí (AwesomeTTS, HyperTTS)\|👑 Cách tạo tài khoản Azure TTS miễn phí (AwesomeTTS, HyperTTS)]]
 
+> [[👑 Thêm âm thanh bằng AwesomeTTS trong khung tạo thẻ (Add)\|👑 Thêm âm thanh bằng AwesomeTTS trong khung tạo thẻ (Add)]]
+
 > [[II. Anki cơ bản/👑 Thêm âm thanh hàng loạt bằng AwesomeTTS\|👑 Thêm âm thanh hàng loạt bằng AwesomeTTS]]
 
 
