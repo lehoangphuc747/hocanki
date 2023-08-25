@@ -129,7 +129,7 @@
 > [[V. Lỗi/! Lỗi\|Truy cập]]
 
 # VI. Top Addons
-> [[Top Add-ons (Khuyến nghị)\|Truy cập]]
+> [[VI. Top Addons/Top Add-ons (Khuyến nghị)\|Truy cập]]
 
 # VII. Tổng hợp một số bộ thẻ
 > [[Tổng hợp bộ thẻ Anki\|Tổng hợp bộ thẻ Anki]]
