@@ -36,7 +36,9 @@ hoặc nếu muốn sắp xếp theo nhóm deck để dễ nhìn hơn
 ## **2. Ký tự đặc biệt**
 
 !Deck đầu tiền
-`#Deck thứ 2`
+```
+#Deck thứ 2
+```
 $Deck thứ 3
 
 Các ký tự có thể sử dụng: !#$%^&*()-+
