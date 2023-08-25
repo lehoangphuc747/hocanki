@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-hide":true,"tags":["add-ons","knowclip","youtube","netflix","phim"],"permalink":"/vua-xem-phim-vua-hoc-bang-knowclip-ap-dung-cho-ca-youtube-va-netflix/","hide":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"tags":["knowclip","youtube","netflix","phim","software"],"permalink":"/vua-xem-phim-vua-hoc-bang-knowclip-ap-dung-cho-ca-youtube-va-netflix/","hide":true,"dgPassFrontmatter":true}
 ---
 
 
