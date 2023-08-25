@@ -106,7 +106,7 @@ ___
 
 > [[VI. Top Addons/👑 Thêm âm thanh bằng AwesomeTTS trong khung tạo thẻ (Add)\|👑 Thêm âm thanh bằng AwesomeTTS trong khung tạo thẻ (Add)]]
 
-> [[II. Anki cơ bản/👑 Thêm âm thanh hàng loạt bằng AwesomeTTS\|👑 Thêm âm thanh hàng loạt bằng AwesomeTTS]]
+> [[VI. Top Addons/👑 Thêm âm thanh hàng loạt bằng AwesomeTTS\|👑 Thêm âm thanh hàng loạt bằng AwesomeTTS]]
 
 
 ## Thực hành 1
