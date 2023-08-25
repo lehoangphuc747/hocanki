@@ -11,6 +11,12 @@ ___
 
 > [👑 Cách sử dụng 2 phiên bản Anki trên cùng 1 máy tính](https://www.facebook.com/100006970567626/videos/1454785538639082/)
 
+> [[✅ Dùng AI tạo thẻ Anki\|✅ Dùng AI tạo thẻ Anki]]
+
+[[Cách cài Anki (Vanced)\|Cách cài Anki (Vanced)]]
+
+[[Cách sắp xếp deck theo thứ tự từ A-Z\|Cách sắp xếp deck theo thứ tự từ A-Z]]
+
 ___
 
 > [[000 🌟 Học Anki🌟\| Quay lại]]
