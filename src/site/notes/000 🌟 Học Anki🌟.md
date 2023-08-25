@@ -108,7 +108,7 @@
 
 # I. Dẫn nhập
 
-> [[I. Đàm đạo/010 Dẫn nhập\|Truy cập]]
+> [[I. Dẫn nhập/010 Dẫn nhập\|Truy cập]]
 
 # II. Anki cơ bản
 { #7c410d}
