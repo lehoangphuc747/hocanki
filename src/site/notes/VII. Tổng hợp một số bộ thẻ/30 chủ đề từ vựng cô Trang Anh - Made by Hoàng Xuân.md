@@ -32,6 +32,10 @@ Mọi người có thể xem qua ảnh tham khảo dưới đây. Nếu thấy h
 >
 ![](https://i.imgur.com/DAxnp24.png)
 
+> ![](https://i.imgur.com/yqJxeu2.png)
+>
+> ![](https://i.imgur.com/UcU6Axt.png)
+
 
 *Một lưu ý nhỏ cho các bạn là mình không biết bộ thẻ có hoạt động ở android và ios hay không, mình khuyến khích mọi người học trên web, hoặc phần mềm máy tính.
 
