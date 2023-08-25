@@ -123,7 +123,7 @@
 > [[III. Anki nâng cao/030 Anki Nâng cao publish\|Truy cập]]
 
 # IV. Tips & Tricks
-> [[IV. Mẹo & thủ thuật/IV. Tips & Tricks\|Truy cập]]
+> [[IV. Tips & Tricks/IV. Tips & Tricks\|Truy cập]]
 
 # V. Lỗi
 > [[V. Lỗi/! Lỗi\|Truy cập]]
