@@ -14,6 +14,7 @@ ___
 > 
 > ![](https://i.imgur.com/MSVHaMe.png)
 
+> [[Lỗi tải file apkg thành đuôi .zip trên Android\|Lỗi tải file apkg thành đuôi .zip trên Android]]
 
 
 ___
