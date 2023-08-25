@@ -93,7 +93,7 @@
 
 <span style="font-size: 30px; font-weight: bold;">Đăng ký tham gia: </span> &nbsp; [<img  src="https://i.imgur.com/CZ7hhJg.png" width="80">](https://m.me/tui.la.phuc747)  [<img  src="https://i.imgur.com/HNBJNZE.png" width="30">](https://zalo.me/346598402) [<img  src="https://i.imgur.com/9PROKnb.png" width="30">](https://t.me/lehoangphuc747)
 
-###### (Phí hạt dẻ - hỗ trợ FB, Zalo, Telegram)
+###### (Phí hạt dẻ - nhắn tin mình mới kết bạn, chứ mình chảnh lắm 🤣)
 
 <div style="display: flex; flex-direction: column; align-items: center; cursor: pointer;">
   <a href="https://www.facebook.com/groups/ankikhoa2/" target="_blank">
