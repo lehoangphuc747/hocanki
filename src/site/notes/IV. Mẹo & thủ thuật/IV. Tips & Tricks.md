@@ -15,7 +15,7 @@ ___
 
 [[Cách cài Anki (Vanced)\|Cách cài Anki (Vanced)]]
 
-[[Cách sắp xếp deck theo thứ tự từ A-Z\|Cách sắp xếp deck theo thứ tự từ A-Z]]
+[[Cách sắp xếp Deck theo thứ tự từ A-Z\|Cách sắp xếp Deck theo thứ tự từ A-Z]]
 
 ___
 
