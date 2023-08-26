@@ -19,7 +19,7 @@ Sau khi tải về, không cần cài đặt có thể sử dụng file đó lu�
 
 ## Video hướng dẫn:
 
-[Xem video Hướng dẫn]()
+[Xem video Hướng dẫn chi tiết]()
 
 Sử dụng Addons để kiểm soát tốc độ âm thanh trong Anki:
 
