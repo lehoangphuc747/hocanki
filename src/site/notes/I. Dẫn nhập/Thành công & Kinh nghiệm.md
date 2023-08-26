@@ -2,9 +2,7 @@
 {"dg-publish":true,"permalink":"/i-dan-nhap/thanh-cong-and-kinh-nghiem/","dgPassFrontmatter":true}
 ---
 
-> [[I. Dẫn nhập/010 Dẫn nhập\|Quay lại]]
 
-___
 # Vốn từ ~20,000 nhờ Anki
 
 > [Bài viết gốc](https://www.facebook.com/groups/ankivocabulary/posts/1061427581283565/)
@@ -205,7 +203,3 @@ ___
 # Hard work will pay off soon
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7nrGlzGt0Jc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-___
-> [[I. Dẫn nhập/010 Dẫn nhập\|Quay lại]]
