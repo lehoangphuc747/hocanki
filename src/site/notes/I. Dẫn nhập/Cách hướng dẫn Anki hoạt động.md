@@ -47,14 +47,6 @@ Mọi người hãy mạnh dạn hỏi lên nha.
 Hỏi càng nhiều thì càng có lợi cho bản thân mình thôi ạ.
 ![](https://i.imgur.com/hK7zf9H.png)
 
-# Lợi ích
-
-- Giải đáp thắc mắc
-- Yêu cầu video hướng dẫn về 1 chủ đề nào đó
-- Hỗ trợ làm mẫu thẻ
-- Lỗi gì đây? → Ưu tiên hỗ trợ (trong khả năng hiểu biết của mình)
-- …
-
 ___
 
 > [[000 🌟 Học Anki🌟\| Trang chủ]]
