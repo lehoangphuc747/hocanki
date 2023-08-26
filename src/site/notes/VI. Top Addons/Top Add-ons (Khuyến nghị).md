@@ -20,5 +20,6 @@ Vẫn đang cập nhật
 | [[VI. Top Addons/👑 AwesomeTTS - thêm âm thanh trong Anki\|👑 AwesomeTTS - thêm âm thanh trong Anki]]                                                                                   |
 | [[VI. Top Addons/👑 Multiple Choice Support - Tạo thẻ dạng trắc nghiệm (Multiple Choice) bằng Anki\|👑 Multiple Choice Support - Tạo thẻ dạng trắc nghiệm (Multiple Choice) bằng Anki]] |
 | [[VI. Top Addons/👑 Thêm âm thanh bằng AwesomeTTS trong khung tạo thẻ (Add)\|👑 Thêm âm thanh bằng AwesomeTTS trong khung tạo thẻ (Add)]]                                               |
+| [[Spreadsheet Import Plus\|Spreadsheet Import Plus]]                                                                                                                                    |
 
 { .block-language-dataview}
