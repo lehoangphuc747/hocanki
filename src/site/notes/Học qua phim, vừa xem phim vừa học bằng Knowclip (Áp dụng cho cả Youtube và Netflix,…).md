@@ -22,4 +22,4 @@ Sẽ up trong nhóm học anki
 
 Sử dụng Addons để kiểm soát tốc độ âm thanh trong Anki:
 
-> [[✅ Audio Playback Controls - Chỉnh tốc độ âm thanh để học phim trong Anki\|✅ Audio Playback Controls - Chỉnh tốc độ âm thanh để học phim trong Anki]]
+> [[VI. Top Addons/✅ Audio Playback Controls - Chỉnh tốc độ âm thanh để học phim trong Anki\|✅ Audio Playback Controls - Chỉnh tốc độ âm thanh để học phim trong Anki]]
