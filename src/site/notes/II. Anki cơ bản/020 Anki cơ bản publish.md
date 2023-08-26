@@ -17,7 +17,7 @@ Nắm vững các kiến thức cơ bản của Anki.
 </div>
 
 ___
-## 01. Tải, cài đặt & Đồng bộ
+## Tải, cài đặt & Đồng bộ
 
 [[II. Anki cơ bản/Tải và cài đặt Anki\|✅ Tải và cài đặt Anki]]
 
@@ -36,6 +36,8 @@ ___
 [[V. Lỗi/Lỗi Vui lòng sử dụng chức năng Kiểm tra Cơ sở dữ Liệu (Check Database)\|✅ Lỗi: Vui lòng sử dụng chức năng Kiểm tra Cơ sở dữ Liệu (Check Database)]]
 
 [[II. Anki cơ bản/Tại sao nên sử dụng Anki bản tiếng Anh\|✅ Tại sao nên sử dụng Anki bản tiếng Anh?]]
+
+---
 
 ## Tạo Deck & Tags
 
@@ -58,6 +60,8 @@ ___
 [👑 Xóa tags không sử dụng (Unused Tags)](https://www.facebook.com/groups/ankikhoa2/posts/658428619672774/)
 { #85168f}
 
+
+---
 
 ## Tạo thẻ
 
@@ -98,6 +102,8 @@ ___
 
 [[II. Anki cơ bản/✅ Ghim Fields\|✅ Ghim Fields]]
 
+---
+
 ## Thêm âm thanh
 
 [[VI. Top Addons/✅ Cài AwesomeTTS\|✅ Cài AwesomeTTS]]
@@ -108,14 +114,19 @@ ___
 
 [[VI. Top Addons/👑 Thêm âm thanh hàng loạt bằng AwesomeTTS\|👑 Thêm âm thanh hàng loạt bằng AwesomeTTS]]
 
+---
 
 ## Thực hành 1
 
 [[II. Anki cơ bản/(Thực hành 1) Tạo thẻ từ vựng tiếng Anh - Basic - có hình, âm thanh\|👑 (Thực hành 1) Tạo thẻ từ vựng tiếng Anh - 1 mặt - có hình ảnh, âm thanh]]
 
+---
+
 ## Ankify - Anki hóa
 
 [[II. Anki cơ bản/Ankify - Anki hóa\|✅ Ankify - Anki hóa]]
+
+---
 
 ## Nâng cấp thẻ
 
@@ -151,6 +162,8 @@ ___
 { #bcd316}
 
 
+---
+
 ## Trạng thái thẻ
 
 [👑 New, Learn, Due](https://www.facebook.com/100006970567626/videos/6380549382011532/)
@@ -165,16 +178,21 @@ ___
 { #63b333}
 
 
+---
 
 ## Browse (Duyệt)
 
 [[II. Anki cơ bản/✅ Change Deck - Chuyển thẻ sang Deck khác\|✅ Change Deck - Chuyển thẻ sang Deck khác]]
+
+---
 
 ## Backup (Sao lưu dữ liệu)
 
 [[II. Anki cơ bản/👑 Backup Anki - Sao lưu dữ liệu\|👑 Backup Anki - Sao lưu dữ liệu]]
 
 [[II. Anki cơ bản/👑 Restore from Backup - Khôi phục bản sao lưu\|👑 Restore from Backup - Khôi phục bản sao lưu]]
+
+---
 
 ## Nâng cao trải nghiệm học
 
