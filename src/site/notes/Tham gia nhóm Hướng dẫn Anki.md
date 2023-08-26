@@ -17,7 +17,7 @@
 
 # Cách đăng ký
 
-Chuyển khoản → Chụp màn hình → Gửi qua tin nhắn (Messenger, Zalo, Telegram)
+Chuyển khoản → Chụp màn hình → Gửi qua tin nhắn
 
 | Messenger  | Zalo  | Telegram  |
 |-------|-------|-------|
