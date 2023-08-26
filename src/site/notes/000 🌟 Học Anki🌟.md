@@ -106,36 +106,22 @@
 
 ---
 
-# I. Dẫn nhập
-
-> [[I. Dẫn nhập/010 Dẫn nhập\|Truy cập]]
-
-# II. Anki cơ bản
-{ #7c410d}
+# [[I. Dẫn nhập/010 Dẫn nhập\|I. Dẫn nhập]]
 
 
-> [[II. Anki cơ bản/020 Anki cơ bản publish\|Truy cập]]
+# [[II. Anki cơ bản/020 Anki cơ bản publish\|II. Anki cơ bản]]
 
-# III. Anki nâng cao
-{ #773ef1}
+# [[III. Anki nâng cao/030 Anki Nâng cao publish\|III. Anki nâng cao]]
 
+# [[IV. Tips & Tricks/IV. Tips & Tricks\|IV. Tips & Tricks]]
 
-> [[III. Anki nâng cao/030 Anki Nâng cao publish\|Truy cập]]
+# [[V. Lỗi/! Lỗi\|V. Lỗi]]
 
-# IV. Tips & Tricks
-> [[IV. Tips & Tricks/IV. Tips & Tricks\|Truy cập]]
+# [[VI. Top Addons/Top Add-ons (Khuyến nghị)\|VI. Top Addons]]
 
-# V. Lỗi
-> [[V. Lỗi/! Lỗi\|Truy cập]]
+# [[Tổng hợp bộ thẻ Anki\|VII. Tổng hợp một số bộ thẻ]]
 
-# VI. Top Addons
-> [[VI. Top Addons/Top Add-ons (Khuyến nghị)\|Truy cập]]
-
-# VII. Tổng hợp một số bộ thẻ
-> [[Tổng hợp bộ thẻ Anki\|Tổng hợp bộ thẻ Anki]]
-
-# Review
-> [[Review\|Truy cập]]
+# [[Review\|Review]]
 
 ___
 
