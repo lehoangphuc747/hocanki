@@ -199,7 +199,3 @@ ___
 [[III. Anki nâng cao/✅ Review Heatmap - 💪 Động lực, quá trình\|✅ Review Heatmap - 💪 Động lực, quá trình]]
 
 [[III. Anki nâng cao/✅ More Overview Stats 2.1\|✅ More Overview Stats 2.1]]
-
-___
-
-> [[000 🌟 Học Anki🌟\|Quay lại]]
