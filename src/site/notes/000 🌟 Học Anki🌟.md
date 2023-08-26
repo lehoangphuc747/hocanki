@@ -97,7 +97,7 @@
   <a href="https://www.facebook.com/groups/ankikhoa2/" target="_blank">
     <button style="font-size: 24px; padding: 10px; margin: 10px 0; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); height: 100%; width-max:90%;">Nhóm Hướng dẫn Anki <br>(Truy cập)</button>
   </a>
-  <a href="[[Tham gia nhóm\|Tham gia nhóm]]" target="_blank">
+  <a href="https://hocanki.com/tham-gia-nhom-huong-dan-anki/" target="_blank">
     <button style="height:45px;font-size: 24px; padding: 10px; margin: 10px 0; background: #D71313; font-weight: 600; color: white;">Đăng ký tham gia</button>
   </a>
 </div>
