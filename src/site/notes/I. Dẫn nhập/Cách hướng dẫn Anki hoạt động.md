@@ -2,9 +2,6 @@
 {"dg-publish":true,"dg-note-icon":1,"dg-hide":true,"permalink":"/i-dan-nhap/cach-huong-dan-anki-hoat-dong/","hide":true,"dgPassFrontmatter":true}
 ---
 
-> [[I. Dẫn nhập/010 Dẫn nhập\|Quay lại]]
-
-___
 
 # Kết hợp Facebook & Website (dựa trên Obsidian)
 
@@ -46,7 +43,3 @@ Có thể nhắn tin trực tiếp theo thông tin liên hệ ở [[000 🌟 H�
 Mọi người hãy mạnh dạn hỏi lên nha.
 Hỏi càng nhiều thì càng có lợi cho bản thân mình thôi ạ.
 ![](https://i.imgur.com/hK7zf9H.png)
-
-___
-
-> [[000 🌟 Học Anki🌟\| Trang chủ]]
