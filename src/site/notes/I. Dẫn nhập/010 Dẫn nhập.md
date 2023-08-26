@@ -20,7 +20,3 @@
 [[I. Dẫn nhập/Thành công & Kinh nghiệm\| 🏆 Thành công & kinh nghiệm]]
 
 [[I. Dẫn nhập/1.7 Dạy con, tại sao không\|👶 Dạy con, tại sao không?]]
-
-___
-
-[[000 🌟 Học Anki🌟\|Quay lại]]
