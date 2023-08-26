@@ -134,8 +134,8 @@
 # VII. Tổng hợp một số bộ thẻ
 > [[Tổng hợp bộ thẻ Anki\|Tổng hợp bộ thẻ Anki]]
 
-# Hỗ trợ
-> [[Hỗ trợ\|Truy cập]]
+# Review
+> [[Review\|Truy cập]]
 
 ___
 
