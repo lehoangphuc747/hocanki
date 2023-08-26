@@ -9,6 +9,7 @@ Vẫn đang cập nhật
 | File                                                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [[VI. Top Addons/✅ !Cách cài Addons trên hocanki (mẫu)\|✅ !Cách cài Addons trên hocanki (mẫu)]]                                                                                         |
+| [[✅ Audio Playback Controls - Chỉnh tốc độ âm thanh để học phim trong Anki\|✅ Audio Playback Controls - Chỉnh tốc độ âm thanh để học phim trong Anki]]                                  |
 | [[VI. Top Addons/✅ Cài AwesomeTTS\|✅ Cài AwesomeTTS]]                                                                                                                                   |
 | [[II. Anki cơ bản/✅ Cài HyperTTS\|✅ Cài HyperTTS]]                                                                                                                                      |
 | [[III. Anki nâng cao/✅ Fastbar - with nightmode support\|✅ Fastbar - with nightmode support]]                                                                                           |
