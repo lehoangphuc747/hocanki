@@ -6,7 +6,7 @@
 
 Vẫn đang cập nhật
 
-| File                                                                                                                                                                                       |
+| Bài                                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [[VI. Top Addons/✅ !Cách cài Addons trên hocanki (mẫu)\|✅ !Cách cài Addons trên hocanki (mẫu)]]                                                                                         |
 | [[VI. Top Addons/✅ Audio Playback Controls - Chỉnh tốc độ âm thanh để học phim trong Anki\|✅ Audio Playback Controls - Chỉnh tốc độ âm thanh để học phim trong Anki]]                   |
@@ -19,7 +19,7 @@ Vẫn đang cập nhật
 | [[ReadItLater Inbox/✅ Show Deck's Last Review Time\|✅ Show Deck's Last Review Time]]                                                                                                    |
 | [[VI. Top Addons/👑 AwesomeTTS - thêm âm thanh trong Anki\|👑 AwesomeTTS - thêm âm thanh trong Anki]]                                                                                   |
 | [[VI. Top Addons/👑 Multiple Choice Support - Tạo thẻ dạng trắc nghiệm (Multiple Choice) bằng Anki\|👑 Multiple Choice Support - Tạo thẻ dạng trắc nghiệm (Multiple Choice) bằng Anki]] |
+| [[👑 Spreadsheet Import Plus - thêm thẻ bằng Excel\|👑 Spreadsheet Import Plus - thêm thẻ bằng Excel]]                                                                                  |
 | [[VI. Top Addons/👑 Thêm âm thanh bằng AwesomeTTS trong khung tạo thẻ (Add)\|👑 Thêm âm thanh bằng AwesomeTTS trong khung tạo thẻ (Add)]]                                               |
-| [[Spreadsheet Import Plus\|Spreadsheet Import Plus]]                                                                                                                                    |
 
 { .block-language-dataview}
