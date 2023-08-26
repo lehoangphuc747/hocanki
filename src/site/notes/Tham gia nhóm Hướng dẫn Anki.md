@@ -11,11 +11,15 @@
 - Gọi Video để bàn bạc, thảo luận, giải quyết vấn đề
 - Hỗ trợ tạo Template cá nhân (mẫu thẻ)
 
+# Phí đăng ký
+
+###### ~~500k~~ → 239k
+
 # Cách đăng ký
 
-Chuyển khoản → Chụp màn hình → Gửi qua tin nhắn
+Chuyển khoản → Chụp màn hình → Gửi qua tin nhắn (Messenger, Zalo, Telegram)
 
-[<img  src="https://i.imgur.com/CZ7hhJg.png" width="80">](https://m.me/tui.la.phuc747)  [<img  src="https://i.imgur.com/HNBJNZE.png" width="30">](https://zalo.me/346598402) [<img  src="https://i.imgur.com/9PROKnb.png" width="30">](https://t.me/lehoangphuc747)
+[<img  src="https://i.imgur.com/8Oq8Ftg.png" width="30">](https://m.me/tui.la.phuc747)  [<img  src="https://i.imgur.com/HNBJNZE.png" width="30">](https://zalo.me/346598402) [<img  src="https://i.imgur.com/9PROKnb.png" width="30">](https://t.me/lehoangphuc747)
 
 | Vietcombank  | Momo  |
 |-------|-------|
