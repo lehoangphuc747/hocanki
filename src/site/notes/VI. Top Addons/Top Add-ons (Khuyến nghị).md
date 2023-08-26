@@ -17,7 +17,7 @@ Vẫn đang cập nhật
 | [[III. Anki nâng cao/✅ More Overview Stats 2.1\|✅ More Overview Stats 2.1]]                                                                                                             |
 | [[III. Anki nâng cao/✅ Review Heatmap - 💪 Động lực, quá trình\|✅ Review Heatmap - 💪 Động lực, quá trình]]                                                                             |
 | [[ReadItLater Inbox/✅ Show Deck's Last Review Time\|✅ Show Deck's Last Review Time]]                                                                                                    |
-| [[👑 AwesomeTTS - thêm âm thanh trong Anki\|👑 AwesomeTTS - thêm âm thanh trong Anki]]                                                                                                  |
+| [[VI. Top Addons/👑 AwesomeTTS - thêm âm thanh trong Anki\|👑 AwesomeTTS - thêm âm thanh trong Anki]]                                                                                   |
 | [[VI. Top Addons/👑 Multiple Choice Support - Tạo thẻ dạng trắc nghiệm (Multiple Choice) bằng Anki\|👑 Multiple Choice Support - Tạo thẻ dạng trắc nghiệm (Multiple Choice) bằng Anki]] |
 | [[VI. Top Addons/👑 Thêm âm thanh bằng AwesomeTTS trong khung tạo thẻ (Add)\|👑 Thêm âm thanh bằng AwesomeTTS trong khung tạo thẻ (Add)]]                                               |
 
