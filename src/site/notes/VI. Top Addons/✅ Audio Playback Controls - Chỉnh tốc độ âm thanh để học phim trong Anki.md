@@ -5,7 +5,7 @@
 
 **Code:** 312734862
 
-[Link Add-ons gốc](https://ankiweb.net/shared/info/312734862)
+> [Link Add-ons gốc](https://ankiweb.net/shared/info/312734862)
 
 ![](https://i.imgur.com/X5dNQs3.png)
 
