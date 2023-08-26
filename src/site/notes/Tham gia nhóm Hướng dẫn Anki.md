@@ -19,7 +19,7 @@ Chuyển khoản → Chụp màn hình → Gửi qua tin nhắn
 
 | Vietcombank  | Momo  |
 |-------|-------|
-| ![\|375](https://i.imgur.com/v9TU09p.png) | ![\|300](https://i.imgur.com/WKxy0GI.png) |
+| ![](https://i.imgur.com/v9TU09p.png) | ![](https://i.imgur.com/WKxy0GI.png) |
 
 
 
