@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-hide":true,"author":"Hoàng Xuân","language":"English","tags":["shared-deck","english","cô-Trang-Anh","Hoàng-Xuân"],"permalink":"/vii-tong-hop-mot-so-bo-the/30-chu-de-tu-vung-co-trang-anh-made-by-hoang-xuan/","hide":true,"dgPassFrontmatter":true}
+{"member":"FREE","dg-publish":true,"dg-hide":true,"author":"Hoàng Xuân","language":"English","tags":["shared-deck","english","cô-Trang-Anh","Hoàng-Xuân"],"title":"30 chủ đề từ vựng cô Trang Anh - Made by Hoàng Xuân","permalink":"/vii-tong-hop-mot-so-bo-the/30-chu-de-tu-vung-co-trang-anh-made-by-hoang-xuan/","hide":true,"dgPassFrontmatter":true}
 ---
 
 > [Nguồn Hoàng Xuân](https://www.facebook.com/groups/ankivocabulary/posts/1395347344558252/)
