@@ -11,8 +11,8 @@ Nắm vững các kiến thức cơ bản của Anki.
 [[II. Anki cơ bản/021 Anki cơ bản vip\| ❌ Không truy cập cái này]]
 
 <div style="display: flex; flex-direction: column; align-items: center; cursor: pointer;">
-  <a href="https://m.me/tui.la.phuc747" target="_blank">
-    <button style="font-size: 24px; padding: 10px; margin: 10px 0; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); height: 100%; width-max:90%;">Tham gia<br>nhóm Hướng dẫn Anki (inbox)</button>
+  <a href="https://hocanki.com/tham-gia-nhom-huong-dan-anki/" target="_blank">
+    <button style="font-size: 24px; padding: 10px; margin: 10px 0; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); height: 100%; width-max:90%;">Tham gia<br>nhóm Hướng dẫn Anki</button>
   </a>
 </div>
 
