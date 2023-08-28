@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/i-dan-nhap/thanh-cong-and-kinh-nghiem/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/i-dan-nhap/thanh-cong-and-kinh-nghiem/","hide":true,"dgPassFrontmatter":true}
 ---
 
 
