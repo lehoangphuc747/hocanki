@@ -25,22 +25,21 @@ Tags: #add-ons #excel #spreadsheet #import
 
 [Tải file Excel mẫu](https://1drv.ms/x/s!AnGRjCvbms2VirF8Zi2gR16Oz9_Q3A?e=YjcciD)
 
-# Tùy chỉnh:
+# Lưu ý
 
-Ô Excel:
+“A1” : Phải có dòng này “**SpreadsheetImportPlus v1**”
+Ngoài trừ ô A1, các cột còn lại của hàng 1 phải để trống.
 
- - “A1” : Phải có dòng này “**SpreadsheetImportPlus v1**”
- - Ngoài trừ ô A1, các cột còn lại của hàng 1 phải để trống.
- - **Hàng thứ 2:** chứa tên Fields. Tên Fields phải chính xác để khi Import nó sẽ auto-matching. “_tags” sẽ link đến tags nên để cột cuối cùng. Các cột phải liền kề nhau, nếu trống ra 1 cột thì sau cột trống tất cả giá trị đều vô nghĩa.
+**Hàng thứ 2:** chứa tên Fields. Tên Fields phải chính xác để khi Import nó sẽ auto-matching. “_tags” sẽ link đến tags nên để cột cuối cùng. Các cột phải liền kề nhau, nếu trống ra 1 cột thì sau cột trống tất cả giá trị đều vô nghĩa.
 
 ![](https://i.imgur.com/qqjL0TW.png)
 
-- **Hàng thứ 3:** 
+**Hàng thứ 3:** 
 	- “text”: văn bản thuần
-	- “html”: định dạng <html>
+	- “html”: định dạng ```<html></html>```
 		- “markdown”: định dạng Markdown. Ai dùng Obsidian chắc khỏi cần nói. Còn ai không biết Google nhé.
 
--  Hàng thứ 4: Phải để trống
+**Hàng thứ 4:** Phải để trống.
 
 # Video hướng dẫn
 
