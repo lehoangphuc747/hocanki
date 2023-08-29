@@ -99,8 +99,13 @@ ___
 
 [[II. Anki cơ bản/Tại sao nên dùng thẻ Cloze\|✅ Tại sao nên dùng thẻ Cloze?]]
 
-
 [[II. Anki cơ bản/✅ Ghim Fields\|✅ Ghim Fields]]
+
+---
+
+## Import
+
+[[II. Anki cơ bản/👑 Nhập bộ thẻ Excel vào Anki - Import file Excel to Anki\|👑 Nhập bộ thẻ Excel vào Anki - Import file Excel to Anki]]
 
 ---
 
