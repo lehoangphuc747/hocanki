@@ -3,10 +3,12 @@
 ---
 
 
-Tags: #add-ons #excel #spreadsheet #import 
+Tags: #add-ons #excel #spreadsheet #import
 
 **Code:** 716643677
 
 [Link Addons](https://ankiweb.net/shared/info/716643677)
 
 [[VI. Top Addons/✅ !Cách cài Addons trên hocanki (mẫu)\|✅ !Cách cài Addons trên hocanki (mẫu)]]
+
+[[II. Anki cơ bản/👑 Nhập bộ thẻ Excel vào Anki - Import file Excel to Anki\|👑 Nhập bộ thẻ Excel vào Anki - Import file Excel to Anki]]
