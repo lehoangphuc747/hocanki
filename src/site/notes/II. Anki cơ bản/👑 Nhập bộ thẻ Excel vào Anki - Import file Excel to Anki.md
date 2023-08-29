@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-hide":true,"member":"VIP","author":null,"language":null,"tags":["excel","import","spreadsheet"],"title":"👑 Nhập bộ thẻ Excel vào Anki - Import file Excel to Anki","permalink":"/ii-anki-co-ban/nhap-bo-the-excel-vao-anki-import-file-excel-to-anki/","hide":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"member":"VIP","author":null,"language":null,"tags":null,"title":"👑 Nhập bộ thẻ Excel vào Anki - Import file Excel to Anki","permalink":"/ii-anki-co-ban/nhap-bo-the-excel-vao-anki-import-file-excel-to-anki/","hide":true,"dgPassFrontmatter":true}
 ---
 
 
