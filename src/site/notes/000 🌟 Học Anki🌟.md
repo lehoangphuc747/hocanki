@@ -104,7 +104,7 @@
 
 ---
 
-# [[I. Dẫn nhập/010 Dẫn nhập\|I. Dẫn nhập]]
+# [[I. Nhập môn/00 Nhập môn\|I. Dẫn nhập]]
 
 
 # [[II. Anki cơ bản/020 Anki cơ bản publish\|II. Anki cơ bản]]
@@ -117,7 +117,7 @@
 
 # [[VI. Top Addons/Top Add-ons (Khuyến nghị)\|VI. Top Addons]]
 
-# [[Tổng hợp bộ thẻ Anki\|VII. Tổng hợp một số bộ thẻ]]
+# [[VII. Tổng hợp một số bộ thẻ/Tổng hợp bộ thẻ Anki\|VII. Tổng hợp một số bộ thẻ]]
 
 # [[Review\|Review]]
 
