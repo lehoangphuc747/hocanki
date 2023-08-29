@@ -11,4 +11,4 @@ Tags: #add-ons #excel #spreadsheet #import
 
 [[VI. Top Addons/✅ !Cách cài Addons trên hocanki (mẫu)\|✅ !Cách cài Addons trên hocanki (mẫu)]]
 
-[[II. Anki cơ bản/👑 Nhập bộ thẻ Excel vào Anki - Import file Excel to Anki\|👑 Nhập bộ thẻ Excel vào Anki - Import file Excel to Anki]]
+[[👑 Nhập bộ thẻ Excel vào Anki - Import file Excel to Anki\|👑 Nhập bộ thẻ Excel vào Anki - Import file Excel to Anki]]
