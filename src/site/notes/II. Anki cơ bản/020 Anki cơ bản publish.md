@@ -105,7 +105,7 @@ ___
 
 ## Import
 
-[[👑 Nhập bộ thẻ Excel vào Anki - Import file Excel to Anki\|👑 Nhập bộ thẻ Excel vào Anki - Import file Excel to Anki]]
+[[II. Anki cơ bản/👑 Nhập bộ thẻ Excel vào Anki - Import file Excel to Anki\|👑 Nhập bộ thẻ Excel vào Anki - Import file Excel to Anki]]
 
 ---
 
