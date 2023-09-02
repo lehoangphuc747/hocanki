@@ -50,3 +50,5 @@ Thêm thẻ từ file Excel có sẵn, hướng dẫn dành cho
 2. Note Type khác (tải mạng hoặc tự thiết kế)
 
 > [Video hướng dẫn](https://www.facebook.com/groups/ankikhoa2/posts/672572154925087/)
+
+> [Cập nhật bổ sung](https://www.facebook.com/groups/ankikhoa2/posts/674410678074568/)
