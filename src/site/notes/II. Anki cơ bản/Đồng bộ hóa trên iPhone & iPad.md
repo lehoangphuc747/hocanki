@@ -4,7 +4,7 @@
 
 #AnkiWeb #iOS #Sync 
 
-> [[II. Anki cơ bản/020 Anki cơ bản publish\|Quay lại]]
+> [[II. Anki cơ bản/020 Anki cơ bản\|Quay lại]]
 
 ___
 
@@ -16,4 +16,4 @@ ___
 
 ___
 
-> [[II. Anki cơ bản/020 Anki cơ bản publish\|Quay lại]]
+> [[II. Anki cơ bản/020 Anki cơ bản\|Quay lại]]
