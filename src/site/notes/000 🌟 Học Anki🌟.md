@@ -107,7 +107,7 @@
 # [[I. Nhập môn/00 Nhập môn\|I. Dẫn nhập]]
 
 
-# [[II. Anki cơ bản/020 Anki cơ bản publish\|II. Anki cơ bản]]
+# [[II. Anki cơ bản/020 Anki cơ bản\|II. Anki cơ bản]]
 
 # [[III. Anki nâng cao/030 Anki Nâng cao publish\|III. Anki nâng cao]]
 
