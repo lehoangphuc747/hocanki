@@ -2,7 +2,7 @@
 {"dg-publish":true,"title":"Tại sao nên dùng thẻ Cloze?","permalink":"/ii-anki-co-ban/tai-sao-nen-dung-the-cloze/","dgPassFrontmatter":true}
 ---
 
-> [[II. Anki cơ bản/020 Anki cơ bản publish\|Quay lại]]
+> [[II. Anki cơ bản/020 Anki cơ bản\|Quay lại]]
 
 [[II. Anki cơ bản/021 Anki cơ bản vip\|❌❌❌]]
 
@@ -30,21 +30,21 @@ Tùy thuộc vào mục đích của người học mà sẽ sử dụng nhiều
 Tạm thời mình sẽ liệt kê một số cái phổ biến trước.
 
 
-> [[II. Anki cơ bản/020 Anki cơ bản publish#^00bf51\|👑 Tạo thẻ Cloze - Ẩn thường]]
+> [[II. Anki cơ bản/020 Anki cơ bản#^00bf51\|👑 Tạo thẻ Cloze - Ẩn thường]]
 
 > ![Pasted image 20230811165830.png](/img/user/Y.%20Files/Pasted%20image%2020230811165830.png)
 > ![Pasted image 20230811165817.png](/img/user/Y.%20Files/Pasted%20image%2020230811165817.png)
 
 Cách phức tạp hơn, nếu muốn ẩn đồng thời nhiều cái.
 
-> [[II. Anki cơ bản/020 Anki cơ bản publish#^c0c78f\|👑 Tạo thẻ Cloze - Ẩn đồng thời]]
+> [[II. Anki cơ bản/020 Anki cơ bản#^c0c78f\|👑 Tạo thẻ Cloze - Ẩn đồng thời]]
 
 > ![Pasted image 20230811165948.png](/img/user/Y.%20Files/Pasted%20image%2020230811165948.png)
 > ![Pasted image 20230811170041.png](/img/user/Y.%20Files/Pasted%20image%2020230811170041.png)
 
 Còn nếu muốn thêm gợi ý cho nội dung Ẩn - trường hợp nội dung khó nhớ, dễ quên.
 
-> [[II. Anki cơ bản/020 Anki cơ bản publish#^6048b3\|👑 Tạo thẻ Cloze Hint - Điền vào chỗ trống có Gợi ý]]
+> [[II. Anki cơ bản/020 Anki cơ bản#^6048b3\|👑 Tạo thẻ Cloze Hint - Điền vào chỗ trống có Gợi ý]]
 
 > Đây là câu hỏi.
 > ![Pasted image 20230811170321.png](/img/user/Y.%20Files/Pasted%20image%2020230811170321.png)
