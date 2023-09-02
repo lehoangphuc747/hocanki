@@ -4,7 +4,7 @@
 
 #Lỗi
 
-> [[II. Anki cơ bản/020 Anki cơ bản publish\| Anki cơ bản]] / [[! Lỗi \| Lỗi]]
+> [[II. Anki cơ bản/020 Anki cơ bản\| Anki cơ bản]] / [[! Lỗi \| Lỗi]]
 
 ___
 
@@ -23,4 +23,4 @@ Lỗi xuất hiện khi đồng bộ qua [[II. Anki cơ bản/Đăng ký tài kh
 
 ___
 
-> [[II. Anki cơ bản/020 Anki cơ bản publish\| Anki cơ bản]] / [[! Lỗi \| Lỗi]]
+> [[II. Anki cơ bản/020 Anki cơ bản\| Anki cơ bản]] / [[! Lỗi \| Lỗi]]
