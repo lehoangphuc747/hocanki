@@ -10,7 +10,7 @@ Tìm hiểu các Add-ons, Extension, chỉnh sửa giao diện Anki và bộ th�
 
 <div style="display: flex; flex-direction: column; align-items: center; cursor: pointer;">
   <a href="https://hocanki.com/tham-gia-nhom-huong-dan-anki/" target="_blank">
-    <button style="font-size: 24px; padding: 10px; margin: 10px 0; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); height: 100%; width-max:90%;">Tham gia<br>nhóm Hướng dẫn Anki</button>
+    <button style="height:45px;font-size: 24px; padding: 10px; margin: 10px 0; background: #D71313; font-weight: 600; color: white;">Đăng ký tham gia</button>
   </a>
 </div>
 
