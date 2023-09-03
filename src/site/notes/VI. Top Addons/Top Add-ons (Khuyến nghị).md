@@ -3,6 +3,12 @@
 ---
 
 
+<div style="display: flex; flex-direction: column; align-items: center; cursor: pointer;">
+  <a href="https://hocanki.com/tham-gia-nhom-huong-dan-anki/" target="_blank">
+    <button style="height:45px;font-size: 24px; padding: 10px; margin: 10px 0; background: #D71313; font-weight: 600; color: white;">Đăng ký tham gia</button>
+  </a>
+</div>
+
 
 Vẫn đang cập nhật
 
