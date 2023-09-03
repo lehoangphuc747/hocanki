@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-hide":true,"member":"VIP","tags":["subscription"],"title":"Tham gia nhóm Hướng dẫn Anki","permalink":"/tham-gia-nhom-huong-dan-anki/","hide":true,"dgPassFrontmatter":true}
 ---
 
-# Quyền lợi (2 năm):
+# Quyền lợi:
 
 - Truy cập các video hướng dẫn trên website **(VĨNH VIỄN)**
 - Yêu cầu video hướng dẫn về 1 chủ đề nào đó
