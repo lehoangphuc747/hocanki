@@ -5,11 +5,16 @@
 # Quyền lợi:
 
 - Truy cập các video hướng dẫn trên website **(VĨNH VIỄN)**
-- Yêu cầu video hướng dẫn về 1 chủ đề nào đó
-- Được ưu tiên giải đáp thắc mắc
-- Hỗ trợ cùng giải quyết lỗi Anki xảy ra trong quá trình học
-- Gọi Video để bàn bạc, thảo luận, giải quyết vấn đề
-- Hỗ trợ tạo Template cá nhân (mẫu thẻ)
+- Yêu cầu video hướng dẫn
+- Ưu tiên hỗ trợ
+	- Lỗi
+	- Thắc mắc
+- Nhắn tin
+- Call Video
+- Zoom, Google Meet,…
+- Teamview, Ultraview, Anydesk,…
+- Hỗ trợ tạo template cá nhân
+- …
 
 # Phí đăng ký
 
