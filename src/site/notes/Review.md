@@ -19,3 +19,5 @@ Bộ mấy ngàn câu tiếng Trung
 > ![](https://i.imgur.com/oQyIiQn.png)
 
 ![](https://i.imgur.com/0Xg6tZu.png)
+
+![](https://i.imgur.com/mIKCYct.png)
