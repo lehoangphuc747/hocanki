@@ -4,7 +4,7 @@
 
 # Quyền lợi:
 
-- Truy cập các video hướng dẫn trên website **(VĨNH VIỄN)**
+- Truy cập các video hướng dẫn trên **==hocanki.com==** **(VĨNH VIỄN)**
 - Yêu cầu video hướng dẫn
 - Ưu tiên hỗ trợ
 	- Lỗi
