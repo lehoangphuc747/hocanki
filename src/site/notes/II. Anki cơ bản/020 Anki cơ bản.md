@@ -169,6 +169,12 @@ ___
 
 ---
 
+## Quản lý Note Type
+
+[[👑 Xóa Note Type\|👑 Xóa Note Type]]
+
+---
+
 ## Trạng thái thẻ
 
 [👑 New, Learn, Due](https://www.facebook.com/100006970567626/videos/6380549382011532/)
