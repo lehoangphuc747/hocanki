@@ -24,6 +24,9 @@ Bộ mấy ngàn câu tiếng Trung
 
 ![](https://i.imgur.com/mIKCYct.png)
 
+![](https://i.imgur.com/f7QPvkO.png)
+
+
 ---
 
 <div style="display: flex; flex-direction: column; align-items: center; cursor: pointer;">
