@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"dg-pinned":true,"dg-note-icon":3,"title":"HỌC ANKI","permalink":"/000-hoc-anki/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"title":"HỌC ANKI","dg-publish":true,"dg-home":true,"dg-pinned":true,"dg-note-icon":3,"permalink":"/000-hoc-anki/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 # <center> <?xml version="1.0" encoding="iso-8859-1"?><!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 512.001 512.001" style="enable-background:new 0 0 512.001 512.001;" xml:space="preserve" width="35">
@@ -104,12 +104,13 @@
 
 ---
 
-# [[I. Nhập môn/00 Nhập môn\|I. Dẫn nhập]]
+# [[Review\|Review]]
 
+# [[I. Nhập môn/00 Nhập môn\|I. Dẫn nhập]]
 
 # [[II. Anki cơ bản/020 Anki cơ bản\|II. Anki cơ bản]]
 
-# [[III. Anki nâng cao/030 Anki Nâng cao publish\|III. Anki nâng cao]]
+# [[III. Anki nâng cao/030 Anki Nâng cao\|III. Anki nâng cao]]
 
 # [[IV. Tips & Tricks/IV. Tips & Tricks\|IV. Tips & Tricks]]
 
@@ -118,8 +119,6 @@
 # [[VI. Top Addons/Top Add-ons (Khuyến nghị)\|VI. Top Addons]]
 
 # [[VII. Tổng hợp một số bộ thẻ/Tổng hợp bộ thẻ Anki\|VII. Tổng hợp một số bộ thẻ]]
-
-# [[Review\|Review]]
 
 ___
 
