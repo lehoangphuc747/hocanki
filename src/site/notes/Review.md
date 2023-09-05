@@ -24,6 +24,10 @@ Bộ mấy ngàn câu tiếng Trung
 
 ![](https://i.imgur.com/mIKCYct.png)
 
+
+Mình làm:
+
+
 ![](https://i.imgur.com/f7QPvkO.png)
 
 ![](https://i.imgur.com/lQuwdzu.png)
