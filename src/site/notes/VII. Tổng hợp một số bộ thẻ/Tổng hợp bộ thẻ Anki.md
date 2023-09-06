@@ -10,9 +10,9 @@
 </div>
 
 
-| Bài                                                                                                                                         | Ngôn ngữ | Tác giả    |
-| ------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------- |
-| [[VII. Tổng hợp một số bộ thẻ/30 chủ đề từ vựng cô Trang Anh - Made by Hoàng Xuân\|30 chủ đề từ vựng cô Trang Anh - Made by Hoàng Xuân]] | English  | Hoàng Xuân |
-| [[✅ Target Listening with Dictation\|✅ Target Listening with Dictation]]                                                                 | English  | Triệu Minh |
+| Bài                                                                                                                                             | Ngôn ngữ | Tác giả    |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------- |
+| [[VII. Tổng hợp một số bộ thẻ/✅ 30 chủ đề từ vựng cô Trang Anh - Made by Hoàng Xuân\|✅ 30 chủ đề từ vựng cô Trang Anh - Made by Hoàng Xuân]] | English  | Hoàng Xuân |
+| [[VII. Tổng hợp một số bộ thẻ/✅ Target Listening with Dictation\|✅ Target Listening with Dictation]]                                         | English  | Triệu Minh |
 
 { .block-language-dataview}
