@@ -32,6 +32,8 @@ Mình làm:
 
 ![](https://i.imgur.com/lQuwdzu.png)
 
+![](https://i.imgur.com/nD0q1N3.png)
+
 
 
 ---
