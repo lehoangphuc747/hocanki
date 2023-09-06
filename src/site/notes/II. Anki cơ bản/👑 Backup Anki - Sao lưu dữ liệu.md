@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-hide":true,"permalink":"/ii-anki-co-ban/backup-anki-sao-luu-du-lieu/","hide":true,"dgPassFrontmatter":true}
+{"title":"👑 Backup Anki - Sao lưu dữ liệu","member":"VIP","author":null,"language":null,"tags":["backup","collection"],"dg-publish":true,"dg-hide":true,"permalink":"/ii-anki-co-ban/backup-anki-sao-luu-du-lieu/","hide":true,"dgPassFrontmatter":true}
 ---
 
-#backup
+#backup #collection
 
 AnkiWeb là dịch vụ lưu trữ đám mây, miễn phí, và sẽ xóa dữ liệu nếu không đồng bộ trong 6 tháng trở lên.
 
