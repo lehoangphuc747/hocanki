@@ -2,8 +2,6 @@
 {"title":"Target Listening with Dictation","dg-publish":true,"dg-hide":true,"member":"FREE","author":"Triệu Minh","language":"English","tags":["shared-deck","english"],"permalink":"/vii-tong-hop-mot-so-bo-the/target-listening-with-dictation/","hide":true,"dgPassFrontmatter":true}
 ---
 
-# Target Listening with Dictation
-
 Chào các bạn,
 Bộ Deck này dựa theo Wordlist của bộ **Target Listening with Dictation** :
 
