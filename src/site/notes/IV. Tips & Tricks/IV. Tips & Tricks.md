@@ -26,6 +26,7 @@ ___
 
 [[Cách cài Anki (Vanced)\|Cách cài Anki (Vanced)]]
 
+[[Ankiers\|Ankiers]]
 ___
 
 > [[000 🌟 Học Anki🌟\| Quay lại]]
