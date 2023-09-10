@@ -18,10 +18,10 @@
 
 # Phí đăng ký
 
-###### Gói 1 (Anki K2): ~~500k~~ → 239k
+###### Anki K2: ~~500k~~ → 239k
 (**Tất cả** quyền lợi ở trên. Áp dụng cho những bạn đăng ký trước **1/3/2024**)
 
-###### Gói 2 (Anki K3): 239k
+###### Anki K3: 239k
 (Chỉ **video** và hỗ trợ cơ bản sau **1/3/2024**)
 # Cách đăng ký
 
