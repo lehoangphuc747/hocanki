@@ -19,10 +19,10 @@
 # Phí đăng ký
 
 ###### Gói 1: ~~500k~~ → 239k
-(**Tất cả** quyền lợi ở trên. Áp dụng cho những bạn đăng ký trước **31/12/2023**)
+(**Tất cả** quyền lợi ở trên. Áp dụng cho những bạn đăng ký trước **1/3/2024**)
 
 ###### Gói 2: 239k
-(Chỉ **video** và hỗ trợ cơ bản)
+(Chỉ **video** và hỗ trợ cơ bản sau **1/3/2024**)
 # Cách đăng ký
 
 Chuyển khoản → Chụp màn hình → Gửi qua tin nhắn
