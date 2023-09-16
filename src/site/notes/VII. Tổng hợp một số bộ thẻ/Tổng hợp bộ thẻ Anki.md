@@ -13,8 +13,8 @@
 | Bài                                                                                                                                             | Ngôn ngữ | Tác giả         |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | -------- | --------------- |
 | [[VII. Tổng hợp một số bộ thẻ/✅ Target Listening with Dictation\|✅ Target Listening with Dictation]]                                         | English  | Triệu Minh      |
-| [[VII. Tổng hợp một số bộ thẻ/✅ 625 Common Words English\|✅ 625 Common Words English]]                                                       | English  | Cảnh Hiệu       |
 | [[VII. Tổng hợp một số bộ thẻ/✅ Close-up Word List (A1+, A2, B1, B1+, B2, C1, C2)\|✅ Close-up Word List (A1+, A2, B1, B1+, B2, C1, C2)]]     | English  | Triệu Minh      |
+| [[VII. Tổng hợp một số bộ thẻ/✅ 625 Common Words English\|✅ 625 Common Words English]]                                                       | English  | Cảnh Hiệu       |
 | [[VII. Tổng hợp một số bộ thẻ/✅ 30 chủ đề từ vựng cô Trang Anh - Made by Hoàng Xuân\|✅ 30 chủ đề từ vựng cô Trang Anh - Made by Hoàng Xuân]] | English  | Hoàng Xuân      |
 | [[VII. Tổng hợp một số bộ thẻ/✅ Tango N3, N2, N1 (Việt hóa)\|✅ Tango N3, N2, N1 (Việt hóa)]]                                                 | Japanese | Hoàng Đức Trung |
 
