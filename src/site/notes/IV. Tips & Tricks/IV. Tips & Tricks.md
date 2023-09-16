@@ -26,6 +26,8 @@ ___
 
 [[Cách cài Anki (Vanced)\|Cách cài Anki (Vanced)]]
 
+[[IV. Tips & Tricks/Lưu hình ảnh Online bằng Google Drive\|Lưu hình ảnh Online bằng Google Drive]]
+
 [[Ankiers\|Ankiers]]
 ___
 
