@@ -25,9 +25,17 @@ Tags: #add-ons #excel #spreadsheet #import
 </div></div>
 
 
-[Tải file Excel mẫu](https://1drv.ms/x/s!AnGRjCvbms2VirF8Zi2gR16Oz9_Q3A?e=YjcciD)
+### Tải File Excel mẫu
 
-# Lưu ý
+[Excel - Spreadsheet Import Plus (Sample)](https://1drv.ms/x/s!AnGRjCvbms2VirF8Zi2gR16Oz9_Q3A?e=YjcciD)
+
+[Excel - Voca Basic$ (Sample)](https://1drv.ms/x/s!AnGRjCvbms2VisRwsT6zHyxQcT65hA?e=M1o0lQ)
+
+### Tải Deck mẫu
+
+[Anki - Tải deck Voca Basic$](https://1drv.ms/u/s!AnGRjCvbms2VisR54Ofv9aWq85IRQw?e=wfam2e)
+
+### Lưu ý
 
 “A1” : Phải có dòng này “**SpreadsheetImportPlus v1**”
 Ngoài trừ ô A1, các cột còn lại của hàng 1 phải để trống.
@@ -43,7 +51,7 @@ Ngoài trừ ô A1, các cột còn lại của hàng 1 phải để trống.
 
 **Hàng thứ 4:** Phải để trống.
 
-# Video hướng dẫn
+# Video hướng dẫn chi tiết
 
 Thêm thẻ từ file Excel có sẵn, hướng dẫn dành cho
 1. Note Type **Basic** mặc định của Anki
@@ -52,3 +60,6 @@ Thêm thẻ từ file Excel có sẵn, hướng dẫn dành cho
 > [Video hướng dẫn](https://www.facebook.com/groups/ankikhoa2/posts/672572154925087/)
 
 > [Cập nhật bổ sung](https://www.facebook.com/groups/ankikhoa2/posts/674410678074568/)
+
+Updating
+[[IV. Tips & Tricks/Lưu hình ảnh Online bằng Google Drive\|Lưu hình ảnh Online bằng Google Drive]]
