@@ -5,6 +5,18 @@
 
 Tags: #import #excel #spreadsheet 
 
+## Video hướng dẫn chi tiết
+
+Thêm thẻ từ file Excel có sẵn, hướng dẫn dành cho
+1. Note Type **Basic** mặc định của Anki
+2. Note Type khác (tải mạng hoặc tự thiết kế)
+
+> [Video hướng dẫn](https://www.facebook.com/groups/ankikhoa2/posts/672572154925087/)
+
+> [Cập nhật bổ sung](https://www.facebook.com/groups/ankikhoa2/posts/674410678074568/)
+
+---
+
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/vi-top-addons/spreadsheet-import-plus-them-the-bang-excel/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -47,19 +59,64 @@ Ngoài trừ ô A1, các cột còn lại của hàng 1 phải để trống.
 **Hàng thứ 3:** 
 	- “text”: văn bản thuần
 	- “html”: định dạng ```<html></html>```
-		- “markdown”: định dạng Markdown. Ai dùng Obsidian chắc khỏi cần nói. Còn ai không biết Google nhé.
+		- “markdown”: định dạng Markdown.
+			- *In nghiêng*
+			- **In đậm**
+			- <br> xuống dòng<br> 1<br>2<br>3
 
 **Hàng thứ 4:** Phải để trống.
 
-# Video hướng dẫn chi tiết
+## Lưu hình ảnh Online (hoặc  Screenshot) bằng Google Drive
 
-Thêm thẻ từ file Excel có sẵn, hướng dẫn dành cho
-1. Note Type **Basic** mặc định của Anki
-2. Note Type khác (tải mạng hoặc tự thiết kế)
 
-> [Video hướng dẫn](https://www.facebook.com/groups/ankikhoa2/posts/672572154925087/)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/iv-tips-and-tricks/luu-hinh-anh-hoac-screenshot-online-bang-google-drive/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-> [Cập nhật bổ sung](https://www.facebook.com/groups/ankikhoa2/posts/674410678074568/)
 
-Updating
-[[IV. Tips & Tricks/Lưu hình ảnh Online bằng Google Drive\|Lưu hình ảnh Online bằng Google Drive]]
+
+
+## ShareX
+
+[Tải xuống ShareX](https://getsharex.com/)
+
+![](https://i.imgur.com/x7PCECg.png)
+
+## Google Drive
+
+[Truy cập trang chủ](https://drive.google.com/)
+
+![](https://i.imgur.com/JJQNEi4.png)
+
+## Video hướng dẫn
+
+
+
+
+
+</div></div>
+
+
+
+### Search Link
+
+Mọi người có đề xuất từ điển nào nữa không nhắn mình nhé! Mình sẽ cập nhật thêm ạ.
+
+**Lưu ý:** Thay {{word}} bằng field mọi người muốn search link nhé.
+
+Cambridge Anh - Việt (Cambridge AV)
+
+```
+<a class="link" href="https://dictionary.cambridge.org/vi/dictionary/english-vietnamese/{{word}}">Cambridge AV</a>
+```
+
+Từ điển Oxford
+
+```
+<a class="link" href="https://www.oxfordlearnersdictionaries.com/definition/english/{{word}}">Oxford</a>
+```
+
+Từ điển Longman
+
+```
+a class="link" href="https://www.ldoceonline.com/dictionary/{{word}}">Longman</a>
+```
+
