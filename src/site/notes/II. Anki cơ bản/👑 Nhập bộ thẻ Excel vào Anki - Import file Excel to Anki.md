@@ -60,9 +60,10 @@ Ngoài trừ ô A1, các cột còn lại của hàng 1 phải để trống.
 	- “text”: văn bản thuần
 	- “html”: định dạng ```<html></html>```
 		- “markdown”: định dạng Markdown.
-			- *In nghiêng*
-			- **In đậm**
-			- <br> xuống dòng<br> 1<br>2<br>3
+			- *In nghiêng* : ```*In nghiêng*```
+			- **In đậm** : ```**In đậm**```
+			- <br> xuống dòng<br>1<br>2<br>3
+			 ![](https://drive.google.com/uc?id=1H4GZZoUALffASy0TK65HqWrG0A1TPFGu)
 
 **Hàng thứ 4:** Phải để trống.
 
@@ -100,7 +101,7 @@ Ngoài trừ ô A1, các cột còn lại của hàng 1 phải để trống.
 
 Mọi người có đề xuất từ điển nào nữa không nhắn mình nhé! Mình sẽ cập nhật thêm ạ.
 
-**Lưu ý:** Thay {{word}} bằng field mọi người muốn search link nhé.
+**Lưu ý:** Thay **{{word}}** bằng **field** mọi người muốn **search link** nhé.
 
 Cambridge Anh - Việt (Cambridge AV)
 
