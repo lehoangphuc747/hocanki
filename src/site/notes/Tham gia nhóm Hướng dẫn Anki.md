@@ -10,7 +10,7 @@
 - Ưu tiên hỗ trợ
 	- Lỗi
 	- Thắc mắc
-- Nhắn tin
+- Thông qua tin nhắn
 #### Anki K2
 - Zoom, Google Meet,…
 - Video Call
