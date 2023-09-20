@@ -4,14 +4,16 @@
 
 # Quyền lợi:
 
+#### Cơ bản
 - Truy cập các video hướng dẫn trên **==hocanki.com==** **(VĨNH VIỄN)**
 - Yêu cầu video hướng dẫn
 - Ưu tiên hỗ trợ
 	- Lỗi
 	- Thắc mắc
 - Nhắn tin
-- Call Video
+#### Anki K2
 - Zoom, Google Meet,…
+- Video Call
 - Teamview, Ultraview, Anydesk,…
 - Hỗ trợ tạo template cá nhân
 - …
@@ -19,13 +21,13 @@
 # Phí đăng ký
 
 ###### Anki K2: ~~500k~~ → 239k
-(**Tất cả** quyền lợi ở trên. Áp dụng cho những bạn đăng ký trước **1/3/2024**)
+(**Tất cả** quyền lợi [[Tham gia nhóm Hướng dẫn Anki#Cơ bản\|Cơ bản]] và [[Tham gia nhóm Hướng dẫn Anki#Anki K2\|Anki K2]]. Áp dụng cho những bạn đăng ký trước **1/1/2024**)
 
 ###### Anki K3: 239k
-(Chỉ **video** và hỗ trợ cơ bản sau **1/3/2024**)
+(Chỉ **video** và hỗ trợ [[Tham gia nhóm Hướng dẫn Anki#Cơ bản\|Cơ bản]] sau **1/1/2024**)
 # Cách đăng ký
 
-Chuyển khoản → Chụp màn hình → Gửi qua tin nhắn
+Chuyển khoản → Chụp màn hình → Gửi qua tin nhắn → Check → Thêm vào nhóm kín
 
 | Messenger  | Zalo  | Telegram  |
 |-------|-------|-------|
