@@ -8,11 +8,18 @@
 
 ![](https://i.imgur.com/x7PCECg.png)
 
-## Google Drive
+## Lensdump
 
-[Truy cập trang chủ](https://drive.google.com/)
+[Truy cập trang chủ](https://lensdump.com/)
 
-![](https://i.imgur.com/JJQNEi4.png)
+![](https://i.imgur.com/Y9uKsNz.png)
+
+###### Upload Url
+
+```
+https://lensdump.com/api/1/upload
+```
+
 
 ## Video hướng dẫn
 
