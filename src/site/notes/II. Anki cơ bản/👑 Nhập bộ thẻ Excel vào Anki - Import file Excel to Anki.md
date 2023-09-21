@@ -11,9 +11,14 @@ Thêm thẻ từ file Excel có sẵn, hướng dẫn dành cho
 1. Note Type **Basic** mặc định của Anki
 2. Note Type khác (tải mạng hoặc tự thiết kế)
 
-> [Video hướng dẫn](https://www.facebook.com/groups/ankikhoa2/posts/672572154925087/)
+[Video hướng dẫn chi tiết (21/9/2023)](https://www.facebook.com/groups/ankikhoa2/posts/684956533686649/)
 
-> [Cập nhật bổ sung](https://www.facebook.com/groups/ankikhoa2/posts/674410678074568/)
+**Cập nhật:**
+- Thêm Tags dễ hơn
+- Muốn có thêm 1 tag nữa chỉ cần duplicate cột **_tags**
+- Thêm hình ảnh vào Anki từ Excel
+
+**Lưu ý: Video khá là dài**
 
 ---
 
