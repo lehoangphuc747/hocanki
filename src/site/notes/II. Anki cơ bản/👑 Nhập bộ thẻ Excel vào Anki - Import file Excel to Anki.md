@@ -81,11 +81,18 @@ Ngoài trừ ô A1, các cột còn lại của hàng 1 phải để trống.
 
 ![](https://i.imgur.com/x7PCECg.png)
 
-## Google Drive
+## Lensdump
 
-[Truy cập trang chủ](https://drive.google.com/)
+[Truy cập trang chủ](https://lensdump.com/)
 
-![](https://i.imgur.com/JJQNEi4.png)
+![](https://i.imgur.com/Y9uKsNz.png)
+
+###### Upload Url
+
+```
+https://lensdump.com/api/1/upload
+```
+
 
 ## Video hướng dẫn
 
@@ -121,3 +128,8 @@ Từ điển Longman
 <a class="link" href="https://www.ldoceonline.com/dictionary/{{word}}">Longman</a>
 ```
 
+Từ điển Laban
+
+```
+<a class="link" href="https://dict.laban.vn/find?type=1&query={{word}}">Laban</a>
+```
