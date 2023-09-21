@@ -15,7 +15,7 @@ Thêm thẻ từ file Excel có sẵn, hướng dẫn dành cho
 
 **Cập nhật:**
 - Thêm Tags dễ hơn
-- Muốn có thêm 1 tag nữa chỉ cần duplicate cột **_tags**
+- Muốn có thêm 1 tag nữa chỉ cần duplicate cột `_tags`
 - Thêm hình ảnh vào Anki từ Excel
 
 **Lưu ý: Video khá là dài**
