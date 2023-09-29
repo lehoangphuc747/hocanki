@@ -11,7 +11,7 @@
 	- Lỗi
 	- Thắc mắc
 - Thông qua tin nhắn
-#### Anki K2
+#### Anki K1-2
 - Có thể Zoom, Google Meet,…
 - Video Call
 - Hỗ trợ Teamview, Ultraview, Anydesk,…
@@ -21,7 +21,7 @@
 # Phí đăng ký
 
 ###### Anki K2: ~~500k~~ → 239k
-(**Tất cả** quyền lợi [[Tham gia nhóm Hướng dẫn Anki#Cơ bản\|Cơ bản]] và [[Tham gia nhóm Hướng dẫn Anki#Anki K2\|Anki K2]]. Áp dụng cho những bạn đăng ký trước **1/1/2024**)
+(**Tất cả** quyền lợi [[Tham gia nhóm Hướng dẫn Anki#Cơ bản\|Cơ bản]] và [[Tham gia nhóm Hướng dẫn Anki#Anki K1-2\|Anki K1-2]]. Áp dụng cho những bạn đăng ký trước **31/12/2023**)
 
 ###### Anki K3: 239k
 (Chỉ **video** và hỗ trợ [[Tham gia nhóm Hướng dẫn Anki#Cơ bản\|Cơ bản]] sau **1/1/2024**.
