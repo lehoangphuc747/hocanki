@@ -18,5 +18,6 @@
 | [[VII. Tổng hợp một số bộ thẻ/✅ 30 chủ đề từ vựng cô Trang Anh - Made by Hoàng Xuân\|✅ 30 chủ đề từ vựng cô Trang Anh - Made by Hoàng Xuân]] | English  | Hoàng Xuân      |
 | [[VII. Tổng hợp một số bộ thẻ/2000 Core English Words - Book 1 (Level A1+)\|2000 Core English Words - Book 1 (Level A1+)]]                   | English  | Nguyễn Quốc     |
 | [[VII. Tổng hợp một số bộ thẻ/✅ Tango N3, N2, N1 (Việt hóa)\|✅ Tango N3, N2, N1 (Việt hóa)]]                                                 | Japanese | Hoàng Đức Trung |
+| [[VII. Tổng hợp một số bộ thẻ/King the Land - Khách sạn Vương giả (tập 1)\|King the Land - Khách sạn Vương giả (tập 1)]]                     | Korean   | Lê Hoàng Phúc   |
 
 { .block-language-dataview}
