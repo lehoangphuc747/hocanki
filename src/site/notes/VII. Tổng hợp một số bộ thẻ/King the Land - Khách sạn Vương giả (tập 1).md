@@ -5,3 +5,5 @@
 # Tải xuống bộ thẻ
 
 [OneDrive](https://1drv.ms/u/s!AnGRjCvbms2Vis5GVQrlrnEChbAIZQ?e=XmZ5mz)
+
+![](https://i.imgur.com/9oTSPsU.jpg)
