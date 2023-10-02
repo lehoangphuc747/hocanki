@@ -121,6 +121,13 @@ Cambridge Anh - Việt (Cambridge AV)
 <a class="link" href="https://dictionary.cambridge.org/vi/dictionary/english-vietnamese/{{word}}">Cambridge AV</a>
 ```
 
+Cambridge
+
+```
+<a class="link" href="https://dictionary.cambridge.org/us/dictionary/english/{{word}}">Cambridge</a>
+```
+
+
 Từ điển Oxford
 
 ```
