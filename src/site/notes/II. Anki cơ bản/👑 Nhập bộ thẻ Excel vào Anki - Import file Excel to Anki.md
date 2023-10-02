@@ -127,7 +127,6 @@ Cambridge
 <a class="link" href="https://dictionary.cambridge.org/us/dictionary/english/{{word}}">Cambridge</a>
 ```
 
-
 Từ điển Oxford
 
 ```
