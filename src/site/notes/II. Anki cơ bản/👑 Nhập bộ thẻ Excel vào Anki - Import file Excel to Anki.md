@@ -115,30 +115,4 @@ Mọi người có đề xuất từ điển nào nữa không nhắn mình nhé
 
 **Lưu ý:** Thay **{{word}}** bằng **field** mọi người muốn **search link** nhé.
 
-Cambridge Anh - Việt (Cambridge AV)
-
-`<a class="link" href="https://dictionary.cambridge.org/vi/dictionary/english-vietnamese/{{word}}">Cambridge AV</a>`
-
-Cambridge
-
-```
-<a class="link" href="https://dictionary.cambridge.org/us/dictionary/english/{{word}}">Cambridge</a>
-```
-
-Từ điển Oxford
-
-```
-<a class="link" href="https://www.oxfordlearnersdictionaries.com/definition/english/{{word}}">Oxford</a>
-```
-
-Từ điển Longman
-
-```
-<a class="link" href="https://www.ldoceonline.com/dictionary/{{word}}">Longman</a>
-```
-
-Từ điển Laban
-
-```
-<a class="link" href="https://dict.laban.vn/find?type=1&query={{word}}">Laban</a>
-```
+Bấm vào đây: [Search link](https://1drv.ms/t/s!AnGRjCvbms2Vis5loMqRE7vwWqwctA)
