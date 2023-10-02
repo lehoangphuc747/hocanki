@@ -1,9 +1,23 @@
 ---
-{"dg-publish":true,"dg-hide":true,"tags":["knowclip","youtube","netflix","phim","software"],"permalink":"/iii-anki-nang-cao/hoc-qua-phim-vua-xem-phim-vua-hoc-bang-knowclip-ap-dung-cho-ca-youtube-va-netflix/","hide":true,"dgPassFrontmatter":true}
+{"title":"Học qua phim, vừa xem phim vừa học bằng Knowclip (Áp dụng cho cả Youtube và Netflix,…)","member":"VIP","author":null,"language":null,"dg-publish":true,"dg-hide":true,"tags":["knowclip","youtube","netflix","phim","software","StreamFab"],"permalink":"/iii-anki-nang-cao/hoc-qua-phim-vua-xem-phim-vua-hoc-bang-knowclip-ap-dung-cho-ca-youtube-va-netflix/","hide":true,"dgPassFrontmatter":true}
 ---
 
+## Phim Netflix
 
-Tải Knowclip
+### Glotdojo
+
+[Glotdojo - Chrome Extention](https://chrome.google.com/webstore/detail/glotdojo-learn-languages/dbnjpielondlkmdjbembloegkaabfakc?hl=vi)
+
+### StreamFab
+
+[Netflix Downloader](https://streamfab.tv/netflix-downloader.htm)
+
+Mua chung tài khoản **Lifetime (trọn đời)** liên hệ mình. Chỉ dành cho thành viên nhóm **hocanki.com**.
+
+![](https://i.imgur.com/5vCXRCb.png)
+
+
+### Knowclip
 
 > [⬇️ Link chính chủ](https://www.knowclip.com/)
 
@@ -20,6 +34,10 @@ Sau khi tải về, không cần cài đặt có thể sử dụng file đó lu�
 ## Video hướng dẫn:
 
 > [Xem video Hướng dẫn chi tiết]()
+
+Thêm từ vựng bằng Excel:
+
+> [[II. Anki cơ bản/👑 Nhập bộ thẻ Excel vào Anki - Import file Excel to Anki\|👑 Nhập bộ thẻ Excel vào Anki - Import file Excel to Anki]]
 
 Sử dụng Addons để kiểm soát tốc độ âm thanh trong Anki:
 
