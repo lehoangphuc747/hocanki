@@ -117,9 +117,7 @@ Mọi người có đề xuất từ điển nào nữa không nhắn mình nhé
 
 Cambridge Anh - Việt (Cambridge AV)
 
-```
-<a class="link" href="https://dictionary.cambridge.org/vi/dictionary/english-vietnamese/{{word}}">Cambridge AV</a>
-```
+`<a class="link" href="https://dictionary.cambridge.org/vi/dictionary/english-vietnamese/{{word}}">Cambridge AV</a>`
 
 Cambridge
 
