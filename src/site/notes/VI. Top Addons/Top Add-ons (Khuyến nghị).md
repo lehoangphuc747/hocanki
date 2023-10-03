@@ -27,6 +27,6 @@ Vẫn đang cập nhật
 | [[VI. Top Addons/👑 Multiple Choice Support - Tạo thẻ dạng trắc nghiệm (Multiple Choice) bằng Anki\|👑 Multiple Choice Support - Tạo thẻ dạng trắc nghiệm (Multiple Choice) bằng Anki]] |
 | [[VI. Top Addons/👑 Spreadsheet Import Plus - thêm thẻ bằng Excel\|👑 Spreadsheet Import Plus - thêm thẻ bằng Excel]]                                                                   |
 | [[VI. Top Addons/👑 Thêm âm thanh bằng AwesomeTTS trong khung tạo thẻ (Add)\|👑 Thêm âm thanh bằng AwesomeTTS trong khung tạo thẻ (Add)]]                                               |
-| [[Popup Dictionary\|Popup Dictionary]]                                                                                                                                                  |
+| [[VI. Top Addons/Popup Dictionary\|Popup Dictionary]]                                                                                                                                   |
 
 { .block-language-dataview}
