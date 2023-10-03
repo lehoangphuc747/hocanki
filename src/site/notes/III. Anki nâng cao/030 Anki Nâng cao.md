@@ -36,7 +36,7 @@ _______
 # Học qua phim
 
 
-[[III. Anki nâng cao/Học qua phim, vừa xem phim vừa học bằng Knowclip (Áp dụng cho cả Youtube và Netflix,…)\|Học qua phim, vừa xem phim vừa học bằng Knowclip (Áp dụng cho cả Youtube và Netflix,…)]]
+[[III. Anki nâng cao/👑 Học qua phim, vừa xem phim vừa học bằng Knowclip (Áp dụng cho cả Youtube và Netflix,…)\|👑 Học qua phim, vừa xem phim vừa học bằng Knowclip (Áp dụng cho cả Youtube và Netflix,…)]]
 
 
 [[III. Anki nâng cao/👑 Học qua phim (Youtube, NetFlix,...) - Watch Foreign Language Movies with Anki\|👑 Học qua phim (Youtube, NetFlix,...) - Watch Foreign Language Movies with Anki]]
