@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-hide":true,"member":"VIP","author":null,"language":null,"tags":["add-ons"],"title":"Watch Foreign Language Movies with Anki","permalink":"/iii-anki-nang-cao/hoc-qua-phim-youtube-net-flix-watch-foreign-language-movies-with-anki/","hide":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"member":"VIP","author":null,"language":null,"tags":["add-ons"],"title":"👑 Học qua phim (Youtube, NetFlix,...) - Watch Foreign Language Movies with Anki","permalink":"/iii-anki-nang-cao/hoc-qua-phim-youtube-net-flix-watch-foreign-language-movies-with-anki/","hide":true,"dgPassFrontmatter":true}
 ---
 
 
