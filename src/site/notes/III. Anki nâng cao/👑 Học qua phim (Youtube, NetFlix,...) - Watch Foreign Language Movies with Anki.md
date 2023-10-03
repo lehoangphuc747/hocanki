@@ -11,6 +11,10 @@
 
 Phim ngoài Netflix và Youtube: Tìm trên Torrent và phụ đề trên Subscenes
 
+**Ưu điểm:**
+- Nhanh
+- Có video
+
 ---
 ## Cài đặt
 
