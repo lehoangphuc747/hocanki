@@ -5,7 +5,7 @@
 
 ## Video hướng dẫn
 
-> [Video hướng dẫn học qua phim]()
+> [Video hướng dẫn học qua phim](https://www.facebook.com/groups/ankikhoa2/posts/691552463027056/)
 
 **Netflix**: [nhắn tin cho mình](https://fb.com/tuilaphuc747).
 
