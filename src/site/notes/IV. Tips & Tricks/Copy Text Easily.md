@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-hide":true,"member":"VIP","author":null,"language":null,"tags":null,"title":"Copy Text Easily","permalink":"/iv-tips-and-tricks/copy-text-easily/","hide":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"member":"VIP","author":null,"language":null,"tags":["Extension"],"title":"Copy Text Easily","permalink":"/iv-tips-and-tricks/copy-text-easily/","hide":true,"dgPassFrontmatter":true}
 ---
 
 [Link Extension](https://chrome.google.com/webstore/detail/fagmaopcbeobbfhkeodicjekiniefdlo)
