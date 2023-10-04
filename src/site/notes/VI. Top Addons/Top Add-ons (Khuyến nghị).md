@@ -28,6 +28,7 @@ Vẫn đang cập nhật
 | [[VI. Top Addons/👑 Multiple Choice Support - Tạo thẻ dạng trắc nghiệm (Multiple Choice) bằng Anki\|👑 Multiple Choice Support - Tạo thẻ dạng trắc nghiệm (Multiple Choice) bằng Anki]]   |
 | [[VI. Top Addons/👑 Spreadsheet Import Plus - thêm thẻ bằng Excel\|👑 Spreadsheet Import Plus - thêm thẻ bằng Excel]]                                                                     |
 | [[VI. Top Addons/👑 Thêm âm thanh bằng AwesomeTTS trong khung tạo thẻ (Add)\|👑 Thêm âm thanh bằng AwesomeTTS trong khung tạo thẻ (Add)]]                                                 |
+| [[Copy Notes - copy thẻ\|Copy Notes - copy thẻ]]                                                                                                                                          |
 | [[Edit Field During Review (Cloze)\|Edit Field During Review (Cloze)]]                                                                                                                    |
 | [[VI. Top Addons/Popup Dictionary - Search nội dung trong các thẻ đã tạo\|Popup Dictionary - Search nội dung trong các thẻ đã tạo]]                                                       |
 
