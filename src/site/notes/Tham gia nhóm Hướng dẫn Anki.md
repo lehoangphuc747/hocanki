@@ -23,9 +23,11 @@
 ###### Anki K2: ~~500k~~ → 239k
 (**Tất cả** quyền lợi [[Tham gia nhóm Hướng dẫn Anki#Cơ bản\|Cơ bản]] và [[Tham gia nhóm Hướng dẫn Anki#Anki K1-2\|Anki K1-2]]. Áp dụng cho những bạn đăng ký trước **31/12/2023**)
 
-###### Anki K3: 239k
-(Chỉ **video** và hỗ trợ [[Tham gia nhóm Hướng dẫn Anki#Cơ bản\|Cơ bản]] sau **1/1/2024**.
-Hỗ trợ ngoài phí thêm để mình sắp xếp thời gian phù hợp.)
+sau **1/1/2024**:
+###### Anki K3: 239k / 579k
+**239k:** Chỉ **video** và hỗ trợ [[Tham gia nhóm Hướng dẫn Anki#Cơ bản\|Cơ bản]].
+**579k:** Tất cả quyền lợi.
+
 # Cách đăng ký
 
 Chuyển khoản → Chụp màn hình → Gửi qua tin nhắn → Check → Thêm vào nhóm kín
