@@ -17,7 +17,7 @@
 | [[VII. Tổng hợp một số bộ thẻ/Close-up Word List (A1+, A2, B1, B1+, B2, C1, C2)\|Close-up Word List (A1+, A2, B1, B1+, B2, C1, C2)]]     | English  | Triệu Minh      |
 | [[VII. Tổng hợp một số bộ thẻ/30 chủ đề từ vựng cô Trang Anh - Made by Hoàng Xuân\|30 chủ đề từ vựng cô Trang Anh - Made by Hoàng Xuân]] | English  | Hoàng Xuân      |
 | [[VII. Tổng hợp một số bộ thẻ/625 Common Words English\|625 Common Words English]]                                                       | English  | Cảnh Hiệu       |
-| [[Essential Idioms in English\|Essential Idioms in English]]                                                                             | English  | Kelciour        |
+| [[VII. Tổng hợp một số bộ thẻ/Essential Idioms in English\|Essential Idioms in English]]                                                 | English  | Kelciour        |
 | [[VII. Tổng hợp một số bộ thẻ/Tango N3, N2, N1 (Việt hóa)\|Tango N3, N2, N1 (Việt hóa)]]                                                 | Japanese | Hoàng Đức Trung |
 | [[VII. Tổng hợp một số bộ thẻ/King the Land - Khách sạn Vương giả (tập 1)\|King the Land - Khách sạn Vương giả (tập 1)]]                 | Korean   | Lê Hoàng Phúc   |
 
