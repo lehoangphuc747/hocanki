@@ -12,7 +12,7 @@ Nguồn: [🗍 English Grammar In Use Activities - AnkiWeb](https://ankiweb.net/
 
 ---
 
-This deck contains exercises from English Grammar in Use (4th Edition) CD-ROM. 
+This deck contains exercises from [[VII. Tổng hợp một số bộ thẻ/English Grammar in Use (4th Edition) CD-ROM\|English Grammar in Use (4th Edition) CD-ROM]]. 
 
 Raymond Murphy’s English Grammar in Use is the world’s best-selling grammar book for intermediate learners of English, published by Cambridge University Press. The CD-ROM contains over 300 extra practice exercises to accompany the Fourth Edition of the book by Brigit Viney and Miles Craven.
 
