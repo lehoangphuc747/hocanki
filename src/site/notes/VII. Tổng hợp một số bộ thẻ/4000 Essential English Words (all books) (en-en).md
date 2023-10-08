@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-hide":true,"member":"FREE","author":"Kelciour","language":"English","tags":["shared-deck"],"title":"4000 Essential English Words (all books) (en-en)","permalink":"/vii-tong-hop-mot-so-bo-the/4000-essential-english-words-all-books-en-en/","hide":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"member":"FREE","author":"Kelciour","language":"English","tags":["shared-deck","english"],"title":"4000 Essential English Words (all books) (en-en)","permalink":"/vii-tong-hop-mot-so-bo-the/4000-essential-english-words-all-books-en-en/","hide":true,"dgPassFrontmatter":true}
 ---
 
 Nguồn: [4000 Essential English Words (all books) [en-en] - AnkiWeb](https://ankiweb.net/shared/info/1104981491)
