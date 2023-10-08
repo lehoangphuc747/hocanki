@@ -14,6 +14,8 @@ Nguồn: [🗍 English Grammar In Use Exercises - AnkiWeb](https://ankiweb.net/s
 
 This deck contains exercises from the [English Grammar in Use](http://www.cambridge.org/us/cambridgeenglish/catalog/grammar-vocabulary-and-pronunciation/english-grammar-use-4th-edition/product-details/app) app.
 
+![](https://i.imgur.com/yYaDg0S.gif)
+
 ## Tải xuống
 
 #### Bộ thẻ
