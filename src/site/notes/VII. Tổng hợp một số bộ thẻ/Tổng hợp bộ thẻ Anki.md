@@ -20,8 +20,9 @@
 | [[VII. Tổng hợp một số bộ thẻ/30 chủ đề từ vựng cô Trang Anh - Made by Hoàng Xuân\|30 chủ đề từ vựng cô Trang Anh - Made by Hoàng Xuân]] | English  | Hoàng Xuân      |
 | [[VII. Tổng hợp một số bộ thẻ/1000 Basic English Words\|1000 Basic English Words]]                                                       | English  | \-              |
 | [[VII. Tổng hợp một số bộ thẻ/4000 Essential English Words (all books) (en-en)\|4000 Essential English Words (all books) (en-en)]]       | English  | Kelciour        |
-| [[English Grammar In Use Activities\|English Grammar In Use Activities]]                                                                 | English  | \-              |
 | [[VII. Tổng hợp một số bộ thẻ/English Grammar in Use (4th Edition) CD-ROM\|English Grammar in Use (4th Edition) CD-ROM]]                 | English  | \-              |
+| [[English Grammar In Use Activities\|English Grammar In Use Activities]]                                                                 | English  | \-              |
+| [[English Grammar In Use Exercises\|English Grammar In Use Exercises]]                                                                   | English  | \-              |
 | [[VII. Tổng hợp một số bộ thẻ/Tango N3, N2, N1 (Việt hóa)\|Tango N3, N2, N1 (Việt hóa)]]                                                 | Japanese | Hoàng Đức Trung |
 | [[VII. Tổng hợp một số bộ thẻ/King the Land - Khách sạn Vương giả (tập 1)\|King the Land - Khách sạn Vương giả (tập 1)]]                 | Korean   | Lê Hoàng Phúc   |
 
