@@ -28,7 +28,7 @@ ___
 
 [[Cách cài Anki (Vanced)\|Cách cài Anki (Vanced)]]
 
-[[IV. Tips & Tricks/Lưu hình ảnh (hoặc Screenshot) Online bằng Google Drive\|Lưu hình ảnh (hoặc Screenshot) Online bằng Google Drive]]
+[[IV. Tips & Tricks/Lưu hình ảnh (hoặc Screenshot) Online bằng Lensdump\|Lưu hình ảnh (hoặc Screenshot) Online bằng Lensdump]]
 
 [[Ankiers\|Ankiers]]
 ___
