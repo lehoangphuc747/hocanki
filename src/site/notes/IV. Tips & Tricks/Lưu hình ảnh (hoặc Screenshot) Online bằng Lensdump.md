@@ -1,5 +1,5 @@
 ---
-{"title":"Lưu hình ảnh Online bằng Google Drive","dg-publish":true,"dg-hide":true,"member":"VIP","author":null,"language":null,"tags":["shareX","Drive","screenshot","image","online","software"],"permalink":"/iv-tips-and-tricks/luu-hinh-anh-hoac-screenshot-online-bang-lensdump/","hide":true,"dgPassFrontmatter":true}
+{"title":"Lưu hình ảnh Online bằng Lensdump","dg-publish":true,"dg-hide":true,"member":"VIP","author":null,"language":null,"tags":["shareX","Drive","screenshot","image","online","software"],"permalink":"/iv-tips-and-tricks/luu-hinh-anh-hoac-screenshot-online-bang-lensdump/","hide":true,"dgPassFrontmatter":true}
 ---
 
 ## ShareX
