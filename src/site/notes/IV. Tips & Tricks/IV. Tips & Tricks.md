@@ -30,6 +30,8 @@ ___
 
 [[IV. Tips & Tricks/Lưu hình ảnh (hoặc Screenshot) Online bằng Lensdump\|Lưu hình ảnh (hoặc Screenshot) Online bằng Lensdump]]
 
+[[IV. Tips & Tricks/Tải video và sub trên Youtube\|Tải video và sub trên Youtube]]
+
 [[Ankiers\|Ankiers]]
 ___
 
