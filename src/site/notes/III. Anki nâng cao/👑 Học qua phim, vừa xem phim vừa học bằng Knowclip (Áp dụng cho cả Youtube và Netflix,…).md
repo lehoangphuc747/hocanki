@@ -16,6 +16,28 @@ Mua chung tài khoản **Lifetime (trọn đời)** liên hệ mình. Chỉ dàn
 
 ![](https://i.imgur.com/5vCXRCb.png)
 
+## Youtube
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+### Youtube Subtitle Download Helper
+
+[Youtube Subtitle Download Helper - Cửa hàng Chrome trực tuyến (google.com)](https://chrome.google.com/webstore/detail/youtube-subtitle-download/dpmmcccjdcgdjnlnicicdbnlmohhpagf)
+
+![](https://i.imgur.com/UozW5aS.png)
+
+### SaveFrom.net helper
+
+[SaveFrom.net helper](https://microsoftedge.microsoft.com/addons/detail/savefromnet-helper/hndfjogdceachkbgioglehonpejcdhem)
+
+![](https://i.imgur.com/Hqjpr8e.png)
+
+
+</div></div>
+
 
 ### Knowclip
 
