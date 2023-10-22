@@ -18,9 +18,9 @@
 | [[VII. Tổng hợp một số bộ thẻ/Essential Idioms in English\|Essential Idioms in English]]                                                 | English  | Kelciour        |
 | [[VII. Tổng hợp một số bộ thẻ/625 Common Words English\|625 Common Words English]]                                                       | English  | Cảnh Hiệu       |
 | [[VII. Tổng hợp một số bộ thẻ/30 chủ đề từ vựng cô Trang Anh - Made by Hoàng Xuân\|30 chủ đề từ vựng cô Trang Anh - Made by Hoàng Xuân]] | English  | Hoàng Xuân      |
-| [[VII. Tổng hợp một số bộ thẻ/2000 Core English Words - Book 1 (Level A1+)\|2000 Core English Words - Book 1 (Level A1+)]]               | English  | Nguyễn Quốc     |
-| [[VII. Tổng hợp một số bộ thẻ/4000 Essential English Words (all books) (en-en)\|4000 Essential English Words (all books) (en-en)]]       | English  | Kelciour        |
 | [[VII. Tổng hợp một số bộ thẻ/1000 Basic English Words\|1000 Basic English Words]]                                                       | English  | \-              |
+| [[VII. Tổng hợp một số bộ thẻ/4000 Essential English Words (all books) (en-en)\|4000 Essential English Words (all books) (en-en)]]       | English  | Kelciour        |
+| [[VII. Tổng hợp một số bộ thẻ/2000 Core English Words - Book 1 (Level A1+)\|2000 Core English Words - Book 1 (Level A1+)]]               | English  | Nguyễn Quốc     |
 | [[English Grammar In Use Activities\|English Grammar In Use Activities]]                                                                 | English  | \-              |
 | [[English Grammar In Use Exercises\|English Grammar In Use Exercises]]                                                                   | English  | \-              |
 | [[VII. Tổng hợp một số bộ thẻ/Tango N3, N2, N1 (Việt hóa)\|Tango N3, N2, N1 (Việt hóa)]]                                                 | Japanese | Hoàng Đức Trung |
