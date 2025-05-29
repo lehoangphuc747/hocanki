@@ -1,0 +1,43 @@
+.socialSharing {
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+  }
+  
+  .separator {
+    width: 80%;
+    height: 1px;
+    background: var(--ifm-color-emphasis-300);
+    border: none;
+  }
+  
+  .inviteText {
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: var(--ifm-color-emphasis-600);
+    margin: 0;
+  }
+  
+  .shareButtons {
+    display: flex;
+    gap: 2rem;
+  }
+  
+  .shareButton {
+    background: none;
+    border: none;
+    cursor: pointer;
+    transition: transform 0.2s ease, color 0.2s ease;
+  }
+  
+  .shareButton:hover {
+    transform: scale(1.2);
+    color: var(--ifm-color-primary); /* Highlight color on hover */
+  }
+  
+  .copyButton {
+    /* No additional styles; inherits from shareButton */
+  }
+  

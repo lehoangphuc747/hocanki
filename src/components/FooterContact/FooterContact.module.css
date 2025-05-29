@@ -1,0 +1,102 @@
+.footerContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    padding: 2rem;
+    background-color: var(--ifm-footer-background-color);
+    color: var(--ifm-footer-text-color);
+    justify-content: space-between;
+  }
+  
+  .section {
+    flex: 1;
+    min-width: 250px;
+    padding-right: 1rem; /* Reduce right padding for the Contact Us section */
+  }
+  
+  .logoContainer {
+    margin-bottom: 1rem;
+  }
+  
+  .logo {
+    width: 200px;
+    height: auto;
+  }
+  
+  .bio {
+    font-size: 0.9rem;
+    line-height: 1.6;
+    color: var(--ifm-footer-text-color);
+  }
+  
+  .socialLinks {
+    display: flex;
+    gap: 1rem;
+    justify-content: left; /* Left-align social icons */
+    margin-top: 1rem;
+  }
+  
+  .icon {
+    font-size: 1.2rem;
+    color: var(--ifm-footer-text-color);
+    transition: color 0.3s ease;
+  }
+  
+  .icon:hover {
+    color: var(--ifm-color-primary); /* Highlight color on hover */
+  }
+  
+  .contactTitle {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    font-weight: 600;
+  }
+  
+  .contactInfo {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .contactInfo li {
+    margin-bottom: 0.5rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  
+  .contactInfo a {
+    color: var(--ifm-footer-text-color);
+    text-decoration: none;
+  }
+  
+  .contactInfo a:hover {
+    color: var(--ifm-color-primary); /* Highlight color on hover */
+  }
+  
+  /* Remove horizontal line above the copyright */
+  .footerContainer {
+    border-bottom: none; /* Remove any borders or horizontal lines */
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .footerContainer {
+      flex-direction: column;
+      align-items: left;
+      gap: 1.5rem;
+      padding: 0 var(--ifm-spacing-horizontal);
+    }
+  
+    .section {
+      text-align: left;
+    }
+  
+    .socialLinks {
+      justify-content: left; /* Center-align social icons */
+    }
+  
+    .contactInfo li {
+      justify-content: left; /* Center-align contact info on mobile */
+    }
+  }
+  

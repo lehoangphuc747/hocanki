@@ -1,0 +1,162 @@
+/* Primary wrapper for full-width pages */
+.primaryCTAWrapper {
+  width: 100vw; /* Full browser width for page usage */
+  position: relative;
+  margin: 0 auto;
+  background-color: var(--cta-bg-light, #f9f9f9);
+}
+
+/* Dark mode background for full-width */
+[data-theme='dark'] .primaryCTAWrapper {
+  background-color: var(--cta-bg-dark, #333333);
+}
+
+/* For document page integration */
+.documentWrapper {
+  width: 100%; /* Inherit width from parent container */
+  max-width: 800px; /* Match Docusaurus document content width */
+  margin: 2rem auto; /* Center align with spacing */
+  padding: 20px; /* Add padding for readability */
+  background-color: var(--cta-bg-light, #f9f9f9);
+  border-radius: 10px; /* Optional: Add rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Add subtle shadow */
+}
+
+[data-theme='dark'] .documentWrapper {
+  background-color: var(--cta-bg-dark, #222222); /* Dark mode background */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Slightly darker shadow */
+}
+
+/* Primary content area */
+.primaryCTA {
+  padding: 60px 20px;
+  margin: 0 auto;
+  text-align: center;
+  color: var(--cta-text-light, #333333);
+}
+
+/* Reduce padding for document pages */
+.documentWrapper .primaryCTA {
+  padding: 40px 20px;
+}
+
+/* Title styles */
+.title {
+  font-size: 2.5em;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: var(--cta-text-light, #333333);
+}
+
+[data-theme='dark'] .title {
+  color: var(--cta-text-dark, #ffffff);
+}
+
+/* Adjust title size for documents */
+.documentWrapper .title {
+  font-size: 2em;
+}
+
+/* Subtitle styles */
+.description {
+  font-size: 1.2em;
+  margin-bottom: 30px;
+  color: var(--cta-text-light, #666666);
+}
+
+[data-theme='dark'] .description {
+  color: var(--cta-text-dark, #e0e0e0);
+}
+
+/* Adjust subtitle size for documents */
+.documentWrapper .description {
+  font-size: 1.1em;
+}
+
+/* Buttons container */
+.buttons {
+  display: flex;
+  gap: 15px; /* Space between buttons */
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+/* Adjust buttons for smaller screens */
+@media (max-width: 768px) {
+  .buttons {
+    flex-direction: column; /* Stack buttons vertically */
+  }
+
+  .buttonPrimary,
+  .buttonSecondary {
+    width: 100%; /* Full width for small screens */
+    margin: 10px 0; /* Spacing between stacked buttons */
+  }
+}
+
+/* Primary button */
+.buttonPrimary {
+  background-color: #2BA36C;
+  color: #ffffff;
+  display: inline-flex;
+  padding: 15px 30px;
+  border-radius: 50px;
+  text-decoration: none;
+  font-size: 1.2em;
+  font-weight: bold;
+  margin: 10px;
+  transition: background-color 0.3s, transform 0.3s;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  align-items: center;
+  justify-content: center;
+}
+
+.buttonPrimary:hover {
+  background-color: #ffffff;
+  color: #2BA36C;
+}
+
+/* Secondary button */
+.buttonSecondary {
+  background-color: transparent;
+  border: 2px solid #FC7E01;
+  color: #FC7E01;
+  display: inline-flex;
+  padding: 15px 30px;
+  font-size: 1.2em;
+  font-weight: bold;
+  line-height: 1;
+  white-space: nowrap;
+  border-radius: 50px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+  margin: 10px;
+  align-items: center;
+  justify-content: center;
+}
+
+.buttonSecondary:hover {
+  background-color: #FC7E01;
+  color: #ffffff;
+}
+
+/* Dark mode for buttons */
+[data-theme='dark'] .buttonPrimary {
+  background-color: #2BA36C;
+  color: #ffffff;
+}
+
+[data-theme='dark'] .buttonSecondary {
+  border-color: #2BA36C;
+  color: #2BA36C;
+}
+
+[data-theme='dark'] .buttonPrimary:hover {
+  background-color: #ffffff;
+  color: #2BA36C;
+}
+
+[data-theme='dark'] .buttonSecondary:hover {
+  background-color: #2BA36C;
+  color: #ffffff;
+}

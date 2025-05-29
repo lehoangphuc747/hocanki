@@ -1,0 +1,250 @@
+.sliderContainer {
+    text-align: center;
+    width: 100vw;
+    overflow: hidden;
+    margin: 0 auto;
+    position: relative;
+    padding: 1.5rem 0 17rem; /* Reduce top padding, increase bottom padding */
+    height: 600px; /* Ensures full display of content */
+  }
+  
+  .headline {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1rem; /* Reduce space below the headline */
+  }
+  
+  .slider {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .arrowButton {
+    background-color: #ffffff !important; /* White background */
+    color: #000000; /* Black arrow */
+    border: none; /* No border for a clean look */
+    border-radius: 50%; /* Circular shape */
+    width: 48px; /* Larger button for modern feel */
+    height: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    font-size: 1.25rem; /* Modern arrow size */
+    font-weight: bold; /* Thicker arrow for better visibility */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Soft shadow */
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth animation */
+    margin: 0 0.5rem; /* Spacing between buttons */
+  }
+  
+  .arrowButton:hover {
+    transform: scale(1.2); /* Slight zoom effect on hover */
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2); /* Enhance shadow on hover */
+  }
+  
+  .navigation {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 2rem; /* Position navigation 2rem above the bottom of the container */
+    width: 100%;
+    gap: 1rem; /* Maintain spacing between buttons */
+    z-index: 10; /* Ensure buttons are above other elements */
+  }
+  
+  .testimonialCard {
+    position: absolute;
+    width: 30%;
+    height: auto;
+    padding: 2rem;
+    border-radius: 10px;
+    background: white;
+    transition: transform 0.5s ease, opacity 0.5s ease;
+    opacity: 0; /* Hidden by default */
+    display: flex;
+    flex-direction: column; /* Stack content vertically */
+    align-items: center; /* Center align text */
+  }
+  
+  .activeCard {
+    background-color: #ff7043;
+    color: white !important;
+    z-index: 3;
+    opacity: 1;
+    transform: scale(1);
+    position: relative;
+    padding-bottom: 6.5rem; /* Add space for the author info and image below */
+  }
+  
+  .sideCard {
+    background-color: transparent !important;
+    color: #666666 !important;
+    z-index: 2;
+    opacity: 0.5;
+  }
+  
+  .hiddenCard {
+    opacity: 0;
+    z-index: 1;
+  }
+  
+  .testimonialCard blockquote {
+    color: #ffffff;
+    font-size: 1.2rem;
+    margin: 0;
+    line-height: 1.5;
+    border-left: none; /* Remove default border */
+    padding: 1rem 1rem 0 4rem; /* Add padding to align text */
+    position: relative; /* Needed for absolute positioning of the quote icon */
+    text-align: left; /* Ensure text is aligned properly */
+  }
+  
+  .testimonialCard .quoteIcon {
+    font-size: 4rem;
+    font-weight: bold;
+    position: absolute; /* Position the quote icon */
+    top: -1rem; /* Slightly above blockquote text */
+    left: 0.5rem; /* Align to the top-left of blockquote */
+    color: rgba(255, 255, 255, 0.8); /* Subtle transparency for elegance */
+  }
+  
+  .sideCard blockquote {
+    color: #666666 !important; /* Gray text for sidebar cards */
+  }
+  
+  .sideCard .quoteIcon {
+    font-size: 3rem;
+    font-weight: bold;
+    position: absolute; /* Position the quote icon */
+    top: -1rem; /* Slightly above blockquote text */
+    left: 0.5rem; /* Align to the top-left of blockquote */
+    color: #666666 !important; /* Subtle transparency for elegance */
+  }
+  
+  .authorImage {
+    width: 100px; /* Adjust image size */
+    height: 100px;
+    border-radius: 50%; /* Circular image */
+    margin-bottom: 1rem; /* Space below the image */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+    position: absolute;
+    bottom: calc(-110px - 1.5rem); /* Dynamically position the image */
+    left: 50%;
+    transform: translateX(-50%);
+    border: 2px solid white; /* Optional border for better contrast */
+  }
+  
+  /* Gray overlay for inactive author images */
+  .sideCard .authorImage {
+    filter: grayscale(100%); /* Apply grayscale effect */
+    opacity: 0.7; /* Slight transparency for overlay */
+    transition: opacity 0.3s ease, filter 0.3s ease; /* Smooth transition */
+  }
+  
+  .sideCard .authorImage:hover {
+    filter: grayscale(0); /* Remove grayscale on hover */
+    opacity: 1; /* Restore full opacity */
+  }
+  
+  
+  .author {
+    margin-top: 1rem; /* Space between image and author info */
+    font-weight: bold;
+    font-size: 1rem;
+    text-align: center;
+    position: absolute; /* Position author outside of the card */
+    bottom: calc(-130px - 3rem); /* Position below the avatar */
+    width: 100%; /* Align with the card width */
+    color: #666666 !important; /* Default color for all cards */
+  }
+  
+  .author span {
+    font-weight: normal;
+    font-style: italic;
+    color: #666666 !important; /* Subtle color for the role */
+  }
+  
+  .sideCard .author {
+    color: #666666 !important; /* Match side card text color */
+  }
+  
+  .sideCard .author span {
+    color: #666666 !important; /* Subtle color for the role */
+  }
+  
+  .activeCard .tail {
+    position: absolute;
+    bottom: -7px; /* Move the tail closer to the card */
+    left: 50%;
+    transform: translateX(-50%) rotate(45deg); /* Rotate to point downward */
+    width: 20px;
+    height: 20px;
+    background-color: #ff7043; /* Match active card background */
+    border-radius: 2px; /* Rounded corners for smoother look */
+    z-index: -1;
+  }
+  
+  /* Hide tail for non-active cards */
+  .sideCard .tail,
+  .hiddenCard .tail {
+    display: none;
+  }
+  
+  @media (max-width: 768px) {
+    .sliderContainer {
+      height: 650px;
+    }
+  
+    .slider {
+      flex-direction: row; /* Maintain horizontal layout */
+      /*overflow-x: hidden;*/ /* Hide overflow to restrict view to one card */
+      width: 100%;
+    }
+  
+    .testimonialCard {
+      width: calc(100% - 2rem); /* Reduce width to add left and right spacing */
+      margin: 0 auto; /* Center the card */
+      position: relative; /* Reset positioning for single card layout */
+      transform: none !important; /* Remove transformation for active card */
+      opacity: 1; /* Ensure visibility */
+      padding: 1.5rem; /* Adjust padding for smaller screens */
+    }
+  
+    .sideCard,
+    .hiddenCard {
+      display: none !important; /* Hide side and hidden cards on mobile */
+    }
+  
+    .activeCard {
+      margin: 0 auto; /* Center the active card */
+      padding: 1.5rem; /* Adjust padding for smaller screens */
+      border-radius: 10px; /* Optional: Add rounded corners */
+    }
+  
+    .arrowButton {
+      position: absolute;
+      top: 60%;
+      transform: translateY(-2%);
+      z-index: 10;
+    }
+  
+    .arrowButton:first-of-type {
+      left: 2.5rem; /* Position the left arrow */
+    }
+  
+    .arrowButton:last-of-type {
+      right: 2.5rem; /* Position the right arrow */
+    }
+  
+    .navigation {
+      bottom: 5rem; /* Adjust position of navigation for mobile */
+      gap: 0.5rem; /* Reduce spacing between buttons */
+    }
+  
+  }
+  

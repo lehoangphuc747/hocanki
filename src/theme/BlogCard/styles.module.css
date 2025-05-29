@@ -1,0 +1,122 @@
+/* Card Layout */
+.blogCard {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 350px; /* Fixed width for all cards */
+  height: 450px; /* Fixed height for all cards */
+  background-color: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  margin: auto; /* Center the card horizontally */
+}
+
+.blogCard:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+/* Image Section */
+.blogCardImageWrapper {
+  position: relative;
+  width: calc(100% - 20px); /* Add margin for elegance */
+  padding-top: 52.5%; /* Maintain 1200:630 aspect ratio */
+  overflow: hidden;
+  background: #f5f5f5;
+  border-radius: 8px;
+  margin: 10px auto 0; /* Add top margin and center image */
+}
+
+.blogCardImage {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ensure the image fits the container while preserving its aspect ratio */
+  transition: transform 0.3s ease;
+  border-radius: 5px; /* Apply rounded corners */
+}
+
+.blogCardImage:hover {
+  transform: translate(-50%, -50%) scale(1.05); /* Zoom effect on hover */
+  cursor: pointer;
+}
+
+/* Content Section */
+.blogCardContent {
+  padding: 1rem;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+/* Category Tag */
+.categoryLabel {
+  text-align: center;
+  display: inline-block;
+  background-color: #e6f2ff;
+  color: #333;
+  padding: 0.2rem 0.5rem; /* Padding around the text */
+  border-radius: 20px; /* Make label rounded */
+  font-size: 0.8rem;
+  margin: 0.5rem 20%; /* Center the tag horizontally and reduced its width */
+  white-space: nowrap; /* Prevents the tag from breaking into multiple lines */
+}
+
+/* Title Truncation */
+.blogCardTitle {
+  font-size: 1.25rem;
+  margin: 0.5rem 0;
+  color: #00334d;
+  transition: color 0.3s ease;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2; /* Limit to 2 lines */
+  -webkit-box-orient: vertical;
+}
+
+.blogCardTitle a {
+  text-decoration: none;
+}
+
+.blogCardTitle a:hover {
+  color: #FF6F61; /* Change title color on hover */
+  text-decoration: none; /* Prevent underline */
+}
+
+/* Date and Reading Time Section */
+.blogCardMeta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.9rem;
+  color: #666;
+  margin-bottom: 0.5rem;
+}
+
+.blogCardDate {
+  margin: 0;
+}
+
+.blogCardReadingTime {
+  margin: 0;
+  color: #666;
+}
+
+/* Description Truncation */
+.blogCardDescription {
+  font-size: 1rem;
+  color: #333;
+  margin-top: 0.5rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3; /* Limit to 3 lines */
+
+  -webkit-box-orient: vertical;
+}

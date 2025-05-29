@@ -1,0 +1,225 @@
+/* Blog Grid */
+.blogGrid {
+  display: grid;
+  /* Use CSS variable for cards per row; default to 4 */
+  grid-template-columns: repeat(var(--cards-per-row, 3), 1fr);
+  gap: 1.5rem; /* Spacing between cards */
+  padding: 2rem;
+  justify-content: center; /* Center-align the cards */
+  align-items: start; /* Align cards consistently */
+  max-width: 1500px; /* Constrain the width of the grid */
+  margin: 0 auto; /* Center the grid horizontally on the page */
+}
+  
+.blogGrid > * {
+  max-width: 350px; /* Consistent card width */
+  height: 450px; /* Consistent card height */
+  margin: 0 auto; /* Center cards horizontally */
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+  
+.blogGrid > *:hover {
+  transform: translateY(-5px); /* Lift the card slightly */
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1); /* Add a light shadow */
+}
+  
+@media (max-width: 768px) {
+  .blogGrid {
+    grid-template-columns: repeat(1, 1fr); /* Single column on smaller screens */
+    padding: 1rem;
+  }
+}
+  
+/* Filter Bar Container */
+.filterBar {
+  display: flex;
+  justify-content: space-between; /* Spread out groups and toggle icon */
+  align-items: center;
+  flex-wrap: wrap; /* Allow wrapping for smaller screens */
+  max-width: 1100px; /* Limit filter width */
+  margin: 1.5rem auto; /* Center horizontally */
+  padding: 1.5rem;
+  background: linear-gradient(to bottom, #ffffff, #f9f9f9); /* Subtle gradient */
+  border: 1px solid #e0e0e0; /* Soft border for definition */
+  border-radius: 12px; /* Smooth rounded corners */
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08); /* Soft shadow */
+  gap: 1rem; /* Space between groups */
+}
+
+/* Filter Groups */
+.filterGroup {
+  display: flex;
+  flex-direction: column; /* Stack label and buttons */
+  align-items: flex-start; /* Align to the left */
+  flex: 1; /* Equal width for groups */
+  min-width: 200px; /* Prevent groups from shrinking too much */
+}
+
+/* Filter Title */
+.filterTitle {
+  margin: 0;
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+  font-weight: bold;
+  color: #333;
+  text-transform: uppercase; /* Add emphasis */
+}
+
+/* Filter Options (Button Wrapper) */
+.filterOptions {
+  display: flex;
+  flex-wrap: wrap; /* Allow buttons to wrap if needed */
+  gap: 0.5rem; /* Space between buttons */
+}
+
+/* Filter Buttons */
+.filterButton {
+  padding: 0.4rem 1rem; /* Comfortable button size */
+  border: 1px solid #e0e0e0; /* Soft border for inactive buttons */
+  background-color: #f5f5f5; /* Neutral background */
+  border-radius: 20px; /* Fully rounded buttons */
+  color: #333;
+  font-size: 0.9rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.3s ease, color 0.3s ease, transform 0.2s ease; /* Smooth transitions */
+}
+
+.filterButton:hover {
+  background-color: #5cb860; /* Bright green hover color */
+  color: white;
+  transform: scale(1.05); /* Slightly enlarge on hover */
+}
+
+.activeButton {
+  background-color: #5cb860; /* Active state color */
+  color: white;
+  border: 1px solid #5cb860; /* Slightly darker border for contrast */
+}
+
+/* Responsive Filter Bar */
+@media (max-width: 768px) {
+  .filterBar {
+    flex-direction: column; /* Stack layout for small screens */
+    gap: 1rem;
+  }
+
+  .filterOptions {
+    justify-content: center; /* Center filter buttons */
+  }
+}
+
+/* Typography (inherit Lexend) */
+.filterTitle {
+  font-weight: bold;
+}
+
+/* Subtle Transition Effects */
+.filterButton {
+  transition: transform 0.3s ease, background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Typography (inherit Lexend font from the site) */
+.blogGrid h1,
+.blogGrid h2,
+.blogGrid h3 {
+  font-weight: 600;
+}
+
+/* Utility */
+.container {
+  padding: 1.5rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.blogGrid > * {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Pagination - Ngắt trang */
+.pagination {
+  display: flex;
+  justify-content: center; /* Center the pagination controls */
+  align-items: center;
+  margin-top: 2rem;
+  padding: 1rem 0;
+  border-top: 1px solid #ddd;
+  gap: 1rem; /* Add spacing between dropdown and page numbers */
+}
+
+.paginationOptions select {
+  appearance: none; /* Remove default browser styling */
+  padding: 0.5rem 1rem; /* Add padding for better usability */
+  font-size: 1rem; /* Improve readability */
+  font-family: inherit; /* Use inherited font for consistency */
+  border: 1px solid #ccc; /* Subtle border for neutral appearance */
+  border-radius: 8px; /* Softer, rounded corners */
+  background-color: #ffffff; /* White background for clean look */
+  cursor: pointer;
+  transition: background-color 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.paginationOptions select:hover {
+  background-color: #f7f7f7; /* Light gray hover effect */
+  border-color: #bbb; /* Slightly darker border on hover */
+}
+
+.paginationOptions select:focus {
+  outline: none; /* Remove default focus outline */
+  border-color: #999; /* Neutral focus border color */
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); /* Subtle shadow for focus */
+}
+
+.paginationOptions select:active {
+  background-color: #f2f2f2; /* Slightly darker gray for active state */
+}
+
+/* Style the dropdown list */
+.paginationOptions option {
+  padding: 0.5rem 1rem; /* Add padding to dropdown items */
+  font-size: 1rem; /* Keep font size consistent */
+  color: #333; /* Neutral text color */
+  background-color: #fff; /* White background for dropdown items */
+}
+
+.paginationOptions option:hover {
+  background-color: #f7f7f7; /* Light gray hover effect */
+  color: #000; /* Darker text on hover */
+}
+
+.paginationOptions option:checked {
+  background-color: #e6e6e6; /* Slightly darker gray for selected option */
+  color: #000; /* Dark text for selected option */
+}
+
+.paginationLinks {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.pageLink {
+  padding: 0.5rem 1rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.pageLink:hover {
+  background-color: #5cb860;
+  color: white;
+}
+
+.activePage {
+  background-color: #5cb860;
+  color: white;
+}
+
+  

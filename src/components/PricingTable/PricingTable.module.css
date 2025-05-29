@@ -1,0 +1,205 @@
+/* General Layout */
+.pricingTableContainer {
+    text-align: center;
+    padding: 2rem;
+    background-color: #f9f9f9;
+  }
+  
+  .pricingTitle {
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .pricingTitle span {
+    text-decoration: underline;
+    color: #f97316;
+  }
+  
+/* Toggle Section */
+.billingToggleWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem; /* Space between labels and toggle */
+    margin-bottom: 1.5rem;
+  }
+  
+  .toggleLabel {
+    font-size: 1rem;
+    color: #bcbcbc;
+    font-weight: bold;
+    transition: color 0.3s ease;
+  }
+  
+  .toggleLabel.active {
+    color: #333;
+  }
+  
+  .toggleContainer {
+    position: relative;
+    width: 50px;
+    height: 26px;
+    background: #f97316;
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0; /* Remove extra padding */
+    cursor: pointer;
+    overflow: hidden; /* Prevent bullet from falling outside */
+  }
+  
+  .toggleContainer.yearly .toggleBullet {
+    transform: translateX(24px); /* Ensure bullet stays inside on right side */
+  }
+  
+  .toggleBullet {
+    position: absolute;
+    width: 22px; /* Slightly smaller than container height */
+    height: 22px;
+    background: #ffffff;
+    border-radius: 50%;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);
+    transform: translateX(2px); /* Default position (left-aligned) */
+    transition: transform 0.3s ease;
+    z-index: 1;
+  }
+  
+  
+  .saveBadge {
+    font-size: 1rem; /* Slightly larger for better visibility */
+    color: #f97316;
+    font-weight: bold;
+    margin-top: 1rem; /* Add spacing from the toggle */
+    margin-bottom: 2rem; /* Add spacing before the plans */
+    display: inline-block;
+    text-align: center;
+  }
+  
+  
+  /* Plans Section */
+  .plansGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .planCard {
+    background: #ffffff;
+    border: 1px solid #e5e7eb;
+    border-radius: 16px;
+    padding: 2rem;
+    text-align: left;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Ensures button is at the bottom */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .planCard:hover {
+    transform: translateY(-8px);
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.15);
+  }
+  
+  .planCard.highlightedOutline {
+    border: 2px solid #f97316;
+  }
+  
+  .planHeader {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .planIcon {
+    font-size: 2.5rem;
+    color: #f97316;
+  }
+  
+  .planName {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 0.5rem 0;
+  }
+  
+
+.planPrice {
+    font-size: 2.5rem; /* Increased for emphasis */
+    font-weight: bold;
+    color: #333;
+    margin: 0.5rem 0;
+  }
+  
+  .planPrice span {
+    font-size: 1rem;
+    font-weight: normal;
+    color: #666;
+  }
+
+  /* Abstract Line Background for Selected Plan */
+/* .planCard.highlightedOutline {
+    background: linear-gradient(
+        0deg,
+        rgba(255, 87, 34, 0.05),
+        rgba(255, 87, 34, 0.02)
+      ),
+      url("/img/abstract-lines.svg") no-repeat right bottom;
+    background-size: 150px auto;
+    border: 2px solid #f97316;
+  } */
+  
+  
+  /* Features Section */
+  .featuresList {
+    list-style: none;
+    padding: 0;
+    margin: 1.5rem 0;
+  }
+  
+  .featuresList li {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 0.75rem;
+    font-size: 0.875rem;
+    color: #666;
+  }
+  
+  .checkIcon {
+    color: #4caf50;
+    font-size: 1rem;
+  }
+  
+  /* Button Styling */
+  .buttonWrapper {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .getStartedBtn {
+    background: #f97316;
+    color: white;
+    padding: 0.75rem 1.5rem;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: bold;
+    width: 140px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.3s ease, transform 0.3s ease;
+  }
+  
+  .getStartedBtn:hover {
+    background: #dc4c0d;
+    transform: scale(1.05);
+  }
+  

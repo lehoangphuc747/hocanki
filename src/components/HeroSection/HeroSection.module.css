@@ -1,0 +1,140 @@
+/* /components/LPComponents/HeroSection/HeroSection.module.css */
+
+.hero {
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed; /* Fixed background for parallax */
+  height: 100vh; /* Full-screen hero section */
+  position: relative;
+  text-align: center;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5); /* Darker overlay */
+  z-index: 1;
+  backdrop-filter: blur(3px); /* Increased blur for more contrast */
+}
+
+.heroContent {
+  position: relative;
+  z-index: 2; /* Ensure content is above the overlay */
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.heroTitle {
+  font-size: 3.6em; /* Larger title for visibility */
+  font-weight: bold;
+  color: #ffffff; /* White text for strong contrast */
+  margin-bottom: 20px;
+  animation: fadeIn 2s ease-in-out;
+}
+
+.heroDescription {
+  font-size: 1.8em; /* Increase description size */
+  margin-bottom: 40px;
+  color: #e0e0e0; /* Light gray for description */
+}
+
+/* General Button Styles */
+.ctaButtons a,
+.buttonPrimary,
+.buttonOutline {
+  display: inline-block;
+  padding: 15px 30px;
+  border-radius: 50px;
+  text-decoration: none;
+  font-size: 1.2em;
+  font-weight: bold;
+  margin: 10px;
+  transition: background-color 0.3s, transform 0.3s;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.buttonPrimary {
+  background-color: var(--primary-btn-bg, #4CAF50); /* Default Energetic Green */
+  color: var(--primary-btn-text, #ffffff);
+}
+
+.buttonOutline {
+  background-color: transparent;
+  border: 2px solid var(--outline-btn-border, #4CAF50);
+  color: var(--outline-btn-text, #4CAF50);
+}
+
+/* Hover Effects */
+/* Primary Button: On hover, change to a lighter green background and green text */
+.buttonPrimary:hover {
+  background-color: rgba(235, 238, 235, 1); /* White backgroun - adjust 1 to float to make it transparent */
+  color: var(--primary-btn-bg, #4CAF50); /* Text becomes the button background color */
+  transform: scale(1.05); /* Slight hover scale effect */
+}
+
+/* Outline Button: On hover, switch to primary background and white text */
+.buttonOutline:hover {
+  background-color: var(--outline-btn-border, #4CAF50); /* Switch to solid background */
+  color: #ffffff; /* Text turns white */
+  transform: scale(1.05); /* Slight hover scale effect */
+}
+
+/* Scroll Indicator */
+.scrollIndicator {
+  position: absolute;
+  bottom: 10%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 35px;
+  height: 55px;
+  border-radius: 50px;
+  border: 2px solid white;
+  z-index: 2;
+}
+
+.scrollIndicator::before {
+  content: '';
+  position: absolute;
+  top: 10px;
+  left: 50%;
+  width: 8px;
+  height: 8px;
+  background-color: white;
+  border-radius: 50%;
+  animation: scrollDown 1.5s infinite;
+  transform: translateX(-50%);
+}
+
+@keyframes scrollDown {
+  0% {
+    top: 10px;
+    opacity: 1;
+  }
+  50% {
+    top: 25px;
+    opacity: 0.5;
+  }
+  100% {
+    top: 40px;
+    opacity: 0;
+  }
+}
+
+/* Fade-In Animation */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}

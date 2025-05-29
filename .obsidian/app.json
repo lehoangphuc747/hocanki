@@ -1,0 +1,8 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "docs",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "static/images",
+  "alwaysUpdateLinks": true
+}

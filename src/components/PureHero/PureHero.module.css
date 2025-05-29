@@ -1,0 +1,201 @@
+:root {
+    --primary-color: #ffffff; /* Default primary color */
+}
+
+/* PureHero.module.css */
+.heroWrapper {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    position: relative;
+    overflow: hidden;
+    transition: background-position 0.1s ease-out;
+    background-color: #333; /* Set a fallback background color close to the image's color */
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+
+
+/* Navbar and Logo Container Alignment */
+.navContainer {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: 20px;
+    z-index: 2;
+}
+
+.navLeft {
+    left: 5vw;
+}
+
+.navRight {
+    right: 5vw;
+}
+
+.navCenter {
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+/* Logo Styling */
+.logoLink {
+    display: inline-flex;
+    align-items: center;
+    margin-right: 1rem; /* Space between logo and navbar */
+}
+
+.logo {
+    height: 40px; /* Adjust as needed */
+    width: auto;
+}
+
+/* Navbar styles */
+.navBar {
+    display: flex;
+    gap: 1rem;
+}
+
+.navItem {
+    font-size: 1rem;
+    cursor: pointer;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.navItem:hover {
+    text-decoration: underline;
+}
+
+/* Content styles */
+.content {
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* Align items to start by default */
+    position: absolute;
+}
+
+.contentLeft {
+    left: 5vw;
+    text-align: left;
+}
+
+.contentRight {
+    right: 5vw;
+    text-align: right;
+}
+
+.contentCenter {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    align-items: center;
+    text-align: center;
+}
+
+/* Title and subtitle */
+.title {
+    font-size: 3rem;
+    font-weight: bold;
+    margin: 0;
+    line-height: 1.2;
+}
+
+.subtitle {
+    font-size: 1.5rem;
+    margin: 0.5rem 0 2rem;
+}
+
+/* Button styles */
+.heroButton {
+    display: inline-block;
+    padding: 0.8rem 2rem;
+    font-size: 1rem;
+    background-color: transparent;
+    border: 1px solid currentColor;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s, color 0.3s;
+    max-width: fit-content; /* Button width adapts to text content */
+    align-self: flex-start; /* Aligns button with the text width */
+}
+
+.contentCenter .heroButton {
+    align-self: center; /* Center button for centered content */
+}
+
+.heroButton:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+/* Scroll hint */
+.scrollHint {
+    position: absolute;
+    bottom: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 25px;
+    height: 40px;
+    border: 2px solid var(--primary-color);
+    border-radius: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 2;
+}
+
+.scrollHint::after {
+    content: "";
+    width: 6px;
+    height: 6px;
+    background-color: white; /* Changed to white */
+    border-radius: 50%;
+    animation: scroll 1.5s infinite;
+}
+
+@keyframes scroll {
+    0% {
+        transform: translateY(-6px);
+        opacity: 1;
+    }
+    100% {
+        transform: translateY(6px);
+        opacity: 0;
+    }
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    .title {
+        font-size: 3rem;
+    }
+    .subtitle {
+        font-size: 1.2rem;
+    }
+    .heroButton {
+        padding: 0.6rem 1.5rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .title {
+        font-size: 2rem;
+    }
+    .subtitle {
+        font-size: 1rem;
+    }
+}

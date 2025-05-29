@@ -1,0 +1,163 @@
+.slider {
+    position: relative;
+    overflow: hidden;
+    margin: 0 auto;
+    transition: border-radius 0.3s ease;
+}
+
+.slide {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    transition: opacity 0.5s ease;
+    display: flex;
+    align-items: center;
+}
+
+.active {
+    opacity: 1;
+    z-index: 1;
+}
+
+.inactive {
+    opacity: 0;
+    z-index: 0;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1;
+}
+
+.content {
+    position: relative;
+    z-index: 2;
+    color: #ffffff;
+    max-width: 400px;
+    padding: 30px 50px 30px 70px; /* Extra padding on the left for more space from the arrow */
+}
+
+/* Text alignment classes */
+.textLeft {
+    margin-left: 60px; /* More space from left edge */
+    text-align: left;
+}
+
+.textRight {
+    margin-right: 60px;
+    margin-left: auto;
+    text-align: right;
+}
+
+.textCenter {
+    margin: 0 auto;
+    text-align: center;
+}
+
+/* Title and description styling */
+.title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 0 0 1rem;
+}
+
+.description {
+    font-size: 1rem;
+    margin: 0 0 1.5rem;
+}
+
+.button {
+    display: inline-block;
+    padding: 0.6rem 1.2rem;
+    font-size: 1rem;
+    color: #ffffff;
+    background-color: transparent;
+    border: 1px solid #ffffff;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.button:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+/* Arrows */
+.arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 2rem;
+    color: #ffffff;
+    background: none;
+    border: none;
+    cursor: pointer;
+    z-index: 2;
+}
+
+.left {
+    left: 20px;
+}
+
+.right {
+    right: 20px;
+}
+
+/* Pagination Dots */
+.dots {
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    z-index: 2;
+}
+
+.dot {
+    position: relative;
+    width: 10px;
+    height: 10px;
+    background-color: #ffffff;
+    border-radius: 50%;
+    cursor: pointer;
+    opacity: 0.5;
+    overflow: hidden;
+    transition: opacity 0.3s;
+}
+
+.activeDot {
+    opacity: 1;
+}
+
+.dotProgress {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 50%;
+    animation: countdown 5s linear infinite;
+}
+
+/* Dot animation for progress indication */
+@keyframes countdown {
+    0% {
+        transform: scale(1);
+        opacity: 1;
+    }
+    100% {
+        transform: scale(0);
+        opacity: 0;
+    }
+}

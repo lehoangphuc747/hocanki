@@ -1,0 +1,67 @@
+:root {
+    --ifm-footer-background-color: #303846;
+    --ifm-footer-text-color: #ffffff;
+  }
+  
+  .subscribeFooter {
+    display: flex;
+    flex-direction: column; /* 2-row layout */
+    align-items: flex-start; /* Align content to the left */
+    gap: 0.5rem; /* Add spacing between rows */
+    margin-top: 1rem; /* Adjust spacing above for better alignment */
+    color: var(--ifm-footer-text-color); /* Match footer text color */
+  }
+  
+  .subscribeTitle {
+    font-size: 0.9rem; /* Smaller text for compact design */
+    font-weight: 600;
+    color: var(--ifm-footer-text-color);
+    text-align: left; /* Align title to the left */
+  }
+  
+  .subscribeInputContainer {
+    display: flex;
+    flex-wrap: nowrap; /* Keep input and button in one row */
+    align-items: center;
+    gap: 0.5rem; /* Add spacing between input and button */
+    width: 100%;
+    max-width: 320px; /* Reduce width for compact alignment */
+    justify-content: flex-start; /* Align to the left */
+  }
+  
+  /* Adjust input and button styling */
+  #custom-substack-embed input {
+    flex: 1; /* Make input field flexible */
+    padding: 0.4rem; /* Smaller padding for compact design */
+    /* border: 1px solid var(--ifm-color-emphasis-300); */
+    border-radius: 4px;
+    font-size: 0.8rem; /* Smaller font for compact design */
+  }
+  
+  #custom-substack-embed button {
+    background-color: var(--ifm-color-primary);
+    color: var(--ifm-footer-text-color);
+    padding: 0.4rem 0.8rem; /* Smaller padding for compact design */
+    border: none;
+    border-radius: 4px;
+    font-size: 0.8rem; /* Smaller font for compact button */
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  #custom-substack-embed button:hover {
+    background-color: var(--ifm-color-primary-dark);
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .subscribeFooter {
+      align-items: center; /* Center-align content on mobile */
+    }
+  
+    .subscribeInputContainer {
+      max-width: 100%; /* Ensure full width on mobile */
+      justify-content: center; /* Center-align on mobile */
+    }
+  }
+  

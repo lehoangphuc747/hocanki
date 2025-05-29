@@ -1,0 +1,140 @@
+/* Light Mode Variables */
+:root {
+    --background: #ffffff;
+    --text: #333333;
+    --section-background: #f9f9f9;
+    --button-text: #008080;
+    --button-border: #008080;
+    --image-shadow-normal: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for normal state */
+    --image-shadow-hover: 0px 12px 30px rgba(0, 0, 0, 0.3); /* Darker shadow for hover in light mode */
+}
+
+/* Dark Mode Variables */
+[data-theme='dark'] {
+    --background: #1e1e1e;
+    --text: #e0e0e0;
+    --section-background: #2c2c2c;
+    --button-text: #e0e0e0;
+    --button-border: #e0e0e0;
+    --image-shadow-normal: 0px 4px 10px rgba(0, 128, 128, 0.2); /* Subtle teal shadow for normal state */
+    --image-shadow-hover: 0px 12px 30px rgba(0, 128, 128, 0.4); /* More prominent teal shadow on hover in dark mode */
+}
+
+.twoColumnSection {
+    padding: 2rem;
+    margin: 0 10%;
+    opacity: 1;
+    transform: translateY(0);
+    transition: transform 0.5s ease-out, opacity 0.5s ease-out;
+    /* background-color: var(--section-background); */
+}
+
+.twoColumnSection.visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.twoColumnSection:not(.visible) {
+    opacity: 0;
+    transform: translateY(30px);
+}
+
+/* Apply colors using CSS variables */
+.sectionTitle {
+    width: 100%;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+    color: var(--text);
+}
+
+.columnContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.textArea h2 {
+    color: var(--text);
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+
+.textArea p {
+    color: var(--text);
+}
+
+.textArea {
+    padding: 1rem;
+}
+
+.textAreaLeft {
+    padding-left: 2rem;
+}
+
+.textAreaRight {
+    padding-right: 2rem;
+}
+
+.imageArea {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 8px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: var(--image-shadow-normal); /* Subtle shadow by default */
+}
+
+.image:hover {
+    transform: scale(1.05);
+    box-shadow: var(--image-shadow-hover); /* Prominent shadow on hover */
+}
+
+.button {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.6rem 1.2rem;
+    font-size: 1rem;
+    font-weight: bold;
+    text-decoration: none;
+    border: 1px solid;
+    border-radius: 4px;
+    color: var(--button-text);
+    border-color: var(--button-border);
+    background-color: transparent;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.button:hover {
+    background-color: #bf6363;
+    color: #ffffff;
+    border-color: #bf6363;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .twoColumnSection {
+        margin: 0 5%;
+    }
+    .columnContainer {
+        flex-direction: column;
+    }
+    .textArea, .imageArea {
+        flex: 1;
+        width: 100%;
+        text-align: center;
+    }
+    .imageArea {
+        order: -1;
+    }
+    .button {
+        margin: 0.5rem auto;
+    }
+}
