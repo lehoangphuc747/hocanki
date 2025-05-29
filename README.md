@@ -1,73 +1,62 @@
-> [!TIP]
-> `awesome_docusaurus` là mẫu website nâng cao cho dự án Docusaurus kèm các hướng dẫn minh hoạ tính năng website giúp bạn sử dụng nhanh chóng. Hãy sao chép dự án này về tài khoản của mình để bắt đầu thực hành.
+# Học Anki - Khóa học Anki từ cơ bản đến nâng cao
 
-## Sao chép repo
+![Docusaurus](https://img.shields.io/badge/Docusaurus-3.7.0-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
 
-Từ giao diện kho chứa mã nguồn awesome_docusaurus, chọn Use template để sao chép về tài khoản của bạn.
+## Giới thiệu
 
-![](static/images/use_as_template.png)
+Học Anki là nền tảng học tập trực tuyến giúp bạn làm chủ Anki - công cụ ghi nhớ thông minh hàng đầu thế giới. Với phương pháp học tập khoa học và hệ thống bài giảng được thiết kế chuyên nghiệp, chúng tôi cam kết giúp bạn:
 
-![](static/images/clone_a_repo_as_templae.png)
+- Hiểu và sử dụng thành thạo Anki
+- Xây dựng hệ thống ghi nhớ hiệu quả
+- Tối ưu hóa quá trình học tập
+- Đạt được kết quả học tập tốt nhất
 
-Sau khi lưu các thông tin mô tả, **bấm nút Create Repository** để tạo bản sao repo lưu trên tài khoản Github của bạn.
+## Tính năng chính
 
-## Mở trong Codespaces
+- 🎯 Lộ trình học tập rõ ràng
+- 📚 Tài liệu học tập phong phú
+- 💡 Hướng dẫn chi tiết từng bước
+- 🤝 Hỗ trợ 1-1 từ giảng viên
+- 📱 Tương thích đa nền tảng
 
-> Github Codespaces là dịch vụ đám mây của Github cho phép bạn sử dụng môi trường thiết lập sẵn để lập trình, chỉnh sửa cấu hình website và thay đổi nội dung của trang web được thực hiện trong môi trường này. Mặc định bạn được sử dụng miễn phí 60h/tháng cho dịch vụ này, mua gói Pro của Github giá $4 khoảng 110K sẽ cho phép sử dụng 180h/tháng khá thoải mái. Khi bạn đã quen các thao tác cơ bản có thể tự thiết lập môi trường lập trình trên môi trường cục bộ máy tính của mình để khỏi trả tiền phí.
+## Cài đặt
 
-![](static/images/open_codespaces.png)
+```bash
+# Clone repository
+git clone https://github.com/lehoangphuc747/hocanki.git
 
-Giao diện làm việc của Codespace giống y như Visual Studio Code, chỉ khác là chạy trên môi trường máy chủ đám mây chứ không phải Desktop cục bộ trên phần cứng máy tính của bạn.
+# Di chuyển vào thư mục dự án
+cd hocanki
 
-![](static/images/codespaces_vscode_ui_layout.png)
-
-## Đồng bộ
-
-Nhập lệnh git vào Terminal
-
-```
-git pull
-```
-
-![](static/images/git_pull_terminal.png)
-
-## Cài đặt gói thư viện
-
-Nhập câu lệnh NodeJS dưới đây vào Terminal  (Node là môi trường chạy JavaScript)
-
-```
+# Cài đặt dependencies
 npm install
+
+# Chạy dự án ở môi trường development
+npm start
+
+# Build dự án
+npm run build
 ```
 
-`npm` là node package manager tức công cụ quản lý các gói thư viện trong môi trường node. Bạn có thể hình dung Node giống 1 cái smartphone, còn npm như App Store dùng để cài đặt app như Facebook, Chrome trên máy tính. Thay vì phải thao tác trên màn hình, bấm chọn cái này cái kia thì ở đây dùng lệnh, đơn giản và chính xác.
+## Công nghệ sử dụng
 
-## Xem trước (preview) & chỉnh sửa
+- [Docusaurus](https://docusaurus.io/) - Framework xây dựng website tài liệu
+- [React](https://reactjs.org/) - Thư viện JavaScript cho UI
+- [Node.js](https://nodejs.org/) - Môi trường thực thi JavaScript
+- [GitHub Pages](https://pages.github.com/) - Hosting
 
-```
-npm run start
-```
+## Đóng góp
 
-![](static/images/docusaurus_preview.png)
+Mọi đóng góp đều được hoan nghênh! Vui lòng đọc [CONTRIBUTING.md](CONTRIBUTING.md) để biết thêm chi tiết về quy trình đóng góp.
 
-![](static/images/docusaurus_first_impression.png)
+## Giấy phép
 
-Chúc mừng bạn đã hoàn thành tutorial đầu tiên để có thể thấy hình hài của website. 
-Hiện tại bạn có thể xem các nội dung web trong chế độ phát triển, chưa công bố lên internet.
+Dự án này được cấp phép theo giấy phép MIT - xem file [LICENSE](LICENSE) để biết thêm chi tiết.
 
-Bạn có thể click vào các link trong website này để xem chi tiết các hướng dẫn bằng tiếng Việt do Thịnh chuẩn bị trước.
+## Liên hệ
 
-## Chỉnh sửa
-
-> [!TIP] "Gợi ý"
-> Bạn có thể bắt đầu chơi đùa và chỉnh sửa các file nội dung của website và xem trước 
-
-![](static/images/start_editting_simple_browser.png)
-## Sao lưu & đồng bộ
-
-![](static/images/commit_changes_codespaces.png)
-
-![](static/images/sync_change_git_codespace.png)
-
-OK để tiếp tục đồng bộ
-
-![](static/images/Pasted%20image%2020241115224653.png)
+- Website: [hocanki.com](https://hocanki.com)
+- Facebook: [Anki Việt Nam](https://www.facebook.com/tui.la.phuc747/)
+- Telegram: [@mr_thinh](https://t.me/mr_thinh)
+- YouTube: [@ankivn](https://www.youtube.com/@ankivn)
