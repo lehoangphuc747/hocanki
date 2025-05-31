@@ -36,7 +36,7 @@
 <div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">---</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">title: Tiêu đề bài viết tối ưu cho SEO hoặc không</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">description: "Mô tả bài viết sẽ xuất hiện trong phần hiển thị bố cục dạng lưới của Blog đồng thời trong kết quả tìm kiếm Google."</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">slug: đường-dẫn-của-trang-blog-không-dấu</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">date: 2025-01-14</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">category: 'hướng dẫn' &lt;!-- Tên danh mục phân loại --&gt;</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">image: http://learn-anything.vn/images/hoan-thien-hon-hoan-hao_lean-anything.jpg &lt;!-- Ảnh hiển thị đại diện cho bài viết trong phần bố cục dạng lưới và là ảnh xem trước khi chia sẻ bài viết lên mạng xã hội. Ảnh này phải là full path bao gồm cả domain để các mạng xã hội đọc được thay vì relative path đến thư mục /images/ như ví dụ này --&gt;</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">tags:</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  - Trải nghiệm &lt;!-- Thẻ đánh dấu nội dung --&gt;</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">authors:</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  - thinh-vu &lt;!-- Tác giả: cấu hình trong file /blog/authors.yml--&gt;</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">domain: learn-anything.vn &lt;!-- Tên miền của bạn, áp dụng cho cơ chế chấm điểm SEO với công cụ SEO Analyzer do Thịnh cung cấp --&gt;</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">publish: True &lt;!--Quyết định hiển thị bài này trong giao diện lứoi hay không. True để hiển thị, False để ẩn đi nhưng vẫn hiển thị khi tìm kiếm Google --&gt;</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">---</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="viết-bài">Viết bài<a href="https://lehoangphuc747.github.io/hocanki/blog/huong-den-su-hoan-thien-hon-hoan-hao#vi%E1%BA%BFt-b%C3%A0i" class="hash-link" aria-label="Direct link to Viết bài" title="Direct link to Viết bài">​</a></h3>
 <p>Không có gì thay đổi, bạn viết như các bài viết dạng markdown thông thường.</p>]]></content:encoded>
-            <category>Trải nghiệm</category>
+            <category>Hello</category>
         </item>
         <item>
             <title><![CDATA[Welcome]]></title>
@@ -57,9 +57,9 @@
 <p><img decoding="async" loading="lazy" alt="Docusaurus Plushie" src="https://lehoangphuc747.github.io/hocanki/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
 <p>The blog supports tags as well!</p>
 <p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content:encoded>
-            <category>facebook</category>
-            <category>hello</category>
-            <category>docusaurus</category>
+            <category>Facebook</category>
+            <category>Hello</category>
+            <category>Docusaurus</category>
         </item>
         <item>
             <title><![CDATA[MDX Blog Post]]></title>
@@ -73,7 +73,7 @@
 <p>For example, use JSX to create an interactive button:</p>
 <div class="language-js codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-js codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token operator" style="color:#393A34">&lt;</span><span class="token plain">button onClick</span><span class="token operator" style="color:#393A34">=</span><span class="token punctuation" style="color:#393A34">{</span><span class="token punctuation" style="color:#393A34">(</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"> </span><span class="token arrow operator" style="color:#393A34">=&gt;</span><span class="token plain"> </span><span class="token function" style="color:#d73a49">alert</span><span class="token punctuation" style="color:#393A34">(</span><span class="token string" style="color:#e3116c">'button clicked!'</span><span class="token punctuation" style="color:#393A34">)</span><span class="token punctuation" style="color:#393A34">}</span><span class="token operator" style="color:#393A34">&gt;</span><span class="token maybe-class-name">Click</span><span class="token plain"> me</span><span class="token operator" style="color:#393A34">!</span><span class="token operator" style="color:#393A34">&lt;</span><span class="token operator" style="color:#393A34">/</span><span class="token plain">button</span><span class="token operator" style="color:#393A34">&gt;</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
 <button>Click me!</button>]]></content:encoded>
-            <category>docusaurus</category>
+            <category>Docusaurus</category>
         </item>
         <item>
             <title><![CDATA[Long Blog Post]]></title>
@@ -99,8 +99,8 @@
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
-            <category>hello</category>
-            <category>docusaurus</category>
+            <category>Hello</category>
+            <category>Docusaurus</category>
         </item>
         <item>
             <title><![CDATA[First Blog Post]]></title>
@@ -110,8 +110,8 @@
             <description><![CDATA[Bài viết này sẽ được ẩn đi trên trang Blog. Để hiển thị, đặt giá trị publish thành True.]]></description>
             <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet...</p>
 <p>...consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
-            <category>hola</category>
-            <category>docusaurus</category>
+            <category>Hola</category>
+            <category>Docusaurus</category>
         </item>
     </channel>
 </rss>
