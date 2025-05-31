@@ -209,7 +209,7 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'light', // Đổi từ 'dark' sang 'light' để có nền sáng
         copyright: `From Anki Việt Nam with love ❤️`,
       },
       prism: {

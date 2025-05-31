@@ -44,7 +44,7 @@ function HomepageHeader() {
           Khám phá <strong className={styles.highlightPink}>Lộ trình</strong> được thiết kế riêng, <strong className={styles.highlightPink}>Quyền lợi</strong> đặc biệt, và <strong className={styles.highlightPink}>Chi phí</strong> hợp lý. Học Anki hiệu quả, không còn mơ hồ.
         </p>
         <div className={styles.heroButtonsContainer}>
-          <Link to="/link-den-trang-hoc" className={clsx('btn', styles.btnCtaTertiary)}>
+          <Link to="/docs/intro" className={clsx('btn', styles.btnCtaTertiary)}>
             <span className={styles.emojiIcon} role="img" aria-label="Rocket">🚀</span>
             HỌC NGAY
           </Link>
@@ -231,33 +231,38 @@ export default function Home() {
         <section id="dang-ky-final" className={clsx('slide-section', styles.registrationSection)}>
           <div className={styles.container}>
             <div className={styles.registrationContentWrapper}>
-              <div className={styles.icon}>💸</div>
-              <h2 className={styles.sectionTitle}>ĐẦU TƯ CHO TƯƠNG LAI CỦA BẠN</h2>
+              <h2 className={styles.sectionTitle}>💸 ĐẦU TƯ CHO TƯƠNG LAI CỦA BẠN 💸</h2>
               
-              <div className={styles.priceDisplayArea}>
-                <p className={styles.priceOriginal}>Giá gốc: 1.299.000 VNĐ</p>
-                <p className={styles.priceCurrent}>769.000 <span className={styles.currency}>VNĐ</span></p>
-                <p className={styles.priceSavingsBadge}>Tiết kiệm 530.000 VNĐ!</p>
-                <p className={styles.priceOfferLimit}>(Ưu đãi đặc biệt cho 10 slot đăng ký đầu tiên)</p>
+              {/* Pricing Information */}
+              <div className={styles.pricingInfo}>
+                <div className={styles.originalPrice}>Giá gốc: <span className={styles.strikethrough}>1.299.000 VNĐ</span></div>
+                <div className={styles.currentPrice}>769.000 <span className={styles.currency}>VNĐ</span></div>
+                <div className={styles.savingsHighlight}>Tiết kiệm 530.000 VNĐ!</div>
+                <div className={styles.specialOffer}>(Ưu đãi đặc biệt cho 10 slot đăng ký đầu tiên)</div>
               </div>
 
-              <div className={styles.priceTiersInfo}>
-                <p>10 slot tiếp theo: <strong>869.000 VNĐ</strong></p>
-                <p>Giá sau đó: <strong>999.000 VNĐ</strong></p>
+              {/* Slot Information */}
+              <div className={styles.slotInfo}>
+                <div className={styles.slotItem}>10 slot tiếp theo: <span className={styles.nextPrice}>869.000 VNĐ</span></div>
+                <div className={styles.slotItem}>Giá sau đó: <span className={styles.finalPrice}>999.000 VNĐ</span></div>
               </div>
-
-              <p className={styles.registrationDisclaimer}>
-                "Mình điều chỉnh giá vì muốn dành nhiều thời gian hơn để đảm bảo chất lượng kèm cặp tốt nhất cho mỗi học viên. Đây cũng là cách để bạn thực sự cân nhắc đầu tư cho việc tiết kiệm thời gian học tập lâu dài."
-              </p>
-              
-              <Link to="/checkout" className={clsx('btn', styles.btnActionPink)}>ĐĂNG KÝ KHÓA HỌC NGAY</Link> 
               
               <div className={styles.slotTracker}>
-                <p className={styles.slotTrackerTitle}>Tình trạng slot ưu đãi (769k):</p>
-                <p id="slot-status-display" className={styles.slotTrackerStatus}>{slotStatusText}</p> 
+                <div className={styles.slotTrackerTitle}>Tình trạng slot ưu đãi:</div>
+                <div className={styles.slotTrackerStatus}>{slotStatusText}</div>
               </div>
               
-              <p className={styles.registrationFootnote}>Thanh toán an toàn. Truy cập khóa học ngay lập tức.</p>
+              <Link to="https://forms.gle/your-google-form-link" className={clsx('btn', styles.btnActionPink)}>
+                <span className={styles.emojiIcon} role="img" aria-label="Money Bag">💰</span>
+                ĐĂNG KÝ NGAY
+              </Link>
+
+              {/* Quote from instructor */}
+              <div className={styles.instructorQuote}>
+                <p>"Mình điều chỉnh giá vì muốn dành nhiều thời gian hơn để đảm bảo chất lượng kèm cặp tốt nhất cho mỗi học viên. Đây cũng là cách để bạn thực sự cân nhắc đầu tư cho việc tiết kiệm thời gian học tập lâu dài."</p>
+              </div>
+
+              {/* <p className={styles.registrationFootnote}>* Đảm bảo hoàn tiền 100% nếu bạn không hài lòng trong 30 ngày đầu tiên.</p> */}
             </div>
           </div>
         </section>

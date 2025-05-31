@@ -6,7 +6,7 @@ date: 2025-01-14
 category: 'hướng dẫn'
 image: /images/awesome-docusaurus-sample-cover.jpg
 tags:
-  - Trải nghiệm
+  - hello
 authors:
   - thinh-vu
 domain: learn-anything.vn

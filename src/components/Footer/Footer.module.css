@@ -1,5 +1,12 @@
 .footer {
-  background-color: var(--ifm-color-primary);
+  /* Chọn 1 trong các màu sau */
+  
+  /* background-color: #2c3e50;  Xanh navy đẹp */
+  /* background-color: #343a40; */ /* Xám tối */
+  /* background-color: #6c5ce7; */ /* Tím */
+  /* background-color: #2d3436; */ /* Đen */
+ background: linear-gradient(135deg, #667eea 20%, #764ba2 90%); 
+  
   color: white;
   padding: 2rem 0;
   text-align: center;
@@ -15,4 +22,4 @@
   margin: 0;
   font-size: 1.1rem;
   font-weight: 500;
-} 
+}
