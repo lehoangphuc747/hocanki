@@ -223,7 +223,7 @@ export default function Home() {
               ))}
             </div>
             <div className={styles.moreReviewsLinkContainer}>
-              <Link to="/reviews-chi-tiet" className={clsx('btn', styles.btnOutlinePrimary)}>Xem thêm các đánh giá khác</Link>
+              <Link to="/demo/testimonial" className={clsx('btn', styles.btnOutlinePrimary)}>Xem thêm các đánh giá khác</Link>
             </div>
           </div>
         </section>

@@ -2,7 +2,14 @@
 sidebar_position: 1
 title: "Học Anki - Hướng dẫn sử dụng Anki hiệu quả từ A-Z"
 description: "Học cách sử dụng Anki hiệu quả với hệ thống lặp lại ngắt quãng. Hướng dẫn chi tiết từ cài đặt đến thành thạo, giúp bạn ghi nhớ lâu dài."
-keywords: ["anki", "học anki", "spaced repetition", "lặp lại ngắt quãng", "thẻ ghi nhớ", "flashcard", "học hiệu quả"]
+keywords: 
+    - "anki"
+    - "học anki"
+    - "spaced repetition"
+    - "lặp lại ngắt quãng"
+    - "thẻ ghi nhớ"
+    - "flashcard"
+    - "học hiệu quả"
 ---
 
 # Học Anki - Hướng dẫn sử dụng Anki hiệu quả từ A-Z

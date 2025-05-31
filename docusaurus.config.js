@@ -17,15 +17,18 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://lehoangphuc747.github.io',
+
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/hocanki/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'lehoangphuc747', // Tên người dùng GitHub của bạn
+  projectName: 'hocanki',          // Tên repository của bạn
+  deploymentBranch: 'gh-pages',    // Nhánh mà Docusaurus sẽ deploy lên
+  trailingSlash: false,            // Nên thêm để tránh lỗi và vấn đề SEO
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -55,7 +58,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/lehoangphuc747/hocanki/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -66,7 +69,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/lehoangphuc747/hocanki/tree/main/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -177,7 +180,7 @@ const config = {
                 label: 'Demo - Cuộn chữ', 
               },
               {
-                to: '/docs/demo/', 
+                to: '/demo/cards', 
                 label: 'Nguồn cảm hứng', 
               },
             ],
