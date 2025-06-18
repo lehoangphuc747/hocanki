@@ -513,6 +513,49 @@
 .testimonialsSlide {
     background-color: var(--color-background-off-white);
 }
+
+/* AI Disclaimer Box */
+.aiDisclaimerBox {
+    background: linear-gradient(135deg, #fff3cd 0%, #ffeaa7 100%);
+    border: 2px dashed #ffc107;
+    border-radius: var(--border-radius);
+    padding: 1.5rem;
+    margin: 1.5rem auto 2.5rem auto;
+    max-width: 600px;
+    text-align: center;
+    box-shadow: var(--shadow-sm);
+    animation: subtle-pulse 3s ease-in-out infinite;
+}
+
+.aiDisclaimer {
+    margin: 0;
+    color: #856404;
+    font-size: 0.95rem;
+    line-height: 1.6;
+}
+
+.aiDisclaimer strong {
+    color: #dc3545;
+    font-weight: 700;
+}
+
+.aiDisclaimer em {
+    font-style: italic;
+    color: #6c757d;
+    font-size: 0.9rem;
+}
+
+@keyframes subtle-pulse {
+    0%, 100% { 
+        transform: scale(1); 
+        box-shadow: var(--shadow-sm);
+    }
+    50% { 
+        transform: scale(1.02); 
+        box-shadow: var(--shadow-md);
+    }
+}
+
 .testimonialGrid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));

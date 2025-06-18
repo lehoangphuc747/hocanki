@@ -48,6 +48,10 @@ const config = {
 
   plugins: [require.resolve('docusaurus-lunr-search')],
 
+  stylesheets: [
+    'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css',
+  ],
+
   presets: [
     [
       'classic',
@@ -112,101 +116,102 @@ const config = {
         },
         items: [
           {
-            to: '/docs/intro',
+            to: '/workshop/basic-anki-workshop',
             position: 'left',
-            label: 'Hướng dẫn',
-            activeBaseRegex: `/docs/intro`,
+            label: 'Basic Anki Workshop',
+            activeBaseRegex: `/workshop/basic-anki-workshop`,
           },
-          {to: '/blog', 
-            label: 'Blog', 
-            position: 'left',
-            activeBaseRegex: `/blog`,
-          },
-          {
-            label: 'Thư viện mẫu',
-            position: 'left',
-            activeBaseRegex: `/thu-vien-mau`,
-            items: [
-              {
-                to: '/demo/cards', 
-                label: 'Demo - Tất cả', 
-              },
-              {
-                to: '/demo/about', 
-                label: 'Demo - Về chúng tôi', 
-              },
-              {
-                to: '/demo/featured-products', 
-                label: 'Demo - Sản phẩm nổi bật + CTA', 
-              },
-              {
-                to: '/demo/faq', 
-                label: 'Demo - CTA & FAQ', 
-              },
-              {
-                to: '/markdown/page-with-subscribe-box', 
-                label: 'Demo - Đăng ký bản tin', 
-              },
-              {
-                to: '/markdown/image-popup', 
-                label: 'Demo - Popup ảnh', 
-              },
-              {
-                to: '/markdown/media-embeded', 
-                label: 'Demo - Nhúng Video, PDF, Notebook', 
-              },
-              {
-                to: '/demo/slider', 
-                label: 'Demo - Slider trình chiếu', 
-              },
-              {
-                to: '/demo/image-gallery', 
-                label: 'Demo - Thư viện ảnh', 
-              },
-              {
-              to: '/demo/testimonial', 
-              label: 'Demo - Testimonial - Chứng thực', 
-              },
-              {
-                to: '/markdown/page-with-subscribe-box', 
-                label: 'Trang Markdown & Subscribe', 
-              },
-              {
-                to: '/markdown/page-with-faq', 
-                label: 'Trang Markdown & FAQ', 
-              },
-              {
-                to: '/demo/text-reveal', 
-                label: 'Demo - Cuộn chữ', 
-              },
-              {
-                to: '/demo/cards', 
-                label: 'Nguồn cảm hứng', 
-              },
-            ],
-          },
+          // { // Ẩn mục Hướng dẫn
+          //   to: '/docs/intro',
+          //   position: 'left',
+          //   label: 'Hướng dẫn',
+          //   activeBaseRegex: `/docs/intro`,
+          // },
+          // { // Ẩn mục Blog
+          //   to: '/blog', 
+          //   label: 'Blog', 
+          //   position: 'left',
+          //   activeBaseRegex: `/blog`,
+          // },
+          // { // Ẩn mục Thư viện mẫu
+          //   label: 'Thư viện mẫu',
+          //   position: 'left',
+          //   activeBaseRegex: `/thu-vien-mau`,
+          //   items: [
+          //     {
+          //       to: '/demo/cards', 
+          //       label: 'Demo - Tất cả', 
+          //     },
+          //     {
+          //       to: '/demo/about', 
+          //       label: 'Demo - Về chúng tôi', 
+          //     },
+          //     {
+          //       to: '/demo/featured-products', 
+          //       label: 'Demo - Sản phẩm nổi bật + CTA', 
+          //     },
+          //     {
+          //       to: '/demo/faq', 
+          //       label: 'Demo - CTA & FAQ', 
+          //     },
+          //     {
+          //       to: '/markdown/page-with-subscribe-box', 
+          //       label: 'Demo - Đăng ký bản tin', 
+          //     },
+          //     {
+          //       to: '/markdown/image-popup', 
+          //       label: 'Demo - Popup ảnh', 
+          //     },
+          //     {
+          //       to: '/markdown/media-embeded', 
+          //       label: 'Demo - Nhúng Video, PDF, Notebook', 
+          //     },
+          //     {
+          //       to: '/demo/slider', 
+          //       label: 'Demo - Slider trình chiếu', 
+          //     },
+          //     {
+          //       to: '/demo/image-gallery', 
+          //       label: 'Demo - Thư viện ảnh', 
+          //     },
+          //     {
+          //     to: '/demo/testimonial', 
+          //     label: 'Demo - Testimonial - Chứng thực', 
+          //     },
+          //     {
+          //       to: '/markdown/page-with-subscribe-box', 
+          //       label: 'Trang Markdown & Subscribe', 
+          //     },
+          //     {
+          //       to: '/markdown/page-with-faq', 
+          //       label: 'Trang Markdown & FAQ', 
+          //     },
+          //     {
+          //       to: '/demo/text-reveal', 
+          //       label: 'Demo - Cuộn chữ', 
+          //     },
+          //     {
+          //       to: '/demo/cards', 
+          //       label: 'Nguồn cảm hứng', 
+          //     },
+          //   ],
+          // },
           {
             href: 'https://www.facebook.com/tui.la.phuc747/',
             position: 'right',
-            className: 'navbar-icon fab fa-facebook',
+            className: 'header-facebook-link navbar-icon',
             'aria-label': 'Facebook',
           },
           {
             href: 'https://m.me/tui.la.phuc747',
             position: 'right',
-            className: 'navbar-icon fab fa-facebook-messenger',
+            className: 'header-messenger-link navbar-icon',
             'aria-label': 'Messenger',
-          },
-          {
-            href: 'https://t.me/mr_thinh',
-            position: 'right',
-            className: 'navbar-icon fab fa-telegram-plane',
-            'aria-label': 'Telegram',
           },
           {
             href: 'https://www.youtube.com/@ankivn',
             position: 'right',
-            className: 'navbar-icon fab fa-youtube',
+            className: 'header-youtube-link navbar-icon',
             'aria-label': 'YouTube',
           },
         ],

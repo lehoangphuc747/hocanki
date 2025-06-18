@@ -44,7 +44,7 @@ function HomepageHeader() {
           Khám phá <strong className={styles.highlightPink}>Lộ trình</strong> được thiết kế riêng, <strong className={styles.highlightPink}>Quyền lợi</strong> đặc biệt, và <strong className={styles.highlightPink}>Chi phí</strong> hợp lý. Học Anki hiệu quả, không còn mơ hồ.
         </p>
         <div className={styles.heroButtonsContainer}>
-          <Link to="/docs/intro" className={clsx('btn', styles.btnCtaTertiary)}>
+          <Link to="#dang-ky-final" className={clsx('btn', styles.btnCtaTertiary)}>
             <span className={styles.emojiIcon} role="img" aria-label="Rocket">🚀</span>
             HỌC NGAY
           </Link>
@@ -214,6 +214,12 @@ export default function Home() {
           <div className={styles.container}>
             <h2 className={styles.textCenter}>HƠN 100 HỌC VIÊN ĐÃ TIN TƯỞNG</h2>
             <p className={clsx(styles.textCenter, styles.sectionSubtitle)}>Và đây là một vài cảm nhận:</p>
+            <div className={styles.aiDisclaimerBox}>
+              <p className={styles.aiDisclaimer}>
+                <strong>📝 Lưu ý:</strong> Cái này do AI tạo nha, chứ review thực tế mình lười chưa có thêm 😅<br/>
+                <em>Lười cắt video, lười kím lại hình :)))) Mong mn thông cảm.</em>
+              </p>
+            </div>
             <div className={styles.testimonialGrid}>
               {testimonialsData.map((testimonial, index) => (
                 <div key={index} className={styles.testimonialCard}>
@@ -223,7 +229,7 @@ export default function Home() {
               ))}
             </div>
             <div className={styles.moreReviewsLinkContainer}>
-              <Link to="/demo/testimonial" className={clsx('btn', styles.btnOutlinePrimary)}>Xem thêm các đánh giá khác</Link>
+              <Link to="" className={clsx('btn', styles.btnOutlinePrimary)}>Xem thêm các đánh giá khác (chưa có đâu :)))</Link>
             </div>
           </div>
         </section>
