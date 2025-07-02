@@ -9,7 +9,7 @@ import tailwindcss from '@tailwindcss/vite';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://lehoangphuc747.github.io',
-  base: '/hocanki',
+  base: process.env.NODE_ENV === 'production' ? '/hocanki' : undefined,
   integrations: [react(), mdx()],
 
   vite: {
