@@ -1,0 +1,618 @@
+---
+import Layout from '../../layouts/Layout.astro';
+
+// Article list for getting started
+const articles = [
+  {
+    title: "Tải xuống và cài đặt Anki",
+    description: "Hướng dẫn tải và cài đặt Anki trên máy tính và điện thoại",
+    icon: "📥",
+    difficulty: "Dễ",
+    time: "5 phút",
+    href: "#tai-xuong-anki",
+    status: "published"
+  },
+  {
+    title: "Tạo tài khoản AnkiWeb",
+    description: "Đăng ký tài khoản để đồng bộ dữ liệu giữa các thiết bị",
+    icon: "🔗",
+    difficulty: "Dễ", 
+    time: "3 phút",
+    href: "#tao-tai-khoan",
+    status: "published"
+  },
+  {
+    title: "Giao diện Anki cơ bản",
+    description: "Làm quen với giao diện chính và các tính năng cơ bản",
+    icon: "🖥️",
+    difficulty: "Dễ",
+    time: "10 phút", 
+    href: "#giao-dien-anki",
+    status: "published"
+  },
+  {
+    title: "Tạo bộ thẻ đầu tiên",
+    description: "Hướng dẫn tạo deck và thẻ ghi nhớ đầu tiên",
+    icon: "📚",
+    difficulty: "Trung bình",
+    time: "15 phút",
+    href: "#tao-bo-the",
+    status: "published"
+  },
+  {
+    title: "Cài đặt cơ bản cho người mới",
+    description: "Những cài đặt quan trọng cần thiết lập ngay từ đầu",
+    icon: "⚙️",
+    difficulty: "Trung bình",
+    time: "10 phút",
+    href: "#cai-dat-co-ban",
+    status: "coming-soon"
+  },
+  {
+    title: "Đồng bộ dữ liệu với AnkiWeb",
+    description: "Cách backup và đồng bộ dữ liệu an toàn",
+    icon: "☁️",
+    difficulty: "Dễ",
+    time: "8 phút",
+    href: "#dong-bo-anki",
+    status: "coming-soon"
+  }
+];
+
+const quickLinks = [
+  { title: "🗺️ Lộ trình học", href: "/0-lo-trinh", description: "Xem toàn bộ lộ trình" },
+  { title: "📚 Cơ bản", href: "/2-co-ban", description: "Chuyển sang cơ bản" },
+  { title: "🎯 Workshop", href: "/workshop", description: "Tham gia workshop" }
+];
+---
+
+<Layout title="Bắt đầu với Anki - Hướng dẫn từ A-Z">
+  <div class="container">
+    
+    <!-- Breadcrumb -->
+    <nav class="breadcrumb">
+      <a href="/0-lo-trinh">🗺️ Lộ trình</a>
+      <span class="breadcrumb-separator">›</span>
+      <span class="breadcrumb-current">🚀 Bắt đầu</span>
+    </nav>
+
+    <!-- Hero Section -->
+    <header class="hero">
+      <h1 class="hero-title">
+        <span class="hero-icon">🚀</span>
+        Bắt đầu với Anki
+      </h1>
+      <p class="hero-subtitle">
+        Tất cả những gì bạn cần để bắt đầu hành trình học tập với Anki một cách hiệu quả
+      </p>
+      <div class="hero-stats">
+        <div class="stat-item">
+          <span class="stat-number">{articles.filter(a => a.status === 'published').length}</span>
+          <span class="stat-label">Bài viết</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-number">~45</span>
+          <span class="stat-label">Phút đọc</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-number">100%</span>
+          <span class="stat-label">Miễn phí</span>
+        </div>
+      </div>
+    </header>
+
+    <!-- Article List -->
+    <section class="articles-section">
+      <h2 class="section-title">📝 Danh sách bài viết</h2>
+      
+      <div class="articles-grid">
+        {articles.map((article, index) => (
+          <article class={`article-card ${article.status === 'coming-soon' ? 'article-card-coming-soon' : ''}`}>
+            <div class="article-card-header">
+              <div class="article-icon">{article.icon}</div>
+              <div class="article-meta">
+                <div class="article-number">Bài {index + 1}</div>
+                {article.status === 'coming-soon' && (
+                  <div class="article-status">Sắp ra mắt</div>
+                )}
+              </div>
+            </div>
+            
+            <h3 class="article-title">{article.title}</h3>
+            <p class="article-description">{article.description}</p>
+            
+            <div class="article-info">
+              <span class={`difficulty difficulty-${article.difficulty.toLowerCase()}`}>{article.difficulty}</span>
+              <span class="read-time">⏱️ {article.time}</span>
+            </div>
+            
+            {article.status === 'published' ? (
+              <a href={article.href} class="article-link">
+                Đọc ngay →
+              </a>
+            ) : (
+              <div class="article-link-disabled">
+                Đang chuẩn bị...
+              </div>
+            )}
+          </article>
+        ))}
+      </div>
+    </section>
+
+    <!-- Quick Actions -->
+    <section class="quick-actions">
+      <h2 class="section-title">⚡ Liên kết nhanh</h2>
+      <div class="quick-links-grid">
+        {quickLinks.map((link) => (
+          <a href={link.href} class="quick-link-card">
+            <h3>{link.title}</h3>
+            <p>{link.description}</p>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <!-- Getting Started Guide -->
+    <section class="getting-started-guide">
+      <h2 class="section-title">🎯 Bắt đầu như thế nào?</h2>
+      <div class="guide-steps">
+        <div class="guide-step">
+          <div class="step-number">1</div>
+          <div class="step-content">
+            <h4>Đọc "Tải xuống và cài đặt Anki"</h4>
+            <p>Cài đặt phần mềm trên máy tính và điện thoại</p>
+          </div>
+        </div>
+        <div class="guide-step">
+          <div class="step-number">2</div>
+          <div class="step-content">
+            <h4>Tạo tài khoản AnkiWeb</h4>
+            <p>Đăng ký để đồng bộ dữ liệu an toàn</p>
+          </div>
+        </div>
+        <div class="guide-step">
+          <div class="step-number">3</div>
+          <div class="step-content">
+            <h4>Làm quen với giao diện</h4>
+            <p>Khám phá các tính năng cơ bản của Anki</p>
+          </div>
+        </div>
+        <div class="guide-step">
+          <div class="step-number">4</div>
+          <div class="step-content">
+            <h4>Tạo bộ thẻ đầu tiên</h4>
+            <p>Thực hành tạo thẻ và bắt đầu học</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Navigation -->
+    <nav class="section-navigation">
+      <a href="/0-lo-trinh" class="nav-button nav-button-prev">
+        ← Quay lại lộ trình
+      </a>
+      <a href="/2-co-ban" class="nav-button nav-button-next">
+        Tiếp theo: Cơ bản →
+      </a>
+    </nav>
+
+  </div>
+</Layout>
+
+<style>
+/* Container và base styles */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+/* Breadcrumb */
+.breadcrumb {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 2rem;
+  font-size: 0.9rem;
+}
+
+.breadcrumb a {
+  color: #3182ce;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.breadcrumb a:hover {
+  color: #2c5aa0;
+}
+
+.breadcrumb-separator {
+  color: #a0aec0;
+}
+
+.breadcrumb-current {
+  color: #2d3748;
+  font-weight: 600;
+}
+
+/* Hero Section */
+.hero {
+  text-align: center;
+  margin-bottom: 4rem;
+  padding: 3rem 0;
+  background: linear-gradient(135deg, #f7fafc 0%, #edf2f7 100%);
+  border-radius: 16px;
+}
+
+.hero-title {
+  font-size: 3rem;
+  font-weight: 800;
+  margin-bottom: 1rem;
+  color: #2d3748;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.hero-icon {
+  font-size: 3rem;
+}
+
+.hero-subtitle {
+  font-size: 1.25rem;
+  color: #718096;
+  max-width: 600px;
+  margin: 0 auto 2rem auto;
+  line-height: 1.6;
+}
+
+.hero-stats {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.stat-item {
+  text-align: center;
+}
+
+.stat-number {
+  display: block;
+  font-size: 2rem;
+  font-weight: 800;
+  color: #3182ce;
+  line-height: 1;
+}
+
+.stat-label {
+  font-size: 0.9rem;
+  color: #718096;
+  font-weight: 600;
+}
+
+/* Section Titles */
+.section-title {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 2rem;
+  color: #2d3748;
+}
+
+/* Articles Section */
+.articles-section {
+  margin-bottom: 4rem;
+}
+
+.articles-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 1.5rem;
+}
+
+.article-card {
+  background: white;
+  border-radius: 12px;
+  padding: 2rem;
+  border: 2px solid #e2e8f0;
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+.article-card:hover {
+  border-color: #3182ce;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+}
+
+.article-card-coming-soon {
+  opacity: 0.7;
+  border-style: dashed;
+}
+
+.article-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 1rem;
+}
+
+.article-icon {
+  font-size: 2rem;
+}
+
+.article-meta {
+  text-align: right;
+}
+
+.article-number {
+  font-size: 0.8rem;
+  color: #718096;
+  font-weight: 600;
+}
+
+.article-status {
+  font-size: 0.75rem;
+  background: #fbd38d;
+  color: #c05621;
+  padding: 0.25rem 0.5rem;
+  border-radius: 12px;
+  margin-top: 0.25rem;
+}
+
+.article-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  color: #2d3748;
+  line-height: 1.3;
+}
+
+.article-description {
+  color: #718096;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+}
+
+.article-info {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.difficulty {
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.difficulty-dễ {
+  background: #c6f6d5;
+  color: #22543d;
+}
+
+.difficulty-trung {
+  background: #fed7d7;
+  color: #742a2a;
+}
+
+.read-time {
+  font-size: 0.85rem;
+  color: #718096;
+}
+
+.article-link {
+  color: #3182ce;
+  text-decoration: none;
+  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: color 0.2s;
+}
+
+.article-link:hover {
+  color: #2c5aa0;
+}
+
+.article-link-disabled {
+  color: #a0aec0;
+  font-weight: 600;
+  font-style: italic;
+}
+
+/* Quick Actions */
+.quick-actions {
+  margin-bottom: 4rem;
+}
+
+.quick-links-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
+.quick-link-card {
+  background: white;
+  border: 2px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 1.5rem;
+  text-decoration: none;
+  color: inherit;
+  transition: all 0.3s ease;
+  text-align: center;
+}
+
+.quick-link-card:hover {
+  border-color: #3182ce;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.quick-link-card h3 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #2d3748;
+}
+
+.quick-link-card p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: #718096;
+}
+
+/* Getting Started Guide */
+.getting-started-guide {
+  background: #f7fafc;
+  border-radius: 16px;
+  padding: 2rem;
+  margin-bottom: 4rem;
+}
+
+.guide-steps {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+}
+
+.guide-step {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.step-number {
+  background: #3182ce;
+  color: white;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  flex-shrink: 0;
+}
+
+.step-content h4 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #2d3748;
+}
+
+.step-content p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: #718096;
+}
+
+/* Section Navigation */
+.section-navigation {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 4rem;
+  padding-top: 2rem;
+  border-top: 2px solid #e2e8f0;
+}
+
+.nav-button {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 1rem 2rem;
+  border: 2px solid #3182ce;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.nav-button-prev {
+  color: #3182ce;
+  background: white;
+}
+
+.nav-button-prev:hover {
+  background: #3182ce;
+  color: white;
+}
+
+.nav-button-next {
+  background: #3182ce;
+  color: white;
+  margin-left: auto;
+}
+
+.nav-button-next:hover {
+  background: #2c5aa0;
+  border-color: #2c5aa0;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .container {
+    padding: 1rem;
+  }
+  
+  .hero-title {
+    font-size: 2.5rem;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  
+  .hero-icon {
+    font-size: 2.5rem;
+  }
+  
+  .hero-stats {
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .articles-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .quick-links-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .guide-steps {
+    grid-template-columns: 1fr;
+  }
+  
+  .section-navigation {
+    flex-direction: column;
+  }
+  
+  .nav-button-next {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero {
+    padding: 2rem 1rem;
+  }
+  
+  .section-title {
+    font-size: 1.5rem;
+  }
+  
+  .article-card, .quick-link-card {
+    padding: 1.25rem;
+  }
+  
+  .getting-started-guide {
+    padding: 1.5rem;
+  }
+}
+</style> 

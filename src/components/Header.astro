@@ -1,0 +1,293 @@
+---
+// Logo sẽ thay thế menu "Trang chủ" - click logo để về trang chủ
+// Chỉ giữ lại button "Đăng ký" để tối giản
+---
+
+<header class="header">
+  <div class="container">
+    <div class="nav-wrapper">
+      <!-- Logo/Brand -->
+      <div class="brand">
+        <a href="/" class="brand-link">
+          <div class="logo">
+            <span class="logo-icon">🧠</span>
+            <span class="logo-text">Học Anki</span>
+          </div>
+        </a>
+      </div>
+
+      <!-- CTA Button - Tối giản chỉ có button đăng ký -->
+              <div class="nav-cta">
+          <a href="#dang-ky-final" class="btn btn-primary">
+            Đăng ký
+          </a>
+        </div>
+    </div>
+  </div>
+</header>
+
+<style>
+  .header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    transition: all 0.3s ease;
+  }
+
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+
+  .nav-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3rem;
+    height: 70px;
+  }
+
+  /* Brand/Logo */
+  .brand-link {
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .logo-icon {
+    font-size: 1.8rem;
+  }
+
+  .logo-text {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #2d3748;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  /* Mobile menu button */
+  .mobile-menu-btn {
+    display: none;
+    flex-direction: column;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0.5rem;
+    gap: 4px;
+  }
+
+  .hamburger-line {
+    width: 25px;
+    height: 3px;
+    background-color: #2d3748;
+    transition: all 0.3s ease;
+  }
+
+  .mobile-menu-btn.active .hamburger-line:nth-child(1) {
+    transform: rotate(45deg) translate(6px, 6px);
+  }
+
+  .mobile-menu-btn.active .hamburger-line:nth-child(2) {
+    opacity: 0;
+  }
+
+  .mobile-menu-btn.active .hamburger-line:nth-child(3) {
+    transform: rotate(-45deg) translate(6px, -6px);
+  }
+
+  /* Navigation */
+  .nav {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+  }
+
+  .nav-list {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 2rem;
+  }
+
+  .nav-item {
+    position: relative;
+  }
+
+  .nav-link {
+    text-decoration: none;
+    color: #4a5568;
+    font-weight: 500;
+    padding: 0.5rem 0;
+    position: relative;
+    transition: color 0.3s ease;
+  }
+
+  .nav-link:hover {
+    color: #667eea;
+  }
+
+  .nav-link.active {
+    color: #667eea;
+  }
+
+  .nav-link.active::after {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border-radius: 1px;
+  }
+
+  /* CTA Button */
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.75rem 1.5rem;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    border: none;
+    cursor: pointer;
+  }
+
+  .btn-primary {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+  }
+
+  .btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 25px rgba(102, 126, 234, 0.4);
+  }
+
+  /* Responsive - Luôn giữ layout ngang hàng trên mọi thiết bị */
+  
+  /* Tablet & Landscape phone */
+  @media (max-width: 768px) {
+    .nav-wrapper {
+      height: 60px;
+      padding: 0.5rem 0;
+      gap: 2rem;
+    }
+
+    .logo-text {
+      font-size: 1.3rem;
+    }
+
+    .btn {
+      padding: 0.5rem 1rem;
+      font-size: 0.9rem;
+    }
+  }
+
+  /* Standard smartphone */
+  @media (max-width: 480px) {
+    .nav-wrapper {
+      height: 55px;
+      padding: 0.4rem 0;
+      gap: 1.5rem;
+    }
+
+    .logo-text {
+      font-size: 1.2rem;
+    }
+
+    .logo-icon {
+      font-size: 1.6rem;
+    }
+
+    .btn {
+      padding: 0.6rem 1.2rem;
+      font-size: 0.85rem;
+      border-radius: 20px;
+    }
+  }
+
+  /* Small smartphone */
+  @media (max-width: 360px) {
+    .container {
+      padding: 0 0.5rem;
+    }
+
+    .nav-wrapper {
+      height: 50px;
+      padding: 0.3rem 0;
+      gap: 1rem;
+    }
+
+    .logo-text {
+      font-size: 1.1rem;
+    }
+
+    .logo-icon {
+      font-size: 1.4rem;
+    }
+
+    .btn {
+      padding: 0.5rem 1rem;
+      font-size: 0.8rem;
+      border-radius: 18px;
+    }
+  }
+
+  /* Very small screens (iPhone SE, old Android) */
+  @media (max-width: 320px) {
+    .container {
+      padding: 0 0.3rem;
+    }
+
+    .nav-wrapper {
+      height: 45px;
+      padding: 0.2rem 0;
+      gap: 0.8rem;
+    }
+
+    .logo {
+      gap: 0.2rem;
+    }
+
+    .logo-text {
+      font-size: 1rem;
+    }
+
+    .logo-icon {
+      font-size: 1.3rem;
+    }
+
+    .btn {
+      padding: 0.4rem 0.8rem;
+      font-size: 0.75rem;
+      border-radius: 15px;
+    }
+  }
+
+  /* Add padding to body to account for fixed header */
+  :global(body) {
+    padding-top: 70px;
+  }
+</style>
+
+<script>
+  // Header script - không cần mobile menu toggle nữa vì layout đã tối giản
+  console.log('Header loaded - Minimalist design');
+</script>

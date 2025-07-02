@@ -1,0 +1,564 @@
+---
+import Layout from '../../layouts/Layout.astro';
+
+// Navigation data
+const navigationSections = [
+  {
+    title: "Bắt đầu",
+    description: "Cài đặt Anki và những bước đầu tiên",
+    icon: "🚀",
+    href: "/1-bat-dau",
+    color: "primary"
+  },
+  {
+    title: "Cơ bản", 
+    description: "Học cách tạo thẻ và ôn tập hiệu quả",
+    icon: "📚",
+    href: "/2-co-ban", 
+    color: "blue"
+  },
+  {
+    title: "Nâng cao",
+    description: "Tối ưu hóa và tự động hóa Anki",
+    icon: "⚡",
+    href: "/3-nang-cao",
+    color: "purple"
+  },
+  {
+    title: "FAQ",
+    description: "Câu hỏi thường gặp và giải đáp",
+    icon: "❓",
+    href: "/4-faq",
+    color: "green"
+  },
+  {
+    title: "Add-ons",
+    description: "Các tiện ích mở rộng hữu ích",
+    icon: "🔧",
+    href: "/5-addons",
+    color: "orange"
+  },
+  {
+    title: "Templates",
+    description: "Mẫu thẻ đẹp và chuyên nghiệp",
+    icon: "🎨",
+    href: "/6-templates",
+    color: "pink"
+  }
+];
+
+const workshopSection = {
+  title: "Workshops",
+  description: "Các buổi workshop trực tuyến",
+  icon: "🎯",
+  href: "/workshop/",
+  color: "gold"
+};
+---
+
+<Layout title="Lộ trình học - Hướng dẫn Anki toàn diện">
+  <div class="container">
+    
+    <!-- Hero Section -->
+    <header class="hero">
+      <h1 class="hero-title">
+        <span class="hero-icon">🗺️</span>
+        Lộ trình học Anki
+      </h1>
+      <p class="hero-subtitle">
+        Chọn chủ đề bạn muốn học để bắt đầu hành trình làm chủ Anki
+      </p>
+    </header>
+
+    <!-- Main Navigation Grid -->
+    <section class="navigation-section">
+      <h2 class="section-title">Chọn chủ đề học tập</h2>
+      
+      <div class="navigation-grid">
+        {navigationSections.map((section) => (
+          <a href={section.href} class={`nav-card nav-card-${section.color}`}>
+            <div class="nav-card-icon">{section.icon}</div>
+            <h3 class="nav-card-title">{section.title}</h3>
+            <p class="nav-card-description">{section.description}</p>
+
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <!-- Workshop Section (Separated) -->
+    <section class="workshop-section">
+      <div class="workshop-divider">
+        <span class="workshop-divider-text">Hoặc tham gia</span>
+      </div>
+      
+      <a href={workshopSection.href} class={`workshop-card workshop-card-${workshopSection.color}`}>
+        <div class="workshop-card-icon">{workshopSection.icon}</div>
+        <div class="workshop-card-content">
+          <h3 class="workshop-card-title">{workshopSection.title}</h3>
+          <p class="workshop-card-description">{workshopSection.description}</p>
+          <span class="workshop-card-cta">Tham gia ngay →</span>
+        </div>
+      </a>
+    </section>
+
+    <!-- Learning Path Guide -->
+    <section class="content-section">
+      <h2 class="content-title">🎯 Làm thế nào để học hiệu quả?</h2>
+      
+      <div class="content-grid">
+        <!-- Step 1: Foundation -->
+        <div class="content-card">
+          <div class="content-card-header">
+            <span class="content-card-number">1</span>
+            <h3>Nền tảng</h3>
+          </div>
+          <p>Bắt đầu với <strong>Bắt đầu</strong> để cài đặt và làm quen với Anki</p>
+          <a href="/1-bat-dau" class="content-card-link">
+            Bắt đầu ngay →
+          </a>
+        </div>
+
+        <!-- Step 2: Fundamentals -->
+        <div class="content-card">
+          <div class="content-card-header">
+            <span class="content-card-number">2</span>
+            <h3>Cơ bản</h3>
+          </div>
+          <p>Học <strong>Cơ bản</strong> để tạo thẻ và ôn tập hiệu quả</p>
+          <a href="/2-co-ban" class="content-card-link">
+            Học cơ bản →
+          </a>
+        </div>
+
+        <!-- Step 3: Advanced -->
+        <div class="content-card">
+          <div class="content-card-header">
+            <span class="content-card-number">3</span>
+            <h3>Nâng cao</h3>
+          </div>
+          <p>Tối ưu hóa với <strong>Nâng cao</strong> và các kỹ thuật chuyên sâu</p>
+          <a href="/3-nang-cao" class="content-card-link">
+            Nâng cao →
+          </a>
+        </div>
+
+        <!-- Step 4: Support -->
+        <div class="content-card">
+          <div class="content-card-header">
+            <span class="content-card-number">4</span>
+            <h3>Hỗ trợ</h3>
+          </div>
+          <p>Sử dụng <strong>Add-ons</strong>, <strong>Templates</strong> và <strong>FAQ</strong> khi cần</p>
+          <a href="/4-faq" class="content-card-link">
+            Tìm hiểu →
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Quick Tips -->
+    <section class="tips-section">
+      <h2 class="tips-title">💡 Mẹo học tập hiệu quả</h2>
+      <div class="tips-grid">
+        <div class="tip-card">
+          <h4>📈 Tiến độ từng bước</h4>
+          <p>Học theo thứ tự từ Bắt đầu → Cơ bản → Nâng cao để có nền tảng vững chắc</p>
+        </div>
+        <div class="tip-card">
+          <h4>⏰ Thực hành ngay</h4>
+          <p>Áp dụng ngay những gì học được thay vì chỉ đọc lý thuyết</p>
+        </div>
+        <div class="tip-card">
+          <h4>🔄 Quay lại ôn tập</h4>
+          <p>Định kỳ quay lại các phần đã học để củng cố kiến thức</p>
+        </div>
+      </div>
+    </section>
+
+  </div>
+</Layout>
+
+<style>
+/* Container và base styles */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+/* Hero Section */
+.hero {
+  text-align: center;
+  margin-bottom: 4rem;
+  padding: 3rem 0;
+}
+
+.hero-title {
+  font-size: 3rem;
+  font-weight: 800;
+  margin-bottom: 1rem;
+  color: #2d3748;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.hero-icon {
+  font-size: 3rem;
+}
+
+.hero-subtitle {
+  font-size: 1.25rem;
+  color: #718096;
+  max-width: 600px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+/* Section Titles */
+.section-title {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 2rem;
+  text-align: center;
+  color: #2d3748;
+}
+
+/* Navigation Grid */
+.navigation-section {
+  margin-bottom: 4rem;
+}
+
+.navigation-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.nav-card {
+  background: white;
+  border-radius: 12px;
+  padding: 2rem;
+  text-decoration: none;
+  color: inherit;
+  border: 2px solid #e2e8f0;
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.nav-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 24px rgba(0,0,0,0.1);
+}
+
+/* Nav Card Colors */
+.nav-card-primary { border-color: #3182ce; }
+.nav-card-primary:hover { border-color: #2c5aa0; background: #ebf8ff; }
+
+.nav-card-blue { border-color: #3182ce; }
+.nav-card-blue:hover { border-color: #2c5aa0; background: #ebf4ff; }
+
+.nav-card-purple { border-color: #805ad5; }
+.nav-card-purple:hover { border-color: #6b46c1; background: #faf5ff; }
+
+.nav-card-green { border-color: #38a169; }
+.nav-card-green:hover { border-color: #2f855a; background: #f0fff4; }
+
+.nav-card-orange { border-color: #dd6b20; }
+.nav-card-orange:hover { border-color: #c05621; background: #fffaf0; }
+
+.nav-card-pink { border-color: #d53f8c; }
+.nav-card-pink:hover { border-color: #b83280; background: #fef5e7; }
+
+.nav-card-active {
+  border-color: #3182ce;
+  background: #ebf8ff;
+}
+
+.nav-card-icon {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.nav-card-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  color: #2d3748;
+}
+
+.nav-card-description {
+  color: #718096;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.nav-card-badge {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  background: #3182ce;
+  color: white;
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+/* Workshop Section */
+.workshop-section {
+  margin-bottom: 4rem;
+}
+
+.workshop-divider {
+  text-align: center;
+  margin-bottom: 2rem;
+  position: relative;
+}
+
+.workshop-divider::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: #e2e8f0;
+  z-index: 1;
+}
+
+.workshop-divider-text {
+  background: white;
+  padding: 0 2rem;
+  color: #718096;
+  font-weight: 600;
+  position: relative;
+  z-index: 2;
+}
+
+.workshop-card {
+  background: linear-gradient(135deg, #ffd700 0%, #ffed4e 100%);
+  border-radius: 16px;
+  padding: 2rem;
+  text-decoration: none;
+  color: #1a202c;
+  border: 3px solid #f59e0b;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  box-shadow: 0 8px 24px rgba(245, 158, 11, 0.2);
+}
+
+.workshop-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 16px 40px rgba(245, 158, 11, 0.3);
+  border-color: #d97706;
+}
+
+.workshop-card-icon {
+  font-size: 3rem;
+  flex-shrink: 0;
+}
+
+.workshop-card-content {
+  flex-grow: 1;
+}
+
+.workshop-card-title {
+  font-size: 1.75rem;
+  font-weight: 800;
+  margin-bottom: 0.5rem;
+  color: #1a202c;
+}
+
+.workshop-card-description {
+  color: #744210;
+  margin-bottom: 1rem;
+  font-size: 1.1rem;
+}
+
+.workshop-card-cta {
+  font-weight: 700;
+  color: #92400e;
+  font-size: 1.1rem;
+}
+
+/* Content Section */
+.content-section {
+  margin-bottom: 4rem;
+}
+
+.content-title {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 2rem;
+  color: #2d3748;
+}
+
+.content-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+}
+
+.content-card {
+  background: white;
+  border-radius: 12px;
+  padding: 1.5rem;
+  border: 2px solid #e2e8f0;
+  transition: all 0.3s ease;
+}
+
+.content-card:hover {
+  border-color: #3182ce;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+}
+
+.content-card-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.content-card-number {
+  background: #3182ce;
+  color: white;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  flex-shrink: 0;
+}
+
+.content-card h3 {
+  margin: 0;
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #2d3748;
+}
+
+.content-card p {
+  color: #718096;
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
+.content-card-link {
+  color: #3182ce;
+  text-decoration: none;
+  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.content-card-link:hover {
+  color: #2c5aa0;
+}
+
+/* Tips Section */
+.tips-section {
+  background: #f7fafc;
+  border-radius: 16px;
+  padding: 2rem;
+  margin-bottom: 4rem;
+}
+
+.tips-title {
+  font-size: 1.75rem;
+  font-weight: 700;
+  margin-bottom: 2rem;
+  color: #2d3748;
+  text-align: center;
+}
+
+.tips-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+}
+
+.tip-card {
+  background: white;
+  border-radius: 8px;
+  padding: 1.5rem;
+  border-left: 4px solid #3182ce;
+}
+
+.tip-card h4 {
+  margin: 0 0 0.75rem 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #2d3748;
+}
+
+.tip-card p {
+  margin: 0;
+  color: #718096;
+  line-height: 1.6;
+  font-size: 0.95rem;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .container {
+    padding: 1rem;
+  }
+  
+  .hero-title {
+    font-size: 2rem;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  
+  .hero-icon {
+    font-size: 2rem;
+  }
+  
+  .navigation-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .workshop-card {
+    flex-direction: column;
+    text-align: center;
+    gap: 1rem;
+  }
+  
+  .content-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .tips-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero {
+    padding: 2rem 0;
+  }
+  
+  .section-title {
+    font-size: 1.5rem;
+  }
+  
+  .nav-card, .content-card {
+    padding: 1.25rem;
+  }
+  
+  .workshop-card {
+    padding: 1.5rem;
+  }
+}
+</style>

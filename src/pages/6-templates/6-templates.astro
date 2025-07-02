@@ -1,0 +1,196 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Header from '../../components/Header.astro';
+---
+
+<Layout title="Templates - Hướng dẫn Anki toàn diện">
+  <Header />
+  
+  <div class="container">
+    <!-- Hero Section -->
+    <header class="hero">
+      <h1 class="hero-title">
+        <span class="hero-icon">🎨</span>
+        Thư viện Templates
+      </h1>
+      <p class="hero-subtitle">
+        Mẫu thẻ đẹp và chuyên nghiệp cho mọi môn học
+      </p>
+    </header>
+
+    <!-- Breadcrumb -->
+    <nav class="breadcrumb">
+      <a href="/">Trang chủ</a>
+      <span class="separator">→</span>
+      <a href="/1-bat-dau/">Bắt đầu</a>
+      <span class="separator">→</span>
+      <span class="current">Templates</span>
+    </nav>
+
+    <!-- Content placeholder -->
+    <main class="content">
+      <div class="content-placeholder">
+        <h2>🚧 Nội dung đang được xây dựng</h2>
+        <p>Trang này sẽ bao gồm:</p>
+        <ul>
+          <li>Templates cho ngôn ngữ</li>
+          <li>Templates cho y khoa</li>
+          <li>Templates cho lập trình</li>
+          <li>Templates cho toán học</li>
+          <li>Custom CSS templates</li>
+          <li>Hướng dẫn tạo template riêng</li>
+        </ul>
+      </div>
+    </main>
+
+    <!-- Navigation -->
+    <nav class="page-navigation">
+      <a href="/5-addons/" class="nav-btn nav-prev">
+        ← Add-ons
+      </a>
+      <a href="/workshop/" class="nav-btn nav-next">
+        Workshops →
+      </a>
+    </nav>
+  </div>
+</Layout>
+
+<style>
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  padding-top: 8rem;
+}
+
+.hero {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.hero-title {
+  font-size: 2.5rem;
+  font-weight: 800;
+  margin-bottom: 1rem;
+  color: #2d3748;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.hero-icon {
+  font-size: 2.5rem;
+}
+
+.hero-subtitle {
+  font-size: 1.2rem;
+  color: #718096;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.breadcrumb {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 2rem;
+  padding: 1rem;
+  background: #f7fafc;
+  border-radius: 8px;
+  font-size: 0.9rem;
+}
+
+.breadcrumb a {
+  color: #3182ce;
+  text-decoration: none;
+}
+
+.breadcrumb a:hover {
+  text-decoration: underline;
+}
+
+.separator {
+  color: #718096;
+}
+
+.current {
+  color: #2d3748;
+  font-weight: 600;
+}
+
+.content {
+  min-height: 400px;
+  margin-bottom: 3rem;
+}
+
+.content-placeholder {
+  background: #fef5e7;
+  border: 2px dashed #d53f8c;
+  border-radius: 12px;
+  padding: 3rem;
+  text-align: center;
+}
+
+.content-placeholder h2 {
+  color: #b83280;
+  margin-bottom: 1rem;
+}
+
+.content-placeholder p {
+  color: #d53f8c;
+  margin-bottom: 1rem;
+}
+
+.content-placeholder ul {
+  text-align: left;
+  max-width: 400px;
+  margin: 0 auto;
+  color: #d53f8c;
+}
+
+.page-navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem 0;
+  border-top: 1px solid #e2e8f0;
+}
+
+.nav-btn {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.75rem 1.5rem;
+  background: white;
+  border: 2px solid #d53f8c;
+  border-radius: 8px;
+  color: #d53f8c;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.nav-btn:hover {
+  background: #d53f8c;
+  color: white;
+  transform: translateY(-2px);
+}
+
+@media (max-width: 768px) {
+  .hero-title {
+    font-size: 2rem;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  
+  .page-navigation {
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .nav-btn {
+    width: 100%;
+    justify-content: center;
+  }
+}
+</style> 

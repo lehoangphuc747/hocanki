@@ -1,0 +1,195 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Header from '../../components/Header.astro';
+---
+
+<Layout title="Cơ bản - Hướng dẫn Anki toàn diện">
+  <Header />
+  
+  <div class="container">
+    <!-- Hero Section -->
+    <header class="hero">
+      <h1 class="hero-title">
+        <span class="hero-icon">📚</span>
+        Kiến thức Cơ bản về Anki
+      </h1>
+      <p class="hero-subtitle">
+        Học cách tạo thẻ và ôn tập hiệu quả với Anki
+      </p>
+    </header>
+
+    <!-- Breadcrumb -->
+    <nav class="breadcrumb">
+      <a href="/">Trang chủ</a>
+      <span class="separator">→</span>
+      <a href="/1-bat-dau/">Bắt đầu</a>
+      <span class="separator">→</span>
+      <span class="current">Cơ bản</span>
+    </nav>
+
+    <!-- Content placeholder -->
+    <main class="content">
+      <div class="content-placeholder">
+        <h2>🚧 Nội dung đang được xây dựng</h2>
+        <p>Trang này sẽ bao gồm:</p>
+        <ul>
+          <li>Tạo deck đầu tiên</li>
+          <li>Thêm và chỉnh sửa cards</li>
+          <li>Cài đặt study options</li>
+          <li>Hiểu intervals và ease factor</li>
+          <li>Thống kê và theo dõi tiến độ</li>
+        </ul>
+      </div>
+    </main>
+
+    <!-- Navigation -->
+    <nav class="page-navigation">
+      <a href="/1-bat-dau/" class="nav-btn nav-prev">
+        ← Bắt đầu
+      </a>
+      <a href="/3-nang-cao/" class="nav-btn nav-next">
+        Nâng cao →
+      </a>
+    </nav>
+  </div>
+</Layout>
+
+<style>
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  padding-top: 8rem; /* Account for fixed header */
+}
+
+.hero {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.hero-title {
+  font-size: 2.5rem;
+  font-weight: 800;
+  margin-bottom: 1rem;
+  color: #2d3748;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.hero-icon {
+  font-size: 2.5rem;
+}
+
+.hero-subtitle {
+  font-size: 1.2rem;
+  color: #718096;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.breadcrumb {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 2rem;
+  padding: 1rem;
+  background: #f7fafc;
+  border-radius: 8px;
+  font-size: 0.9rem;
+}
+
+.breadcrumb a {
+  color: #3182ce;
+  text-decoration: none;
+}
+
+.breadcrumb a:hover {
+  text-decoration: underline;
+}
+
+.separator {
+  color: #718096;
+}
+
+.current {
+  color: #2d3748;
+  font-weight: 600;
+}
+
+.content {
+  min-height: 400px;
+  margin-bottom: 3rem;
+}
+
+.content-placeholder {
+  background: #f7fafc;
+  border: 2px dashed #cbd5e0;
+  border-radius: 12px;
+  padding: 3rem;
+  text-align: center;
+}
+
+.content-placeholder h2 {
+  color: #4a5568;
+  margin-bottom: 1rem;
+}
+
+.content-placeholder p {
+  color: #718096;
+  margin-bottom: 1rem;
+}
+
+.content-placeholder ul {
+  text-align: left;
+  max-width: 400px;
+  margin: 0 auto;
+  color: #718096;
+}
+
+.page-navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem 0;
+  border-top: 1px solid #e2e8f0;
+}
+
+.nav-btn {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.75rem 1.5rem;
+  background: white;
+  border: 2px solid #3182ce;
+  border-radius: 8px;
+  color: #3182ce;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.nav-btn:hover {
+  background: #3182ce;
+  color: white;
+  transform: translateY(-2px);
+}
+
+@media (max-width: 768px) {
+  .hero-title {
+    font-size: 2rem;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  
+  .page-navigation {
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .nav-btn {
+    width: 100%;
+    justify-content: center;
+  }
+}
+</style>

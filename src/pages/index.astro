@@ -1,0 +1,1377 @@
+---
+import Welcome from '../components/Welcome.astro';
+import Layout from '../layouts/Layout.astro';
+import Header from '../components/Header.astro';
+
+// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
+// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
+
+// --- FRONTMATTER (JavaScript chạy ở server) ---
+
+// Dữ liệu cho lộ trình (giữ nguyên)
+const roadmapItemsData = [
+  { title: "I. Dẫn nhập: Tại sao Anki?" },
+  { title: "II. Anki cơ bản: Những bước đầu tiên" },
+  { title: "III. Anki nâng cao: Khai phá tiềm năng" },
+  { title: "IV. Tips & Tricks: Học Anki thông minh" },
+  { title: "V. Xử lý lỗi thường gặp" },
+  { title: "VI. Add-ons hữu ích nhất" },
+  { title: "VII. Bộ thẻ mẫu tham khảo" },
+];
+
+// Dữ liệu cho cảm nhận học viên (giữ nguyên)
+const testimonialsData = [
+  {
+    quote: "Khóa học rất chi tiết và dễ hiểu. Trước đây mình khá loay hoay với Anki, giờ thì tự tin hơn nhiều rồi. Cảm ơn bạn!",
+    author: "- Trần Minh Anh",
+  },
+  {
+    quote: "Là sinh viên Y, Anki thực sự là cứu cánh. Khóa học này giúp mình hệ thống hóa cách dùng Anki hiệu quả hơn hẳn. Rất khuyến khích!",
+    author: "- Lê Hoàng Bảo",
+  },
+  {
+    quote: "Nội dung thực tế, hỗ trợ nhiệt tình. Mình đã áp dụng được ngay vào việc học ngoại ngữ và thấy tiến bộ rõ rệt.",
+    author: "- Nguyễn Thu Hà",
+  },
+];
+
+// Dữ liệu slot ví dụ (giữ nguyên)
+const registeredSlots = 3;
+const totalSlots = 10;
+let slotStatusText = `Đã đăng ký: ${registeredSlots}/${totalSlots} slot ưu đãi`;
+if (registeredSlots >= totalSlots) {
+  slotStatusText = "Đã hết slot ưu đãi!";
+}
+
+// Import các component con nếu cần (ví dụ: AccordionItem)
+// Trong trường hợp này, chúng ta sẽ viết thẳng AccordionItem trong template
+---
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang chủ | Khóa học Anki Toàn Diện</title>
+    <meta name="description" content="Khóa học Anki toàn diện giúp bạn ghi nhớ mọi thứ, từ cơ bản đến nâng cao, với phương pháp học tập hiệu quả và bền vững.">
+</head>
+<body>
+    <Header />
+    <header class:list={['heroSection']}>
+      <div class:list={['container']}>
+        <h1 class:list={['heroTitle']}>
+          THÔI HỌC VẸT VÀ LÀM CHỦ ANKI
+        </h1>
+        <p class:list={['heroSubtitle']}>
+          Khám phá <strong class:list={['highlightPink']}>Lộ trình</strong> được thiết kế riêng, <strong class:list={['highlightPink']}>Quyền lợi</strong> đặc biệt, và <strong class:list={['highlightPink']}>Chi phí</strong> hợp lý. Học Anki hiệu quả, không còn mơ hồ.
+        </p>
+        <div class:list={['heroButtonsContainer']}>
+          <a href="/0-lo-trinh/" class:list={['btn', 'btnCtaTertiary']}>
+            <span class:list={['emojiIcon']} role="img" aria-label="Rocket">🚀</span>
+            HỌC NGAY
+          </a>
+          <div class:list={['heroButtonsBottomRow']}>
+            <a href="#dang-ky-final" class:list={['btn', 'btnCtaPrimary']}>
+              <span class:list={['emojiIcon']} role="img" aria-label="Mouse Pointer">🖱️</span>
+              ĐĂNG KÝ
+            </a>
+            <a href="#lo-trinh" class:list={['btn', 'btnCtaSecondary']}>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+                <path fill-rule="evenodd" d="M3 5.75A.75.75 0 013.75 5h12.5a.75.75 0 010 1.5H3.75A.75.75 0 013 5.75zm0 4A.75.75 0 013.75 9h12.5a.75.75 0 010 1.5H3.75A.75.75 0 013 9.75zm0 4A.75.75 0 013.75 13h12.5a.75.75 0 010 1.5H3.75A.75.75 0 013 13.75z" clip-rule="evenodd"></path>
+              </svg>
+              LỘ TRÌNH
+            </a>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class:list={['slide-section', 'experienceImpactSlide']}>
+        <div class:list={['container']}>
+          <h2 class:list={['textCenter']}>Kinh Nghiệm và Uy Tín Đã Được Chứng Minh</h2>
+          <div class:list={['experienceGrid']}>
+            <div class:list={['experienceItem']}>
+              <div class:list={['number']}>7+</div>
+              <div class:list={['label']}>Năm sử dụng Anki</div>
+            </div>
+            <div class:list={['experienceItem']}>
+              <div class:list={['number']}>3+</div>
+              <div class:list={['label']}>Năm kinh nghiệm<br/>đào tạo Anki</div>
+            </div>
+            <div class:list={['experienceItem']}>
+              <div class:list={['number']}>100+</div>
+              <div class:list={['label']}>Học viên đã đào tạo</div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class:list={['slide-section', 'motivationCtaSection']}>
+        <div class:list={['container']}>
+          <h2>SẴN SÀNG TỐI ƯU HÓA VIỆC HỌC?</h2>
+          <p class:list={['subtitle']}>Đừng để kiến thức trôi đi. Hãy đầu tư vào kỹ năng học tập hiệu quả với Anki ngay hôm nay!</p>
+          <a href="#dang-ky-final" class:list={['btn', 'motivationBtn']}>ĐĂNG KÝ NGAY</a>
+        </div>
+      </section>
+
+      <section id="thong-tin-vang" class:list={['slide-section', 'whyThisCourseSlide']}>
+        <div class:list={['container']}>
+            <h2 class:list={['textCenter']}>VÌ SAO NÊN CHỌN KHÓA HỌC NÀY?</h2>
+            <p class:list={['textCenter', 'introText']}>
+                Khóa học này không chỉ dạy bạn cách dùng Anki, mà còn giúp bạn xây dựng một hệ thống học tập hiệu quả và bền vững.
+            </p>
+            <div class:list={['benefitGrid']}>
+                <div class:list={['benefitCard']}>
+                    <div class:list={['icon']}>🎯</div>
+                    <h3>Tập Trung Thực Chiến</h3>
+                    <ul>
+                        <li>Học từ cách sử dụng Anki chuyên nghiệp đến tự tạo thẻ chất lượng.</li>
+                        <li>Quản lý kiến thức có hệ thống (kết hợp Obsidian để có cái nhìn tổng quan).</li>
+                        <li>Khóa học tập trung vào việc bạn thực hành và LÀM ĐƯỢC.</li>
+                    </ul>
+                </div>
+                <div class:list={['benefitCard']}>
+                    <div class:list={['icon']}>💡</div>
+                    <h3>Tư Duy Hiện Đại</h3>
+                    <ul>
+                        <li>Không chỉ là công cụ, mà là phương pháp học tập tiên tiến.</li>
+                        <li>Hiểu rõ khoa học thần kinh đằng sau việc ghi nhớ hiệu quả.</li>
+                        <li>Xây dựng thói quen học tập chủ động và bền vững.</li>
+                    </ul>
+                </div>
+                <div class:list={['benefitCard']}>
+                    <div class:list={['icon']}>🎨</div>
+                    <h3>THIẾT KẾ MẪU THẺ CHUYÊN SÂU</h3>
+                    <ul>
+                        <li>Thiết kế mẫu thẻ (templates) đẹp mắt, tối ưu cho việc học, bao gồm cả tùy chỉnh giao diện bằng AI mà không cần biết code.</li>
+                        <li>Thiết kế card type phù hợp cho từng loại kiến thức (vd: y khoa, ngoại ngữ).</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+      </section>
+
+      <section class:list={['slide-section', 'supportSlide']}>
+        <div class:list={['container']}>
+            <h2 class:list={['textCenter']}>HỖ TRỢ TẬN TÌNH, ĐỒNG HÀNH CÙNG BẠN</h2>
+            <div class:list={['supportItem']}>
+                <h3>Thiết Kế Mẫu Thẻ Cá Nhân Hóa</h3>
+                <p>Hỗ trợ thiết kế Mẫu thẻ (Card Template) theo nhu cầu và môn học riêng của bạn.</p>
+            </div>
+            <div class:list={['supportItem']}>
+                <h3>Kèm 1-1 Không Giới Hạn</h3>
+                <p>Mọi thắc mắc đều được giải đáp chi tiết. Không giới hạn số buổi hỗ trợ, học đến khi bạn tự tin.</p>
+            </div>
+            <div class:list={['supportItem']}>
+                <h3>Cập Nhật Trọn Đời</h3>
+                <p>Nội dung khóa học được cập nhật thường xuyên và bạn được truy cập trọn đời mà không phát sinh chi phí.</p>
+            </div>
+            <div class:list={['supportItem']}>
+                <h3>Cộng Đồng Học Viên</h3>
+                <p>Tham gia cộng đồng để trao đổi, học hỏi kinh nghiệm từ những người cùng mục tiêu.</p>
+            </div>
+        </div>
+      </section>
+
+      <section id="lo-trinh" class:list={['slide-section', 'roadmapSlide']}>
+        <div class:list={['container']}>
+            <h2 class:list={['textCenter']}>Lộ Trình Học Chi Tiết Từ A Đến Z</h2>
+            <p class:list={['textCenter', 'introText']}>Đây là các phần chính của khóa học, giúp bạn đi từ làm quen đến làm chủ Anki:</p>
+            <div class:list={['accordionContainer']}>
+                {roadmapItemsData.map((item, index) => (
+                    <div class:list={['accordionItem']} key={index}>
+                        <button class:list={['accordionButton']} aria-expanded="false">
+                            <span>{item.title}</span>
+                            <svg class:list={['iconIndicator']} fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                        </button>
+                        <div class:list={['accordionContent']} style="max-height: 0px;">
+                            {/* Nội dung chi tiết có thể thêm vào đây */}
+                        </div>
+                    </div>
+                ))}
+            </div>
+        </div>
+      </section>
+
+      <section class:list={['slide-section', 'testimonialsSlide']}>
+        <div class:list={['container']}>
+            <h2 class:list={['textCenter']}>HƠN 100 HỌC VIÊN ĐÃ TIN TƯỞNG</h2>
+            <p class:list={['textCenter', 'sectionSubtitle']}>Và đây là một vài cảm nhận:</p>
+            <div class:list={['aiDisclaimerBox']}>
+                <p class:list={['aiDisclaimer']}>
+                    <strong>📝 Lưu ý:</strong> Cái này do AI tạo nha, chứ review thực tế mình lười chưa có thêm 😅<br/>
+                    <em>Lười cắt video, lười kím lại hình :)))) Mong mn thông cảm.</em>
+                </p>
+            </div>
+            <div class:list={['testimonialGrid']}>
+                {testimonialsData.map((testimonial, index) => (
+                    <div class:list={['testimonialCard']} key={index}>
+                        <p>"{testimonial.quote}"</p>
+                        <p class:list={['author']}>{testimonial.author}</p>
+                    </div>
+                ))}
+            </div>
+            <div class:list={['moreReviewsLinkContainer']}>
+                <a href="#" class:list={['btn', 'btnOutlinePrimary']}>Xem thêm các đánh giá khác (chưa có đâu :)))</a>
+            </div>
+        </div>
+      </section>
+
+      <section id="dang-ky-final" class:list={['slide-section', 'registrationSection']}>
+        <div class:list={['container']}>
+            <div class:list={['registrationContentWrapper']}>
+                <h2 class:list={['sectionTitle']}>💸 ĐẦU TƯ CHO TƯƠNG LAI CỦA BẠN 💸</h2>
+                
+                <!-- Hero Pricing Card -->
+                <div class:list={['pricingHeroCard']}>
+                    <div class:list={['originalPrice']}>Giá gốc: <span class:list={['strikethrough']}>1.299.000 VNĐ</span></div>
+                    <div class:list={['currentPrice']}>769.000 <span class:list={['currency']}>VNĐ</span></div>
+                    <div class:list={['savingsHighlight']}>Tiết kiệm 530.000 VNĐ!</div>
+                    <div class:list={['specialOffer']}>🎯 Ưu đãi đặc biệt cho 10 slot đầu tiên</div>
+                </div>
+
+                <!-- CTA Button -->
+                <a href="https://forms.gle/ggMbGFXavHPFrLhg6" target="_blank" class:list={['btn', 'btnActionPink']}>
+                    <span class:list={['emojiIcon']} role="img" aria-label="Money Bag">💰</span>
+                    ĐĂNG KÝ NGAY
+                </a>
+
+                <!-- Slot Status -->
+                <div class:list={['slotTracker']}>
+                    <div class:list={['slotTrackerTitle']}>⏰ Tình trạng slot ưu đãi:</div>
+                    <div class:list={['slotTrackerStatus']}>{slotStatusText}</div>
+                </div>
+
+                <!-- Pricing Tiers -->
+                <div class:list={['pricingTiers']}>
+                    <div class:list={['pricingTier']}>
+                        <span class:list={['tierLabel']}>10 slot tiếp theo:</span>
+                        <span class:list={['tierPrice']}>869.000 VNĐ</span>
+                    </div>
+                    <div class:list={['pricingTier']}>
+                        <span class:list={['tierLabel']}>Giá sau đó:</span>
+                        <span class:list={['tierPrice']}>999.000 VNĐ</span>
+                    </div>
+                </div>
+                
+                <!-- Instructor Quote -->
+                <div class:list={['instructorQuote']}>
+                    <div class:list={['quoteIcon']}>💭</div>
+                    <p>"Mình điều chỉnh giá vì muốn dành nhiều thời gian hơn để đảm bảo chất lượng kèm cặp tốt nhất cho mỗi học viên. Đây cũng là cách để bạn thực sự cân nhắc đầu tư cho việc tiết kiệm thời gian học tập lâu dài."</p>
+                </div>
+            </div>
+        </div>
+      </section>
+    </main>
+
+    <script>
+        // Logic cho Accordion
+        document.addEventListener('DOMContentLoaded', () => {
+            const accordionButtons = document.querySelectorAll('.accordionButton') as NodeListOf<HTMLButtonElement>;
+
+            accordionButtons.forEach(button => {
+                button.addEventListener('click', () => {
+                    const content = button.nextElementSibling as HTMLElement;
+                    const isExpanded = button.getAttribute('aria-expanded') === 'true';
+
+                    // Đóng tất cả các accordion khác
+                    accordionButtons.forEach(otherButton => {
+                        if (otherButton !== button) {
+                            otherButton.setAttribute('aria-expanded', 'false');
+                            otherButton.classList.remove('active');
+                            const otherContent = otherButton.nextElementSibling as HTMLElement;
+                            if (otherContent) {
+                                otherContent.style.maxHeight = '0px';
+                                otherContent.classList.remove('open');
+                            }
+                            const otherIcon = otherButton.querySelector('.iconIndicator') as HTMLElement;
+                            if (otherIcon) {
+                                otherIcon.classList.remove('rotated');
+                            }
+                        }
+                    });
+
+                    // Mở hoặc đóng accordion hiện tại
+                    if (isExpanded) {
+                        button.setAttribute('aria-expanded', 'false');
+                        button.classList.remove('active');
+                        if (content) {
+                            content.style.maxHeight = '0px';
+                            content.classList.remove('open');
+                        }
+                        const icon = button.querySelector('.iconIndicator') as HTMLElement;
+                        if (icon) {
+                            icon.classList.remove('rotated');
+                        }
+                    } else {
+                        button.setAttribute('aria-expanded', 'true');
+                        button.classList.add('active');
+                        if (content) {
+                            content.style.maxHeight = content.scrollHeight + 'px';
+                            content.classList.add('open');
+                        }
+                        const icon = button.querySelector('.iconIndicator') as HTMLElement;
+                        if (icon) {
+                            icon.classList.add('rotated');
+                        }
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>
+
+<style>
+/* Import font Be Vietnam Pro từ Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300;400;500;600;700;800;900&display=swap');
+
+/* --- Biến CSS Toàn cục --- */
+:root {
+    --color-primary: #007BFF; 
+    --color-primary-darker: #0056b3;
+    --color-secondary-accent: #E83E8C; 
+    --color-secondary-accent-hover: #C73377;
+    --color-learn-now-bg: #17A2B8;
+    --color-learn-now-bg-hover: #138496; 
+    --color-learn-now-text: white; 
+    --color-roadmap-bg: #FFFFFF;
+    --color-roadmap-bg-hover: #F1F3F5;
+    --color-roadmap-text: #3A6073;
+    --color-roadmap-border: #DEE2E6;
+    --color-success: #28a745; 
+    --color-text-dark: #212529;
+    --color-text-medium: #343A40;
+    --color-text-light: #495057;
+    --color-text-white: #FFFFFF;
+    --color-text-ivory: #FFFFF0; 
+    --color-background-light: #F8F9FA;
+    --color-background-white: #FFFFFF;
+    --color-background-off-white: #F1F3F5;
+    --color-border: #DEE2E6;
+    --border-radius: 8px;
+    --shadow-sm: 0 2px 4px rgba(0,0,0,0.05);
+    --shadow-md: 0 4px 8px rgba(0,0,0,0.07);
+    --shadow-lg: 0 10px 20px rgba(0,0,0,0.1);
+    
+    /* Font family variable */
+    --font-family-primary: 'Be Vietnam Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', sans-serif;
+}
+
+/* Áp dụng font cho toàn bộ trang */
+body {
+    font-family: var(--font-family-primary);
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+/* --- Container & Layout --- */
+.container {
+    width: 100%;
+    max-width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.textCenter {
+    text-align: center;
+}
+
+/* --- Typography --- */
+.highlightPink { 
+    color: var(--color-secondary-accent);
+    font-weight: 700;
+}
+.sectionTitle {
+    font-size: 2.25rem;
+    margin-bottom: 2.5rem;
+    font-weight: 800;
+    text-align: center;
+}
+.sectionSubtitle {
+    font-size: 1.1rem;
+    color: var(--color-text-light);
+    text-align: center;
+    max-width: 700px;
+    margin: 1rem auto 2.5rem auto;
+}
+.introText {
+    max-width: 700px; 
+    margin: 0 auto 2rem auto;
+    text-align: center;
+    color: var(--color-text-light);
+}
+
+/* --- Base Button Styles --- */
+.btn {
+    display: inline-flex; 
+    align-items: center;
+    justify-content: center;
+    font-weight: 700; 
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    user-select: none;
+    background-color: transparent;
+    border: 2px solid transparent;
+    padding: 0.75rem 1.5rem; 
+    font-size: 1rem; 
+    line-height: 1.5;
+    border-radius: var(--border-radius);
+    transition: all 0.2s ease-in-out; 
+    text-decoration: none !important;
+    box-shadow: var(--shadow-sm);
+}
+.btn:hover {
+    transform: translateY(-3px); 
+    box-shadow: var(--shadow-md); 
+}
+.btn .emojiIcon { 
+    margin-right: 0.6em; 
+    font-size: 1.1em; 
+    line-height: 1; 
+}
+.btn svg {
+    margin-right: 0.5em;
+    width: 1.1em;
+    height: 1.1em;
+    vertical-align: middle; 
+}
+
+/* --- Button Variations --- */
+.btnCtaPrimary { /* ĐĂNG KÝ - Hero */
+    color: var(--color-text-white);
+    background-color: var(--color-secondary-accent); 
+    border-color: var(--color-secondary-accent);
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.25); 
+}
+.btnCtaPrimary:hover {
+    background-color: var(--color-secondary-accent-hover); 
+    border-color: var(--color-secondary-accent-hover);
+    color: var(--color-text-white);
+}
+
+.btnCtaSecondary { /* LỘ TRÌNH - Hero */
+    color: var(--color-roadmap-text); 
+    background-color: var(--color-roadmap-bg);
+    border: 2px solid var(--color-roadmap-border); 
+}
+.btnCtaSecondary:hover { 
+    background-color: var(--color-roadmap-bg-hover);
+    border-color: #C0C6CC; 
+    color: var(--color-primary-darker);
+}
+
+.btnCtaTertiary { /* HỌC NGAY - Hero */
+    color: var(--color-text-white) !important; 
+    background-color: var(--color-learn-now-bg); 
+    border-color: var(--color-learn-now-bg);   
+    padding: 0.9rem 2.25rem; 
+    font-size: 1.2rem; 
+    box-shadow: var(--shadow-md); 
+}
+.btnCtaTertiary:hover {
+    background-color: var(--color-learn-now-bg-hover); 
+    border-color: var(--color-learn-now-bg-hover);   
+    box-shadow: var(--shadow-lg);
+    color: var(--color-text-white) !important;
+}
+
+.btnActionPink { /* For final registration button */
+    color: var(--color-text-white) !important;
+    background-color: var(--color-secondary-accent);
+    border-color: var(--color-secondary-accent);
+    padding: 1rem 2.5rem; 
+    font-size: 1.25rem; 
+    margin-bottom: 1.5rem; 
+}
+.btnActionPink:hover {
+    background-color: #c42a72; 
+    border-color: #c42a72;
+    color: var(--color-text-white) !important;
+}
+
+.btnOutlinePrimary { 
+    color: var(--color-primary);
+    border-color: var(--color-primary);
+    background-color: transparent;
+    font-weight: 600; 
+}
+.btnOutlinePrimary:hover {
+    color: var(--color-text-white);
+    background-color: var(--color-primary);
+    border-color: var(--color-primary);
+}
+
+/* --- Section Base --- */
+.slide-section { /* Renamed to avoid conflicts */
+    padding: 4rem 0;
+    border-bottom: 1px solid var(--color-border);
+}
+.slide-section:last-of-type { 
+    border-bottom: none;
+}
+
+/* --- Hero Section --- */
+.heroSection {
+    background: linear-gradient(135deg, #364F6B 0%, #3A6073 100%);
+    color: var(--color-text-white);
+    padding: 8rem 0 5rem 0; /* Thêm padding-top để không bị che bởi fixed header */
+    text-align: center;
+    border-bottom: 1px solid var(--color-border); 
+}
+.heroTitle {
+    font-size: 3rem !important;
+    color: var(--color-text-white) !important;
+    font-weight: 800 !important;
+    margin-bottom: 1.5rem !important;
+}
+.heroSubtitle {
+    font-size: 1.25rem; 
+    color: rgba(255,255,255,0.9); 
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2.5rem;
+}
+.heroSubtitle strong { 
+    color: var(--color-secondary-accent); 
+    font-weight: 800; 
+}
+.heroButtonsContainer { 
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    gap: 1.5rem; 
+}
+.heroButtonsBottomRow {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem; 
+}
+.heroButtonsContainer .btnCtaPrimary, 
+.heroButtonsContainer .btnCtaSecondary { 
+    padding: 0.8rem 1.8rem; 
+    font-size: 1.05rem; 
+}
+
+/* --- Experience & Impact Slide --- */
+.experienceImpactSlide {
+    background-color: var(--color-background-off-white);
+}
+.experienceGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2rem;
+    text-align: center;
+}
+.experienceItem {
+    background-color: var(--color-background-white);
+    padding: 2rem 1.5rem;
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow-md);
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+.experienceItem:hover {
+    transform: translateY(-8px);
+    box-shadow: var(--shadow-lg);
+    background-color: #fafbfc;
+}
+.experienceItem .number {
+    font-size: 3.5rem;
+    font-weight: 900;
+    color: var(--color-primary);
+    line-height: 1;
+    margin-bottom: 0.5rem;
+    transition: all 0.3s ease;
+}
+.experienceItem:hover .number {
+    color: var(--color-secondary-accent);
+    transform: scale(1.1);
+}
+.experienceItem .label {
+    font-size: 1.1rem;
+    color: var(--color-text-medium);
+    font-weight: 600;
+    transition: color 0.3s ease;
+}
+.experienceItem:hover .label {
+    color: var(--color-text-dark);
+}
+
+/* --- Motivation CTA Section --- */
+.motivationCtaSection {
+    padding: 4rem 0;
+    background: linear-gradient(135deg, #0062cc 0%, #00438a 100%); 
+    color: var(--color-text-white);
+    text-align: center;
+}
+.motivationCtaSection h2 { 
+    color: var(--color-text-white); 
+    font-size: 2.25rem; 
+    margin-bottom: 1rem;
+} 
+.motivationCtaSection .subtitle {
+    font-size: 1.15rem; 
+    color: rgba(255,255,255,0.9); 
+    max-width: 600px;
+    margin: 0 auto 2rem auto;
+}
+.motivationBtn {
+    display: inline-flex; 
+    align-items: center;
+    justify-content: center;
+    font-weight: 700; 
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    user-select: none;
+    background-color: var(--color-secondary-accent);
+    border-color: var(--color-secondary-accent);
+    color: var(--color-text-white) !important;
+    padding: 0.875rem 2rem;
+    font-size: 1.125rem;
+    border: 2px solid transparent;
+    border-radius: var(--border-radius);
+    transition: all 0.2s ease-in-out; 
+    text-decoration: none !important;
+    box-shadow: var(--shadow-sm);
+}
+.motivationBtn:hover {
+    background-color: #c42a72;
+    border-color: #c42a72;
+    transform: translateY(-3px); 
+    box-shadow: var(--shadow-md);
+    color: var(--color-text-white) !important;
+}
+
+/* --- Why This Course Slide --- */
+.whyThisCourseSlide {
+    background-color: var(--color-background-white);
+}
+.benefitGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+}
+.benefitCard {
+    background-color: var(--color-background-white);
+    padding: 2rem;
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow-md);
+    text-align: center;
+    border: 1px solid var(--color-border);
+    display: flex;
+    flex-direction: column;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+.benefitCard:hover {
+    transform: translateY(-8px);
+    box-shadow: var(--shadow-lg);
+    border: 1px solid var(--color-primary);
+    background-color: #fafbfc;
+}
+.benefitCard .icon {
+    font-size: 2.5rem; 
+    margin-bottom: 1rem;
+    color: var(--color-primary);
+    transition: all 0.3s ease;
+}
+.benefitCard:hover .icon {
+    transform: scale(1.1);
+    color: var(--color-secondary-accent);
+}
+.benefitCard h3 {
+    color: var(--color-primary);
+    font-size: 1.3rem;
+    transition: color 0.3s ease;
+}
+.benefitCard:hover h3 {
+    color: var(--color-secondary-accent);
+}
+.benefitCard ul {
+    list-style-position: inside;
+    text-align: left;
+    color: var(--color-text-light);
+    padding-left: 0;
+    margin-bottom: 1.5rem;
+    flex-grow: 1;
+    transition: color 0.3s ease;
+}
+.benefitCard:hover ul {
+    color: var(--color-text-medium);
+}
+.benefitCard ul li {
+    margin-bottom: 0.5rem;
+    font-size: 0.95rem;
+}
+
+/* --- Support Slide --- */
+.supportSlide {
+    background-color: var(--color-background-off-white);
+}
+.supportItem {
+    background-color: var(--color-background-white);
+    padding: 1.5rem;
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow-sm);
+    margin-bottom: 1rem;
+    border-left: 5px solid var(--color-primary);
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+.supportItem:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--shadow-lg);
+    border-left: 5px solid var(--color-secondary-accent);
+    background-color: #fafbfc;
+}
+.supportItem h3 {
+    font-size: 1.25rem;
+    color: var(--color-primary);
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    transition: color 0.3s ease;
+}
+.supportItem:hover h3 {
+    color: var(--color-secondary-accent);
+}
+.supportItem p {
+    font-size: 0.95rem;
+    color: var(--color-text-light);
+    margin-bottom: 0;
+    transition: color 0.3s ease;
+}
+.supportItem:hover p {
+    color: var(--color-text-medium);
+}
+
+/* --- Roadmap Slide --- */
+.roadmapSlide {
+    background-color: var(--color-background-white);
+}
+.accordionContainer {
+    max-width: 750px;
+    margin: 0 auto;
+}
+.accordionItem {
+    background-color: var(--color-background-white);
+    border: 1px solid var(--color-border);
+    border-radius: var(--border-radius);
+    margin-bottom: 0.5rem;
+    box-shadow: var(--shadow-sm);
+}
+.accordionButton {
+  display: flex;
+    justify-content: space-between;
+  align-items: center;
+    width: 100%;
+    padding: 1rem 1.25rem;
+    text-align: left;
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: var(--color-text-dark);
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    border-radius: var(--border-radius); 
+}
+.accordionButton:hover {
+    background-color: #f1f3f5; 
+}
+.accordionButton.active {
+    /* Styles for active button if needed */
+}
+.iconIndicator { /* Class for SVG icon */
+    width: 1.25rem;
+    height: 1.25rem;
+    transition: transform 0.3s ease-out;
+    stroke: var(--color-text-light);
+}
+.iconIndicator.rotated {
+    transform: rotate(180deg);
+}
+.accordionContent {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out, padding 0.3s ease-out;
+    padding: 0 1.25rem;
+}
+.accordionContent.open {
+    padding: 0.5rem 1.25rem 1rem 1.25rem; 
+    border-top: 1px solid var(--color-border);
+}
+.accordionContent p {
+    color: var(--color-text-light);
+    font-size: 0.95rem;
+}
+
+/* --- Testimonials Slide --- */
+.testimonialsSlide {
+    background-color: var(--color-background-off-white);
+}
+
+.aiDisclaimerBox {
+    background: linear-gradient(135deg, #fff3cd 0%, #ffeaa7 100%);
+    border: 2px dashed #ffc107;
+    border-radius: var(--border-radius);
+    padding: 1.5rem;
+    margin: 1.5rem auto 2.5rem auto;
+    max-width: 600px;
+    text-align: center;
+    box-shadow: var(--shadow-sm);
+    animation: subtle-pulse 3s ease-in-out infinite;
+}
+
+.aiDisclaimer {
+    margin: 0;
+    color: #856404;
+    font-size: 0.95rem;
+    line-height: 1.6;
+}
+
+.aiDisclaimer strong {
+    color: #dc3545;
+    font-weight: 700;
+}
+
+.aiDisclaimer em {
+    font-style: italic;
+    color: #6c757d;
+    font-size: 0.9rem;
+}
+
+@keyframes subtle-pulse {
+    0%, 100% { 
+        transform: scale(1); 
+        box-shadow: var(--shadow-sm);
+    }
+    50% { 
+        transform: scale(1.02); 
+        box-shadow: var(--shadow-md);
+    }
+}
+
+.testimonialGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+}
+.testimonialCard {
+    background-color: var(--color-background-white);
+    padding: 1.5rem;
+    border-radius: var(--border-radius);
+    border: 1px solid var(--color-border);
+    box-shadow: var(--shadow-sm);
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+.testimonialCard:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--shadow-lg);
+    border: 1px solid var(--color-primary);
+    background-color: #fafbfc;
+}
+.testimonialCard p:first-child {
+    font-style: italic;
+    color: var(--color-text-light);
+    margin-bottom: 1rem;
+    transition: color 0.3s ease;
+}
+.testimonialCard:hover p:first-child {
+    color: var(--color-text-medium);
+}
+.testimonialCard .author {
+    font-weight: 600;
+    color: var(--color-primary);
+    transition: color 0.3s ease;
+}
+.testimonialCard:hover .author {
+    color: var(--color-secondary-accent);
+}
+.moreReviewsLinkContainer { 
+    text-align: center;
+    margin-top: 2.5rem;
+}
+
+/* --- Registration Section --- */
+.registrationSection {
+    background: linear-gradient(135deg, #2c3e50 0%, #34495e 50%, #2c3e50 100%);
+    color: var(--color-text-white);
+    text-align: center;
+    padding: 4rem 0;
+    position: relative;
+}
+.registrationSection::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: radial-gradient(ellipse at center, rgba(52, 73, 94, 0.1) 0%, rgba(44, 62, 80, 0.3) 100%);
+    pointer-events: none;
+}
+.registrationContentWrapper {
+    max-width: 700px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    position: relative;
+    z-index: 1;
+}
+.registrationSection .sectionTitle {
+    color: var(--color-text-white);
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+    line-height: 1.2;
+    white-space: nowrap;
+}
+
+/* Hero Pricing Card - Main focal point */
+.pricingHeroCard {
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.08) 100%);
+    border-radius: 16px;
+    padding: 2.5rem 2rem;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+    backdrop-filter: blur(8px);
+    position: relative;
+    overflow: hidden;
+}
+.pricingHeroCard::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, #3498db, #2ecc71, #3498db);
+    animation: shimmer 3s ease-in-out infinite;
+}
+@keyframes shimmer {
+    0%, 100% { opacity: 0.8; }
+    50% { opacity: 1; }
+}
+
+.originalPrice {
+    font-size: 1rem;
+    color: rgba(255, 255, 255, 0.8);
+    margin-bottom: 0.25rem;
+}
+.strikethrough {
+    text-decoration: line-through;
+    opacity: 0.7;
+}
+.currentPrice {
+    font-size: 4rem;
+    font-weight: 900;
+    color: #ffffff;
+    margin: 0.5rem 0;
+    line-height: 1;
+    text-shadow: 0 3px 12px rgba(0, 0, 0, 0.4), 0 0 20px rgba(255, 255, 255, 0.3);
+    background: linear-gradient(45deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.05));
+    padding: 0.3rem 1rem;
+    border-radius: 12px;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    display: inline-block;
+    animation: price-glow 3s ease-in-out infinite;
+}
+@keyframes price-glow {
+    0%, 100% { 
+        box-shadow: 0 0 15px rgba(255, 255, 255, 0.2);
+        transform: scale(1);
+    }
+    50% { 
+        box-shadow: 0 0 25px rgba(255, 255, 255, 0.4);
+        transform: scale(1.02);
+    }
+}
+.currency {
+    font-size: 1.8rem;
+    font-weight: 600;
+}
+.savingsHighlight {
+    background: linear-gradient(45deg, #27ae60, #2ecc71);
+    color: white;
+    padding: 0.6rem 1.2rem;
+    border-radius: 25px;
+    display: inline-block;
+    font-weight: 700;
+    font-size: 1.1rem;
+    margin: 0.75rem 0 0.5rem 0;
+    box-shadow: 0 3px 12px rgba(39, 174, 96, 0.25);
+}
+.specialOffer {
+    font-size: 1rem;
+    color: rgba(255, 255, 255, 0.9);
+    font-weight: 600;
+    margin-top: 0.5rem;
+}
+
+/* CTA Button - Primary action */
+.btnActionPink {
+    background: linear-gradient(45deg, #3498db, #2980b9);
+    border: none;
+    color: var(--color-text-white);
+    font-size: 1.3rem;
+    padding: 1.3rem 3rem;
+    margin: 1rem 0;
+    font-weight: 800;
+    border-radius: 50px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    box-shadow: 0 6px 20px rgba(52, 152, 219, 0.3);
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+}
+.btnActionPink::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.15), transparent);
+    transition: left 0.5s;
+}
+.btnActionPink:hover::before {
+    left: 100%;
+}
+.btnActionPink:hover {
+    transform: translateY(-3px) scale(1.02);
+    box-shadow: 0 8px 25px rgba(52, 152, 219, 0.4);
+    background: linear-gradient(45deg, #2980b9, #1abc9c);
+}
+
+/* Slot Tracker - Urgency indicator */
+.slotTracker {
+    background: linear-gradient(135deg, rgba(230, 126, 34, 0.15) 0%, rgba(211, 84, 0, 0.15) 100%);
+    border: 2px solid rgba(230, 126, 34, 0.3);
+    border-radius: 12px;
+    padding: 1.2rem;
+    margin: 1rem 0;
+    animation: pulse-glow 4s ease-in-out infinite;
+}
+@keyframes pulse-glow {
+    0%, 100% { 
+        box-shadow: 0 0 8px rgba(230, 126, 34, 0.2);
+    }
+    50% { 
+        box-shadow: 0 0 15px rgba(230, 126, 34, 0.35);
+    }
+}
+.slotTrackerTitle {
+    font-size: 1.1rem;
+    margin-bottom: 0.5rem;
+    color: var(--color-text-white);
+    font-weight: 600;
+}
+.slotTrackerStatus {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #e67e22;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+}
+
+/* Pricing Tiers - Supporting information */
+.pricingTiers {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    padding: 1.5rem;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    margin: 1rem 0;
+}
+.pricingTier {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.75rem 1rem;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 8px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    transition: all 0.3s ease;
+}
+.pricingTier:hover {
+    background: rgba(255, 255, 255, 0.1);
+    transform: translateX(5px);
+}
+.tierLabel {
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 1rem;
+}
+.tierPrice {
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 1.1rem;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+}
+
+/* Instructor Quote - Trust element */
+.instructorQuote {
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255, 255, 0.08) 100%);
+    border-left: 4px solid #3498db;
+    border-radius: 0 12px 12px 0;
+    padding: 1.5rem;
+    margin: 1.5rem 0 0 0;
+    font-style: italic;
+    position: relative;
+    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.08);
+}
+.quoteIcon {
+    position: absolute;
+    top: -10px;
+    left: 20px;
+    background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+.instructorQuote p {
+    margin: 0;
+    color: rgba(255, 255, 255, 0.95);
+    font-size: 0.95rem;
+    line-height: 1.6;
+    padding-top: 0.5rem;
+}
+
+/* --- Responsive Adjustments --- */
+@media (max-width: 992px) {
+    .heroTitle { font-size: 2.5rem !important; }
+    .sectionTitle { font-size: 1.75rem; }
+    .motivationCtaSection h2 { font-size: 2rem; }
+    .experienceItem .number { font-size: 3rem; }
+    .registrationSection .sectionTitle { font-size: 2rem; }
+    .currentPrice { font-size: 3.5rem; }
+    .registrationContentWrapper { gap: 1.25rem; }
+}
+
+@media (max-width: 768px) {
+    .registrationSection .sectionTitle {
+        font-size: 1.8rem;
+        white-space: normal;
+        line-height: 1.3;
+    }
+    .heroButtonsContainer {
+        flex-direction: column; 
+    }
+    .heroButtonsContainer .btn { 
+        width: 80%;
+        max-width: 320px; 
+    }
+    .benefitGrid, .testimonialGrid, .experienceGrid {
+        grid-template-columns: 1fr; 
+    }
+    .heroTitle { font-size: 2.25rem !important; }
+    .heroSubtitle { font-size: 1.125rem; }
+    .sectionTitle { font-size: 1.6rem; }
+    .motivationCtaSection h2 { font-size: 1.75rem; }
+    .motivationCtaSection .subtitle { font-size: 1.125rem; }
+    .experienceItem .number { font-size: 2.75rem; }
+    .registrationSection .sectionTitle { font-size: 1.75rem; }
+    
+    /* Tablet price styling */
+    .currentPrice { 
+        font-size: 3rem; 
+        padding: 0.4rem 1rem;
+        /* Slightly reduce animation on tablet */
+        animation: price-glow-tablet 3.5s ease-in-out infinite;
+    }
+    @keyframes price-glow-tablet {
+        0%, 100% { 
+            box-shadow: 0 0 12px rgba(255, 255, 255, 0.18);
+            transform: scale(1);
+        }
+        50% { 
+            box-shadow: 0 0 20px rgba(255, 255, 255, 0.32);
+            transform: scale(1.015);
+        }
+    }
+    
+    .registrationContentWrapper { gap: 1rem; }
+    .pricingHeroCard { padding: 2rem 1.5rem; }
+    .btnActionPink { 
+        font-size: 1.2rem; 
+        padding: 1.2rem 2.5rem; 
+    }
+    .pricingTiers { 
+        flex-direction: column;
+        gap: 0.65rem;
+    }
+    .pricingTier {
+        padding: 0.6rem 1rem;
+    }
+    .tierLabel {
+        font-size: 0.95rem;
+    }
+    .tierPrice {
+        font-size: 1.05rem;
+    }
+}
+
+@media (max-width: 576px) {
+    .container { padding-left: 0.75rem; padding-right: 0.75rem; }
+    .heroSection { padding: 3rem 0; }
+    .heroTitle { font-size: 1.8rem !important; }
+    .heroButtonsContainer .btn { font-size: 1rem; padding: 0.75rem 1.5rem;} 
+    .slide-section { padding: 3rem 0; }
+    .experienceImpactSlide { padding: 3rem 0;}
+    .sectionTitle { font-size: 1.5rem; margin-bottom: 2rem; }
+    .motivationCtaSection h2 { font-size: 1.6rem; }
+    .experienceItem .number { font-size: 2.5rem; }
+    .experienceItem .label { font-size: 1rem; }
+    .registrationSection { padding: 3rem 0; }
+    .registrationContentWrapper { 
+        padding: 1rem 0.5rem; 
+        gap: 1rem;
+        max-width: 100%;
+    }
+    .registrationSection .sectionTitle { 
+        font-size: 1.6rem; 
+        white-space: normal; 
+        line-height: 1.4; 
+        margin-bottom: 1rem;
+    }
+    
+    /* Mobile-optimized price styling */
+    .currentPrice { 
+        font-size: 2.8rem; 
+        padding: 0.4rem 0.8rem;
+        margin: 0.75rem 0;
+        /* Reduce animation intensity on mobile */
+        animation: price-glow-mobile 4s ease-in-out infinite;
+    }
+    @keyframes price-glow-mobile {
+        0%, 100% { 
+            box-shadow: 0 0 10px rgba(255, 255, 255, 0.15);
+            transform: scale(1);
+        }
+        50% { 
+            box-shadow: 0 0 15px rgba(255, 255, 255, 0.25);
+            transform: scale(1.01);
+        }
+    }
+    .currency { font-size: 1.4rem; }
+    
+    .pricingHeroCard { 
+        padding: 1.8rem 1rem;
+        margin: 0 0.25rem;
+        border-radius: 12px;
+    }
+    .btnActionPink { 
+        font-size: 1.1rem !important; 
+        padding: 1rem 2rem !important;
+        margin: 0.75rem 0 !important;
+        border-radius: 40px;
+        /* Reduce shine effect on mobile */
+        letter-spacing: 0.5px;
+    }
+    .btnActionPink::before {
+        background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.1), transparent);
+    }
+    
+    .savingsHighlight {
+        font-size: 1rem;
+        padding: 0.5rem 1rem;
+        border-radius: 20px;
+    }
+    .slotTracker, .pricingTiers, .instructorQuote {
+        margin: 0.75rem 0;
+        padding: 1rem;
+    }
+    
+    /* Mobile-optimized pricing tiers */
+    .pricingTiers {
+        padding: 1rem;
+        gap: 0.5rem;
+    }
+    .pricingTier {
+        flex-direction: column;
+        gap: 0.25rem;
+        text-align: center;
+        padding: 0.75rem 0.5rem;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        background: rgba(255, 255, 255, 0.08);
+        /* Disable hover transform on mobile */
+    }
+    .pricingTier:hover {
+        transform: none;
+        background: rgba(255, 255, 255, 0.08);
+    }
+    .pricingTier:last-child {
+        border-bottom: none;
+    }
+    .tierLabel {
+        font-size: 0.9rem;
+        margin-bottom: 0.25rem;
+    }
+    .tierPrice {
+        font-size: 1rem;
+        font-weight: 700;
+    }
+    
+    /* Mobile-optimized quote */
+    .instructorQuote {
+        padding: 1.25rem 1rem 1rem 1rem;
+        margin: 1rem 0 0 0;
+    }
+    .quoteIcon {
+        top: -8px;
+        left: 15px;
+        width: 35px;
+        height: 35px;
+        font-size: 1rem;
+    }
+    .instructorQuote p {
+        font-size: 0.9rem;
+        line-height: 1.5;
+        padding-top: 0.75rem;
+    }
+    
+    /* Mobile-optimized slot tracker */
+    .slotTracker {
+        padding: 1rem;
+        /* Reduce glow intensity */
+        animation: pulse-glow-mobile 4s ease-in-out infinite;
+    }
+    @keyframes pulse-glow-mobile {
+        0%, 100% { 
+            box-shadow: 0 0 5px rgba(230, 126, 34, 0.15);
+        }
+        50% { 
+            box-shadow: 0 0 10px rgba(230, 126, 34, 0.25);
+        }
+    }
+    .slotTrackerTitle {
+        font-size: 1rem;
+    }
+    .slotTrackerStatus {
+        font-size: 1.1rem;
+    }
+}
+</style>

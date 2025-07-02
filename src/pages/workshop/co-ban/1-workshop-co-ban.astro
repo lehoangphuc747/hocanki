@@ -1,0 +1,1233 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+
+// Data for statistics
+const statsData = [
+  { target: 7, suffix: '', label: 'Năm kinh nghiệm' },
+  { target: 100, suffix: '+', label: 'Người dùng hỗ trợ' },
+  { target: 10, suffix: '+', label: 'Quốc gia & Ngôn ngữ' }
+];
+
+// Data for experience cards
+const experienceCards = [
+  {
+    icon: '🌐',
+    title: 'Đa quốc gia',
+    description: 'Làm việc với các bạn Việt Nam từ khắp nơi trên thế giới: Mỹ, Úc, Nhật, Hàn và cả những nơi đặc biệt như Mông Cổ & Czech.'
+  },
+  {
+    icon: '⚡',
+    title: 'Đa ngôn ngữ', 
+    description: 'Đã kinh qua: Anh, Hàn, Trung, Nhật, Mông Cổ, Czech... Trong đó, hỗ trợ học tiếng Nhật là trải nghiệm "quái thai" nhất.'
+  },
+  {
+    icon: '✅',
+    title: 'Kèm Anki 1-1',
+    description: 'Hỗ trợ chuyên biệt, giúp một anh tạo thẻ PTE từ con số 0 để đi Úc, và kèm cặp nhiều bạn trong các ngành đặc thù.'
+  }
+];
+
+// Data for timeline/roadmap
+const timelineData = [
+  {
+    stage: 'Giai đoạn 1 (0-20\')',
+    title: 'Khởi Động & Tư Duy Đúng',
+    description: 'Cài đặt "nhanh-gọn-lười" và nhận Đặc quyền Add-on độc quyền.',
+    icon: '☕'
+  },
+  {
+    stage: 'Giai đoạn 2 (20-50\')',
+    title: 'Thực Chiến Tạo Thẻ',
+    description: 'Học tư duy tạo thẻ 80/20, áp dụng cho mọi ngành học.',
+    icon: '✏️'
+  },
+  {
+    stage: 'Giai đoạn 3 (50-80\')',
+    title: 'Tự Động & Tối Ưu Hóa',
+    description: 'Thêm âm thanh miễn phí và áp dụng cấu hình "mì ăn liền".',
+    icon: '🚀'
+  },
+  {
+    stage: 'Giai đoạn 4 (80-90\')',
+    title: 'Hỏi Đáp & Con Đường Phía Trước',
+    description: 'Giải đáp mọi vướng mắc và mở ra lộ trình trở thành "Anki Master".',
+    icon: '🔓'
+  }
+];
+
+// Data for advanced features
+const advancedFeatures = [
+  {
+    icon: '🤖',
+    title: 'Tạo thẻ hàng loạt với AI',
+    description: 'Tự động hóa việc tạo hàng trăm thẻ nhớ từ tài liệu của bạn với AI & Google Sheets.',
+    isWide: true
+  },
+  {
+    icon: '🎨',
+    title: 'Thiết kế mẫu thẻ bằng AI',
+    description: 'Tạo ra những mẫu thẻ đẹp mắt mà không cần biết một dòng code.',
+    isWide: false
+  },
+  {
+    icon: '💼',
+    title: 'Anki Portable',
+    description: 'Học mọi lúc mọi nơi trên bất kỳ máy tính nào, không cần cài đặt.',
+    isWide: false
+  },
+  {
+    icon: '🔗',
+    title: 'Hệ thống hóa kiến thức',
+    description: 'Kết hợp Obsidian + Anki để xây dựng hệ thống học tập sâu và cá nhân hóa.',
+    isWide: true
+  },
+  {
+    icon: '…',
+    title: 'Và còn nhiều hơn nữa...',
+    description: '...còn nữa nhưng mà chưa nghĩ ra :)))',
+    isWide: true,
+    isSpecial: true
+  }
+];
+---
+
+<Layout title="Basic Anki Workshop">
+  <div class="container">
+    <!-- Header -->
+    <header class="hero">
+      <h1 class="heroTitle">
+        <span class="heroIcon" role="img" aria-label="brain">🧠</span> 
+        <span class="gradientText">Workshop Anki</span>
+      </h1>
+      <p class="heroSubtitle">
+        Hướng dẫn dùng Anki cơ bản và hiệu quả nhất cho người mới bắt đầu. 
+        Làm quen nhanh, tiết kiệm thời gian.
+      </p>
+      <a href="#dang-ky" class="btnPrimary">
+        Đăng ký giữ chỗ ngay
+      </a>
+    </header>
+
+    <!-- About Section -->
+    <section id="ve-minh" class="section">
+      <div class="textCenter">
+        <h2 class="sectionTitle">Về mình</h2>
+        <p class="sectionDescription">
+          Một người có <strong class="highlightText">7 năm</strong> "ăn nằm" với Anki, 
+          với một niềm tin rằng bất kỳ kiến thức nào cũng có thể được chinh phục nếu có phương pháp đúng.
+        </p>
+      </div>
+      
+      <!-- Stats -->
+      <div class="statsGrid">
+        {statsData.map((stat) => (
+          <div class="statCard">
+            <div class="statNumber">{stat.target}{stat.suffix}</div>
+            <div class="statLabel">{stat.label}</div>
+          </div>
+        ))}
+      </div>
+
+      <!-- Experience Cards -->
+      <div class="textCenter">
+        <h3 class="subsectionTitle">
+          Những câu chuyện và trải nghiệm nổi bật
+        </h3>
+        <div class="experienceGrid">
+          {experienceCards.map((card) => (
+            <div class="experienceCard">
+              <div class="cardHeader">
+                <span class="cardIcon" role="img" aria-label="icon">{card.icon}</span>
+                <h4 class="cardTitle">{card.title}</h4>
+              </div>
+              <p class="cardDescription">{card.description}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <!-- Roadmap Section -->
+    <section id="noi-dung" class="section">
+      <div class="textCenter">
+        <h2 class="sectionTitle">
+          🚀 Lộ trình Chinh phục Anki
+        </h2>
+        <p class="sectionDescription">
+          Hành trình 90 phút được thiết kế để bạn làm chủ Anki, 
+          tiết kiệm hàng giờ mày mò và tập trung phát triển bản thân.
+        </p>
+      </div>
+      
+      <div class="timelineWrapper">
+        {timelineData.map((item) => (
+          <div class="timelineItem">
+            <div class="timelineDot">
+              <span class="timelineIcon" role="img" aria-label="icon">{item.icon}</span>
+            </div>
+            <div class="timelineContent">
+              <span class="timelineStage">{item.stage}</span>
+              <h3 class="timelineTitle">{item.title}</h3>
+              <p class="timelineDescription">
+                {item.description}
+                {item.stage.includes('1') && (
+                  <span class="specialBadge">Đặc quyền</span>
+                )}
+              </p>
+            </div>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <!-- Registration Section -->
+    <section id="dang-ky" class="registrationSection">
+      <div class="registrationWrapper">
+        <div class="registrationInfo">
+          <h2 class="sectionTitle">
+            ℹ️ Thông tin Workshop
+          </h2>
+          <div class="infoList">
+            <div class="infoItem">
+              <span class="infoIcon" role="img" aria-label="calendar">📅</span>
+              <span><strong>Thời gian:</strong> 19:30, Chủ Nhật hàng tuần</span>
+            </div>
+            <div class="infoItem">
+              <span class="infoIcon" role="img" aria-label="clock">⏰</span>
+              <span><strong>Thời lượng:</strong> ~90 phút</span>
+            </div>
+            <div class="infoItem">
+              <span class="infoIcon" role="img" aria-label="laptop">💻</span>
+              <span><strong>Hình thức:</strong> Online</span>
+            </div>
+          </div>
+        </div>
+        
+        <div class="registrationCard">
+          <h3 class="cardTitle">Phí tham gia Workshop</h3>
+          <div class="priceTagWrapper">
+            <span class="priceLabel">Chỉ với</span>
+            <div class="priceTag">89.000 VNĐ</div>
+          </div>
+          <a href="#" class="btnPrimary">
+            Đăng ký giữ chỗ
+          </a>
+          <p class="footnote">
+            (Link đăng ký sẽ được gửi sau khi thanh toán)
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Advanced Section -->
+    <section id="nang-cao" class="advancedSection">
+      <div class="textCenter">
+        <h2 class="advancedTitle">
+          🔓 Mở khóa Siêu năng lực Anki
+        </h2>
+        <p class="advancedDescription">
+          Những chủ đề nâng cao sắp tới, giúp bạn biến Anki thành cỗ máy học tập tối thượng.
+        </p>
+      </div>
+      
+      <div class="advancedGrid">
+        {advancedFeatures.map((feature) => (
+          <div class={`advancedCard ${feature.isWide ? 'advancedCardWide' : ''} ${feature.isSpecial ? 'advancedCardSpecial' : ''}`}>
+            <div class="advancedCardIcon" role="img" aria-label="icon">{feature.icon}</div>
+            <div class="advancedCardContent">
+              <h3 class="advancedCardTitle">{feature.title}</h3>
+              <p class="advancedCardDescription">{feature.description}</p>
+            </div>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <h3 class="footerTitle">
+        <span class="gradientText">Hẹn gặp bạn vào tối Chủ Nhật!</span>
+      </h3>
+      <p class="footerText">
+        Có thắc mắc? Nhắn trực tiếp hoặc comment để mình hỗ trợ nhé!
+      </p>
+      <p class="footerNote">
+        (Đăng ký sớm để giữ chỗ)
+      </p>
+    </footer>
+  </div>
+</Layout>
+
+<style>
+/* Import Google Fonts */
+/* Font được import trong Layout.astro */
+
+/* --- NEOBRUTALISM STYLE --- */
+
+/* General body styles */
+body {
+    background-color: #f4f4f4;
+    font-family: 'Be Vietnam Pro', 'Lexend Deca', sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    color: #111;
+}
+
+/* Dark mode compatibility */
+[data-theme='dark'] body {
+    background-color: #111111 !important;
+    color: #f4f4f4;
+}
+
+/* Main container and base styles */
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1rem;
+    min-height: 100vh;
+    font-family: 'Be Vietnam Pro', 'Lexend Deca', sans-serif;
+    background-color: transparent;
+    color: #111;
+}
+
+@media (min-width: 640px) {
+    .container {
+        padding: 1.5rem;
+    }
+}
+
+@media (min-width: 1024px) {
+    .container {
+        padding: 2rem;
+    }
+}
+
+/* Utility classes */
+.textCenter {
+    text-align: center;
+}
+
+.fullWidth {
+    width: 100%;
+}
+
+/* Gradient text */
+.gradientText {
+    color: #111;
+}
+
+[data-theme='dark'] .gradientText {
+    color: #fff;
+}
+
+.highlightText {
+    background-color: #ffd600;
+    padding: 0 4px;
+    font-weight: 700;
+    color: #111;
+}
+
+[data-theme='dark'] .highlightText {
+    background-color: #00e599;
+}
+
+/* Hero Section */
+.hero {
+    text-align: center;
+    margin: 3rem 0;
+    padding: 2rem 1rem;
+}
+
+@media (min-width: 768px) {
+    .hero {
+        margin: 5rem 0;
+        padding: 4rem 2rem;
+    }
+}
+
+.heroTitle {
+    font-size: 2.5rem;
+    font-weight: 800;
+    margin-bottom: 1rem;
+    line-height: 1.1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.heroIcon {
+    font-size: 2.5rem;
+}
+
+@media (min-width: 768px) {
+    .heroTitle {
+        font-size: 4rem;
+    }
+    
+    .heroIcon {
+        font-size: 4rem;
+    }
+}
+
+.heroSubtitle {
+    font-size: 1.1rem;
+    color: #555;
+    max-width: 42rem;
+    margin: 0 auto 2.5rem auto;
+    line-height: 1.6;
+}
+
+[data-theme='dark'] .heroSubtitle {
+    color: #aaa;
+}
+
+@media (min-width: 768px) {
+    .heroSubtitle {
+        font-size: 1.25rem;
+    }
+}
+
+/* Buttons */
+.btnPrimary {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffd600;
+    color: #111 !important;
+    font-weight: 700;
+    padding: 1rem 2rem;
+    border-radius: 8px;
+    transition: all 0.2s ease-out;
+    text-decoration: none !important;
+    box-shadow: 4px 4px 0 #000;
+    font-size: 1rem;
+    border: 2px solid #000;
+    cursor: pointer;
+    min-height: 48px;
+}
+
+.btnPrimary:hover {
+    background-color: #fff;
+    box-shadow: 6px 6px 0 #000;
+    transform: translate(-2px, -2px);
+    color: #111 !important;
+}
+
+.btnPrimary:active {
+    transform: translate(0, 0);
+    box-shadow: 2px 2px 0 #000;
+}
+
+[data-theme='dark'] .btnPrimary {
+    background-color: #00e599;
+    color: #111 !important;
+    box-shadow: 4px 4px 0 #fff;
+    border: 2px solid #fff;
+}
+
+[data-theme='dark'] .btnPrimary:hover {
+    background-color: #111;
+    color: #fff !important;
+    box-shadow: 6px 6px 0 #fff;
+}
+
+@media (max-width: 640px) {
+    .btnPrimary {
+        padding: 1rem 2rem;
+        font-size: 1.125rem;
+        width: 100%;
+        max-width: 280px;
+    }
+}
+
+/* Section styles */
+.section {
+    margin: 4rem 0;
+    padding: 2rem;
+    background-color: #ffffff;
+    border-radius: 12px;
+    border: 2px solid #111;
+}
+
+[data-theme='dark'] .section {
+    background-color: #1a1a1a;
+    border: 2px solid #fff;
+}
+
+/* Remove padding for registration section container */
+.registrationSection {
+    padding: 0;
+    border: none;
+    background: none;
+}
+
+[data-theme='dark'] .registrationSection {
+    background: none;
+    border: none;
+}
+
+.sectionTitle {
+    font-size: 2rem;
+    font-weight: 800;
+    margin-bottom: 1rem;
+    color: #111;
+    line-height: 1.2;
+}
+
+[data-theme='dark'] .sectionTitle {
+    color: #fff;
+}
+
+@media (min-width: 768px) {
+    .sectionTitle {
+        font-size: 2.5rem;
+    }
+}
+
+.sectionDescription {
+    font-size: 1.1rem;
+    color: #555;
+    max-width: 48rem;
+    margin: 0 auto 2rem auto;
+    line-height: 1.6;
+}
+
+[data-theme='dark'] .sectionDescription {
+    color: #aaa;
+}
+
+.subsectionTitle {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #111;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+    line-height: 1.3;
+}
+
+[data-theme='dark'] .subsectionTitle {
+    color: #fff;
+}
+
+/* Stats Section */
+.statsGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5rem;
+    margin: 3rem 0;
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 1.5rem;
+    border: 2px solid #111;
+    transition: all 0.2s ease-out;
+}
+
+[data-theme='dark'] .statsGrid {
+    background-color: #222;
+    border-color: #fff;
+}
+
+.statCard {
+    text-align: center;
+    padding: 0;
+    border: none;
+}
+
+[data-theme='dark'] .statCard {
+    background-color: transparent;
+}
+
+.statNumber {
+    font-size: 3rem;
+    font-weight: 800;
+    color: #0056b3;
+    margin-bottom: 0.5rem;
+    line-height: 1.1;
+}
+
+[data-theme='dark'] .statNumber {
+    color: #3399ff;
+}
+
+.statLabel {
+    font-size: 0.9rem;
+    color: #555;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    line-height: 1.4;
+}
+
+[data-theme='dark'] .statLabel {
+    color: #aaa;
+}
+
+/* Experience Cards */
+.experienceGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin-top: 2rem;
+}
+
+.experienceCard {
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 1.5rem;
+    border: 2px solid #111;
+    transition: all 0.2s ease-out;
+}
+
+[data-theme='dark'] .experienceCard {
+    background-color: #222;
+    border-color: #fff;
+}
+
+.experienceCard:hover {
+    transform: translate(-4px, -4px);
+    box-shadow: 4px 4px 0 #000;
+}
+
+[data-theme='dark'] .experienceCard:hover {
+    box-shadow: 4px 4px 0 #fff;
+}
+
+.cardHeader {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.cardIcon {
+    font-size: 1.75rem;
+    margin-right: 1rem;
+    width: 24px;
+    text-align: center;
+}
+
+.cardTitle {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: #111;
+    margin: 0;
+}
+
+[data-theme='dark'] .cardTitle {
+    color: #fff;
+}
+
+.cardDescription {
+    color: #555;
+    line-height: 1.6;
+    margin: 0;
+}
+
+[data-theme='dark'] .cardDescription {
+    color: #aaa;
+}
+
+/* Timeline Section */
+.timelineWrapper {
+    position: relative;
+    margin-top: 3rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.timelineWrapper::before {
+    display: none; /* Removing the central line for a cleaner brutalist look */
+}
+
+.timelineItem {
+    position: relative;
+    width: 100%;
+    display: flex;
+    gap: 1.5rem;
+    align-items: flex-start;
+    margin-bottom: 0;
+}
+
+.timelineDot {
+    flex-shrink: 0;
+    height: 60px;
+    width: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #fff;
+    border-radius: 50%;
+    border: 2px solid #111;
+    z-index: 10;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+[data-theme='dark'] .timelineDot {
+    background: #222;
+    border-color: #fff;
+}
+
+.timelineIcon {
+    font-size: 2rem;
+    color: #4f46e5;
+}
+
+.timelineContent {
+    flex-grow: 1;
+    background-color: #ffffff;
+    border: 2px solid #111;
+    border-radius: 8px;
+    padding: 1.25rem;
+    transition: all 0.2s ease-out;
+    margin-top: 0;
+}
+
+[data-theme='dark'] .timelineContent {
+    background-color: #222;
+    border-color: #fff;
+}
+
+.timelineContent:hover {
+    transform: translate(-4px, -4px);
+    box-shadow: 4px 4px 0 #000;
+}
+
+[data-theme='dark'] .timelineContent:hover {
+    box-shadow: 4px 4px 0 #fff;
+}
+
+.timelineStage {
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: #0056b3;
+    margin-bottom: 0.5rem;
+    display: block;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+[data-theme='dark'] .timelineStage {
+    color: #3399ff;
+}
+
+.timelineTitle {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin: 0.5rem 0;
+    color: #1f2937;
+    line-height: 1.3;
+}
+
+[data-theme='dark'] .timelineTitle {
+    color: #fff;
+}
+
+.timelineDescription {
+    color: #555;
+    margin: 0;
+    line-height: 1.6;
+    font-size: 1rem;
+}
+
+[data-theme='dark'] .timelineDescription {
+    color: #aaa;
+}
+
+.specialBadge {
+    background-color: #ff3366;
+    color: white;
+    padding: 0.25rem 0.75rem;
+    border-radius: 6px;
+    font-size: 0.75rem;
+    font-weight: 700;
+    margin-left: 0.5rem;
+    border: 2px solid #111;
+}
+
+[data-theme='dark'] .specialBadge {
+    border-color: #fff;
+}
+
+@media (max-width: 640px) {
+    .timelineItem {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+}
+
+/* === REGISTRATION SECTION RE-DESIGN === */
+.registrationWrapper {
+    background-color: #f0fdf4; /* Light green background */
+    border-radius: 12px;
+    padding: 2rem;
+    margin: 4rem 0;
+    display: grid;
+    grid-template-columns: 1fr; /* Single column on mobile */
+    gap: 2rem;
+    border: 2px solid #111;
+}
+
+@media (min-width: 1024px) {
+    .registrationWrapper {
+        grid-template-columns: 1fr 1fr; /* Two columns on desktop */
+        align-items: center;
+        padding: 2.5rem;
+    }
+}
+
+[data-theme='dark'] .registrationWrapper {
+    background-color: #152b20; /* Dark green background */
+    border-color: #86efac; /* Light green border */
+}
+
+.registrationInfo {
+    /* This container now just holds the title and list */
+}
+
+.registrationInfo .sectionTitle {
+    text-align: left;
+    margin-bottom: 2rem;
+}
+
+[data-theme='dark'] .registrationInfo .sectionTitle {
+    color: #f0fdf4;
+}
+
+.infoList {
+    background: transparent; /* Remove card-in-card look */
+    border: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem; /* More spacing */
+    list-style: none;
+    margin: 0;
+}
+
+.infoItem {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    font-weight: 600;
+    font-size: 1.05rem;
+}
+
+[data-theme='dark'] .infoItem {
+    color: #d1fae5;
+}
+
+.infoIcon {
+    font-size: 1.5rem;
+    color: #16a34a;
+    width: 20px;
+    text-align: center;
+}
+
+[data-theme='dark'] .infoIcon {
+    color: #86efac;
+}
+
+.registrationCard {
+    background-color: #fff;
+    border: 2px solid #111;
+    border-radius: 8px;
+    padding: 2rem;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}
+
+[data-theme='dark'] .registrationCard {
+    background-color: #1a1a1a;
+    border-color: #fff;
+}
+
+.registrationCard .cardTitle {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+.priceTagWrapper {
+    margin: 0.5rem 0 1.5rem 0;
+}
+
+.priceLabel {
+    display: block;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #555;
+    margin-bottom: 0.25rem;
+}
+
+[data-theme='dark'] .priceLabel {
+    color: #aaa;
+}
+
+.priceTag {
+    font-weight: 800;
+    font-size: 3rem;
+    line-height: 1;
+    color: #16a34a;
+    margin-left: 0;
+}
+
+[data-theme='dark'] .priceTag {
+    color: #86efac;
+}
+
+.registrationCard .btnPrimary {
+    width: 100%;
+    max-width: 300px;
+}
+
+.footnote {
+    font-size: 0.75rem;
+    margin-top: 1rem;
+    color: #555;
+}
+
+[data-theme='dark'] .footnote {
+    color: #aaa;
+}
+
+/* === ADVANCED SECTION RE-DESIGN === */
+.advancedSection {
+    background-color: #1a1a1a;
+    color: #f9fafb;
+    padding: 4rem 2rem;
+    border-radius: 12px;
+    border: 2px solid #333;
+    margin: 4rem 0;
+    position: relative;
+    overflow: hidden;
+}
+
+[data-theme='dark'] .advancedSection {
+    background-color: #0a0a0a;
+    border-color: #444;
+}
+
+.advancedTitle {
+    color: #fff;
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    position: relative;
+    z-index: 1;
+}
+
+@media (min-width: 768px) {
+    .advancedTitle {
+        font-size: 2.5rem;
+    }
+}
+
+.advancedDescription {
+    color: #e0e0e0;
+    font-size: 1.1rem;
+    max-width: 48rem;
+    margin: 0 auto 3rem auto;
+    line-height: 1.6;
+    position: relative;
+    z-index: 1;
+}
+
+.advancedGrid {
+    display: grid;
+    grid-template-columns: 1fr; /* Default to 1 column for mobile */
+    gap: 1.5rem;
+    position: relative;
+    z-index: 1;
+}
+
+/* Apply 2-column grid on tablets and wider */
+@media (min-width: 768px) {
+    .advancedGrid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+.advancedCard {
+    background-color: #2a2a2a;
+    border: 2px solid #444;
+    color: #fff;
+    border-radius: 8px;
+    padding: 2rem;
+    display: flex;
+    flex-direction: row; /* Horizontal layout by default */
+    align-items: center;
+    text-align: left;
+    transition: all 0.2s ease-out;
+    position: relative;
+    overflow: hidden;
+    min-height: 120px;
+}
+
+[data-theme='dark'] .advancedCard {
+    background-color: #1f1f1f;
+    border-color: #555;
+}
+
+.advancedCard:hover {
+    transform: translate(-4px, -4px);
+    box-shadow: 4px 4px 0 #00e599;
+    border-color: #00e599;
+}
+
+[data-theme='dark'] .advancedCard:hover {
+    box-shadow: 4px 4px 0 #00e599;
+}
+
+/* Make wide cards span both columns on desktop */
+.advancedCardWide {
+    grid-column: span 1; /* Default span */
+}
+
+@media (min-width: 768px) {
+    .advancedCardWide {
+        grid-column: span 2;
+    }
+}
+
+/* Stack layout on mobile */
+@media (max-width: 640px) {
+    .advancedCard {
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+    }
+}
+
+.advancedCardSpecial {
+    border-style: solid;
+    border-image-slice: 1;
+    border-width: 2px;
+    border-image-source: linear-gradient(to left, #743ad5, #d53a9d);
+    background-color: #222;
+}
+
+.advancedCardSpecial:hover {
+    box-shadow: 4px 4px 0 #d53a9d;
+}
+
+.advancedCardIcon {
+    font-size: 2rem;
+    width: 60px;
+    height: 60px;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 12px;
+    margin-right: 1.5rem;
+    margin-bottom: 0;
+    transition: transform 0.3s ease;
+    color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.advancedCard:hover .advancedCardIcon {
+    transform: scale(1.1) rotate(-5deg);
+}
+
+/* Adjust icon margin for mobile stacked layout */
+@media (max-width: 640px) {
+    .advancedCardIcon {
+        margin-right: 0;
+        margin-bottom: 1rem;
+    }
+}
+
+.advancedCardContent {
+    flex-grow: 1;
+}
+
+.advancedCardTitle {
+    color: #fff;
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin: 0 0 0.5rem 0;
+    line-height: 1.3;
+}
+
+.advancedCardDescription {
+    color: #aaa;
+    line-height: 1.6;
+    margin: 0;
+    font-size: 1rem;
+}
+
+/* Footer */
+.footer {
+    text-align: center;
+    margin-top: 5rem;
+    padding: 2rem 0;
+    border-top: 2px solid #ccc;
+}
+
+[data-theme='dark'] .footer {
+    border-top-color: #444;
+}
+
+.footerTitle {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+.footerText {
+    color: #555;
+    margin-bottom: 0.5rem;
+}
+
+[data-theme='dark'] .footerText {
+    color: #aaa;
+}
+
+.footerNote {
+    font-size: 0.875rem;
+    margin-top: 0.5rem;
+    color: #777;
+}
+
+[data-theme='dark'] .footerNote {
+    color: #888;
+}
+
+/* Responsive adjustments */
+@media (max-width: 640px) {
+    .container {
+        padding: 0.75rem;
+    }
+
+    .hero {
+        margin: 1.5rem 0 2rem 0;
+        padding: 1.5rem 0.75rem;
+    }
+
+    .heroTitle {
+        font-size: 1.75rem;
+        margin-bottom: 0.75rem;
+    }
+
+    .heroSubtitle {
+        font-size: 0.95rem;
+        margin-bottom: 1.5rem;
+    }
+
+    .sectionTitle {
+        font-size: 1.5rem;
+        margin-bottom: 0.75rem;
+    }
+
+    .sectionDescription {
+        font-size: 0.95rem;
+        margin-bottom: 1.5rem;
+    }
+
+    .subsectionTitle {
+        font-size: 1.125rem;
+        margin-bottom: 1rem;
+    }
+
+    .experienceGrid {
+        gap: 1rem;
+    }
+
+    .experienceCard {
+        padding: 1.25rem;
+    }
+
+    .cardTitle {
+        font-size: 1rem;
+    }
+
+    .cardDescription {
+        font-size: 0.9rem;
+    }
+
+    .timelineContent {
+        padding: 1rem;
+    }
+
+    .timelineTitle {
+        font-size: 1rem;
+    }
+
+    .timelineDescription {
+        font-size: 0.85rem;
+    }
+
+    .section {
+        margin: 2rem 0;
+        padding-bottom: 2rem;
+    }
+
+    .advancedSection {
+        padding: 2rem 1rem;
+        margin-top: 3rem;
+    }
+
+    .advancedCard {
+        padding: 1rem;
+        min-height: auto;
+        text-align: center;
+    }
+
+    .advancedCardTitle {
+        font-size: 1rem;
+    }
+
+    .advancedCardDescription {
+        font-size: 0.85rem;
+    }
+
+    .registrationWrapper {
+        padding: 1.25rem;
+    }
+
+    .infoItem {
+        font-size: 0.9rem;
+    }
+
+    .priceTag {
+        font-size: 1.125rem;
+    }
+
+    .registrationCard {
+        padding: 1.25rem;
+    }
+}
+
+/* Tablet adjustments */
+@media (min-width: 641px) and (max-width: 1023px) {
+    .heroTitle {
+        font-size: 2.25rem;
+    }
+
+    .sectionTitle {
+        font-size: 2rem;
+    }
+
+    .advancedCard {
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+    }
+
+    .advancedCardContent {
+        text-align: center;
+    }
+}
+</style>
