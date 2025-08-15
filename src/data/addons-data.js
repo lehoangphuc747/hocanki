@@ -485,5 +485,4 @@ export const allAddons = [
     { "id": 1809412029, "title": "MemoBeam", "link": "https://ankiweb.net/shared/info/1809412029", "likes": 51, "modified": "2021-04-01", "version": "2.1.43~" },
     { "id": 127393092, "title": "Filtered deck from browser selection - study review cards in browser order", "link": "https://ankiweb.net/shared/info/127393092", "likes": 6, "modified": "2023-03-19", "version": "2.1.65~" },
     { "id": 375742312, "title": "AI Language Explainer", "link": "https://ankiweb.net/shared/info/375742312", "likes": 6, "modified": "2025-07-28", "version": "25.07.5~" }
-  ]
-  �
+];
