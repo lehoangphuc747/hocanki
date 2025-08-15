@@ -1,0 +1,145 @@
+---
+import { allAddons } from '../../data/addons-data.js';
+---
+
+<div class="addons-manager">
+	<!-- Sticky Controls Container -->
+	<div> <!-- Removed sticky-controls class -->
+		<!-- Simple Header -->
+		<header class="manager-header">
+			<div class="header-content">
+				<h2 class="title">📦 Danh sách Add-ons</h2>
+				<div class="stats">
+					<span class="stat-item" id="total-count">0 add-ons</span>
+					<span class="stat-item selected" id="selected-count">0 đã chọn</span>
+                </div>
+			</div>
+		</header>
+
+		<!-- Enhanced Search & Filters -->
+		<section class="search-section">
+			<div class="search-bar">
+				<div class="search-input-wrapper">
+					<span class="search-icon">🔍</span>
+					<input
+						type="search"
+						id="search-input"
+						placeholder="Tìm kiếm add-ons..."
+						class="search-input"
+					/>
+					<button class="clear-btn" id="clear-search">×</button>
+            </div>
+        </div>
+
+			<div class="filter-controls">
+				<select id="sort-select" class="filter-select">
+					<option value="likes-desc">📈 Phổ biến nhất</option>
+					<option value="likes-asc">📉 Ít phổ biến</option>
+					<option value="title-asc">🔤 A-Z</option>
+					<option value="title-desc">🔤 Z-A</option>
+					<option value="modified-desc">🆕 Mới cập nhật</option>
+				</select>
+				
+				<select id="likes-filter" class="filter-select">
+					<option value="">👍 Tất cả</option>
+					<option value="10000">👍 10000+ thích</option>
+					<option value="5000">👍 5000+ thích</option>
+					<option value="1000">👍 1000+ thích</option>
+				</select>
+				
+				<button class="action-btn" id="toggle-view">
+					<span class="btn-icon">⚏</span>
+					<span class="btn-text">Dạng thẻ</span>
+				</button>
+				
+				<div class="export-group">
+					<button class="action-btn export" id="export-btn">
+						<span class="btn-icon">⬇</span>
+						<span class="btn-text">Tải xuống</span>
+                                </button>
+					<div class="export-menu hidden" id="export-menu">
+						<button class="export-option" data-format="csv">
+							📊 CSV (Excel)
+                                </button>
+						<button class="export-option" data-format="txt-full">
+							📄 TXT đầy đủ
+                                </button>
+						<button class="export-option" data-format="txt-links">
+							🔗 TXT chỉ links
+                                </button>
+            </div>
+        </div>
+</div>
+		</section>
+	</div>
+
+	<!-- Content Display -->
+	<main class="content-area">
+		<!-- Loading -->
+		<div class="loading-state hidden" id="loading">
+			<div class="spinner"></div>
+			<p>Đang tải...</p>
+		</div>
+
+		<!-- Table View -->
+		<div class="table-view" id="table-view">
+			<div class="table-header">
+				<label class="select-all">
+					<input type="checkbox" id="select-all">
+					<span>Chọn tất cả</span>
+				</label>
+			</div>
+			
+			<div class="addon-list" id="addon-list">
+				<!-- Items will be generated here -->
+			</div>
+		</div>
+
+		<!-- Card View -->
+		<div class="card-view hidden" id="card-view">
+			<div class="card-grid" id="card-grid">
+				<!-- Cards will be generated here -->
+			</div>
+		</div>
+
+		<!-- Empty State -->
+		<div class="empty-state hidden" id="empty-state">
+			<div class="empty-icon">😔</div>
+			<h3>Không tìm thấy add-ons</h3>
+			<p>Thử thay đổi từ khóa tìm kiếm của bạn</p>
+			<button class="action-btn" id="clear-filters">Xóa bộ lọc</button>
+		</div>
+	</main>
+
+	<!-- Selection Footer -->
+	<footer class="selection-footer hidden" id="selection-footer">
+		<div class="selection-info">
+			<span class="selection-text" id="selection-text">0 add-ons đã chọn</span>
+		</div>
+		<div class="selection-actions">
+			<button class="sel-btn" id="open-all">🔗 Mở tất cả</button>
+			<button class="sel-btn export" id="export-selected">⬇ Xuất</button>
+			<button class="sel-btn clear" id="clear-selection">× Bỏ chọn</button>
+		</div>
+	</footer>
+</div>
+
+<style>
+	@import '../../styles/addons-manager.css';
+</style>
+
+<script type="module" define:vars={{ allAddons }}>
+	// Nạp script từ public (được copy nguyên vẹn khi build)
+	const script = document.createElement('script');
+	script.src = '/scripts/addons-manager.js';
+	script.defer = true;
+	script.onload = () => {
+		try {
+			console.log('Initializing SimpleAddonsManager from public script');
+			new window.SimpleAddonsManager(allAddons);
+		} catch (e) {
+			console.error('Failed to init SimpleAddonsManager:', e);
+		}
+	};
+	document.head.appendChild(script);
+</script>

@@ -1,0 +1,30 @@
+// addons.js
+const addons = [
+	{ id: 2055492159, title: "Image Occlusion Enhanced for Anki 21", link: "https://ankiweb.net/shared/info/1374772152", likes: 25000, total: 1000000, modified: "2023-01-15", version: "2.1.55+" },
+	{ id: 2883441865, title: "AnkiConnect", link: "https://ankiweb.net/shared/info/2055492159", likes: 18000, total: 850000, modified: "2022-12-01", version: "2.1.55+" },
+	{ id: 938734089, title: "Review Heatmap", link: "https://ankiweb.net/shared/info/1771954316", likes: 15000, total: 700000, modified: "2023-05-20", version: "2.1.55+" },
+	{ id: 1374772152, title: "Yomichan", link: "https://ankiweb.net/shared/info/1570535316", likes: 12000, total: 600000, modified: "2023-04-10", version: "2.1.55+" },
+	{ id: 1771954316, title: "True Retention", link: "https://ankiweb.net/shared/info/1374772152", likes: 9000, total: 550000, modified: "2023-03-05", version: "2.1.55+" },
+	{ id: 2055492159, title: "Mnemonic Cards", link: "https://ankiweb.net/shared/info/2055492159", likes: 7500, total: 400000, modified: "2023-06-18", version: "2.1.55+" },
+	{ id: 1475765042, title: "AwesomeTTS", link: "https://ankiweb.net/shared/info/1475765042", likes: 5200, total: 350000, modified: "2022-11-11", version: "2.1.55+" },
+	{ id: 1570535316, title: "Morphman", link: "https://ankiweb.net/shared/info/1570535316", likes: 4800, total: 300000, modified: "2023-02-28", version: "2.1.55+" },
+	{ id: 234199988, title: "BetterTags", link: "https://ankiweb.net/shared/info/234199988", likes: 3100, total: 250000, modified: "2023-07-25", version: "2.1.55+" },
+	{ id: 2199042220, title: "AnKing Note Types (BETA)", link: "https://ankiweb.net/shared/info/2199042220", likes: 2800, total: 220000, modified: "2023-07-30", version: "2.1.55+" },
+	{ id: 955359049, title: "Pop-up Dictionary", link: "https://ankiweb.net/shared/info/955359049", likes: 2100, total: 180000, modified: "2023-08-05", version: "2.1.55+" },
+	{ id: 1729605332, title: "Fastbar", link: "https://ankiweb.net/shared/info/1729605332", likes: 1900, total: 150000, modified: "2023-08-01", version: "2.1.55+" },
+	{ id: 1111111111, title: "Mini Stats", link: "https://ankiweb.net/shared/info/1111111111", likes: 850, total: 90000, modified: "2023-08-08", version: "2.1.55+" },
+	{ id: 2222222222, title: "BetterTables", link: "https://ankiweb.net/shared/info/2222222222", likes: 720, total: 85000, modified: "2023-07-20", version: "2.1.55+" },
+	{ id: 3333333333, title: "Randomize", link: "https://ankiweb.net/shared/info/3333333333", likes: 580, total: 70000, modified: "2023-07-15", version: "2.1.55+" },
+	{ id: 4444444444, title: "Night Mode", link: "https://ankiweb.net/shared/info/4444444444", likes: 450, total: 60000, modified: "2023-07-10", version: "2.1.55+" },
+	{ id: 5555555555, title: "Deck Statistics", link: "https://ankiweb.net/shared/info/5555555555", likes: 320, total: 50000, modified: "2023-06-25", version: "2.1.55+" },
+	{ id: 6666666666, title: "Advanced Browser", link: "https://ankiweb.net/shared/info/6666666666", likes: 210, total: 40000, modified: "2023-06-10", version: "2.1.55+" },
+	{ id: 7777777777, title: "Markdown Support", link: "https://ankiweb.net/shared/info/7777777777", likes: 180, total: 35000, modified: "2023-05-30", version: "2.1.55+" },
+	{ id: 8888888888, title: "Kanji Recognizer", link: "https://ankiweb.net/shared/info/8888888888", likes: 110, total: 20000, modified: "2023-05-15", version: "2.1.55+" },
+	{ id: 9999999999, title: "Image Resizer", link: "https://ankiweb.net/shared/info/9999999999", likes: 70, total: 15000, modified: "2023-05-01", version: "2.1.55+" },
+	{ id: 1000000000, title: "Auto-sort fields", link: "https://ankiweb.net/shared/info/1000000000", likes: 35, total: 10000, modified: "2023-04-20", version: "2.1.55+" },
+	{ id: 1000000001, title: "Deck Browser", link: "https://ankiweb.net/shared/info/1000000001", likes: 22, total: 8000, modified: "2023-04-05", version: "2.1.55+" },
+	{ id: 1000000002, title: "Highlight cards", link: "https://ankiweb.net/shared/info/1000000002", likes: 15, total: 5000, modified: "2023-03-25", version: "2.1.55+" },
+	{ id: 1000000003, title: "Cloze for images", link: "https://ankiweb.net/shared/info/1000000003", likes: 9, total: 2000, modified: "2023-03-10", version: "2.1.55+" },
+];
+
+export default addons;

@@ -3,7 +3,7 @@ import Layout from '../../layouts/Layout.astro';
 import Header from '../../components/Header.astro';
 ---
 
-<Layout title="Add-ons - Hướng dẫn Anki toàn diện">
+<Layout title="Add-ons - AnkiWeb">
   <Header />
   
   <div class="container">
@@ -27,20 +27,68 @@ import Header from '../../components/Header.astro';
       <span class="current">Add-ons</span>
     </nav>
 
-    <!-- Content placeholder -->
-    <main class="content">
-      <div class="content-placeholder">
-        <h2>🚧 Nội dung đang được xây dựng</h2>
-        <p>Trang này sẽ bao gồm:</p>
-        <ul>
-          <li>Add-ons cơ bản cho người mới</li>
-          <li>Productivity add-ons</li>
-          <li>Customization add-ons</li>
-          <li>Statistics và analytics</li>
-          <li>Study enhancement tools</li>
-          <li>Hướng dẫn cài đặt chi tiết</li>
-        </ul>
+    <!-- CTA Section for Top Add-ons -->
+    <section class="cta-section">
+      <div class="main-card cta-card">
+        <h2>🏆 Khám phá Top Add-ons phổ biến nhất</h2>
+        <p>Danh sách đầy đủ các add-ons được cộng đồng yêu thích nhất với khả năng sắp xếp, tìm kiếm và lọc mạnh mẽ</p>
+        <a href="/5-addons/danh-sach-addons" class="btn btn-primary cta-btn">
+          <span>🚀</span> Xem danh sách Add-ons
+        </a>
       </div>
+    </section>
+
+    <!-- Posts Section -->
+    <main class="content">
+      <section class="posts-grid">
+        <article class="post-card main-card">
+          <div class="post-header">
+            <h3>📥 Cách cài đặt Addons trên AnkiVN</h3>
+            <span class="post-status">Đang viết</span>
+          </div>
+          <p>Hướng dẫn chi tiết từ A-Z cách tìm kiếm, tải xuống và cài đặt add-ons cho Anki. Bao gồm cả cách khắc phục lỗi thường gặp.</p>
+          <div class="post-tags">
+            <span class="tag">Cơ bản</span>
+            <span class="tag">Hướng dẫn</span>
+          </div>
+        </article>
+
+        <article class="post-card main-card">
+          <div class="post-header">
+            <h3>🔧 Các Addons Anki cơ bản</h3>
+            <span class="post-status">Đang viết</span>
+          </div>
+          <p>Tổng hợp những add-ons thiết yếu mà mọi người dùng Anki nên có. Từ giao diện đến tính năng học tập.</p>
+          <div class="post-tags">
+            <span class="tag">Thiết yếu</span>
+            <span class="tag">Người mới</span>
+          </div>
+        </article>
+
+        <article class="post-card main-card">
+          <div class="post-header">
+            <h3>🇺🇸 Addons Anki học tiếng Anh</h3>
+            <span class="post-status">Đang viết</span>
+          </div>
+          <p>Chuyên về các add-ons hỗ trợ học tiếng Anh: phát âm, từ điển, ngữ pháp và các tính năng đặc biệt khác.</p>
+          <div class="post-tags">
+            <span class="tag">Tiếng Anh</span>
+            <span class="tag">Ngôn ngữ</span>
+          </div>
+        </article>
+
+        <article class="post-card main-card">
+          <div class="post-header">
+            <h3>🇨🇳 Addons Anki học tiếng Trung</h3>
+            <span class="post-status">Đang viết</span>
+          </div>
+          <p>Add-ons chuyên biệt cho việc học tiếng Trung: Pinyin, chữ Hán, tông điệu và các công cụ hỗ trợ khác.</p>
+          <div class="post-tags">
+            <span class="tag">Tiếng Trung</span>
+            <span class="tag">Ngôn ngữ</span>
+          </div>
+        </article>
+      </section>
     </main>
 
     <!-- Navigation -->
@@ -119,34 +167,118 @@ import Header from '../../components/Header.astro';
   font-weight: 600;
 }
 
-.content {
-  min-height: 400px;
+/* CTA Section */
+.cta-section {
   margin-bottom: 3rem;
-}
-
-.content-placeholder {
-  background: #fffaf0;
-  border: 2px dashed #dd6b20;
-  border-radius: 12px;
-  padding: 3rem;
   text-align: center;
 }
 
-.content-placeholder h2 {
-  color: #c05621;
-  margin-bottom: 1rem;
+.cta-card {
+  padding: 3rem 2rem;
+  text-align: center;
+  background: linear-gradient(135deg, #a7f3d0 0%, #d1fae5 100%);
 }
 
-.content-placeholder p {
-  color: #dd6b20;
+.cta-card h2 {
+  font-size: 2rem;
+  font-weight: 800;
+  color: #1c1917;
   margin-bottom: 1rem;
+  font-family: 'Inter', sans-serif;
 }
 
-.content-placeholder ul {
-  text-align: left;
-  max-width: 450px;
-  margin: 0 auto;
-  color: #dd6b20;
+.cta-card p {
+  font-size: 1.1rem;
+  color: #374151;
+  margin-bottom: 2rem;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.cta-btn {
+  font-size: 1.1rem;
+  padding: 1rem 2rem;
+  font-weight: 700;
+  background-color: #fef9c3;
+  border: 3px solid #1c1917;
+  box-shadow: 6px 6px 0 #1c1917;
+}
+
+.cta-btn:hover {
+  transform: translate(-3px, -3px);
+  box-shadow: 9px 9px 0 #1c1917;
+}
+
+/* Posts Grid */
+.content {
+  margin-bottom: 3rem;
+}
+
+.posts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+}
+
+.post-card {
+  padding: 2rem;
+  transition: transform 0.2s ease;
+}
+
+.post-card:hover {
+  transform: translate(-2px, -2px);
+  box-shadow: 10px 10px 0 #1c1917;
+}
+
+.post-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 1rem;
+  gap: 1rem;
+}
+
+.post-header h3 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #1c1917;
+  margin: 0;
+  line-height: 1.3;
+  flex: 1;
+}
+
+.post-status {
+  background: #fef3c7;
+  color: #92400e;
+  padding: 0.25rem 0.75rem;
+  border-radius: 12px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  border: 1px solid #f59e0b;
+  white-space: nowrap;
+}
+
+.post-card p {
+  color: #4b5563;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+}
+
+.post-tags {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.tag {
+  background: #e5e7eb;
+  color: #374151;
+  padding: 0.25rem 0.75rem;
+  border-radius: 16px;
+  font-size: 0.75rem;
+  font-weight: 500;
+  border: 1px solid #9ca3af;
 }
 
 .page-navigation {
@@ -181,6 +313,29 @@ import Header from '../../components/Header.astro';
     font-size: 2rem;
     flex-direction: column;
     gap: 0.5rem;
+  }
+  
+  .cta-card {
+    padding: 2rem 1rem;
+  }
+  
+  .cta-card h2 {
+    font-size: 1.5rem;
+  }
+  
+  .posts-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+  
+  .post-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+  
+  .post-status {
+    align-self: flex-start;
   }
   
   .page-navigation {

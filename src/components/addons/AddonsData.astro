@@ -1,0 +1,136 @@
+// AddonsData.jsx
+import React from 'react';
+
+const AddonsData = ({ addons, isCardView, selectedIds, toggleSelection, toggleSelectAll }) => {
+
+    const formatDate = (dateString) => {
+        const date = new Date(dateString);
+        const now = new Date();
+        const diffDays = Math.floor((now - date) / (1000 * 60 * 60 * 24));
+        if (diffDays === 0) return 'Hôm nay';
+        if (diffDays === 1) return 'Hôm qua';
+        if (diffDays < 7) return `${diffDays} ngày trước`;
+        if (diffDays < 30) return `${Math.floor(diffDays / 7)} tuần trước`;
+        return `${Math.floor(diffDays / 30)} tháng trước`;
+    };
+
+    const getPopularity = (likes) => {
+        if (likes >= 10000) return { class: 'hot', icon: '🔥' };
+        if (likes >= 5000) return { class: 'popular', icon: '⭐' };
+        if (likes >= 1000) return { class: 'good', icon: '👍' };
+        return { class: 'new', icon: '✨' };
+    };
+
+    const renderTableItem = (addon) => {
+        const isSelected = selectedIds.has(addon.id);
+        const popularity = getPopularity(addon.likes);
+        return (
+            <div
+                key={addon.id}
+                className={`addon-item ${isSelected ? 'selected' : ''}`}
+                onClick={() => toggleSelection(addon.id, !isSelected)}
+            >
+                <div className="item-select">
+                    <input
+                        type="checkbox"
+                        className="item-checkbox"
+                        checked={isSelected}
+                        onChange={(e) => e.stopPropagation()}
+                    />
+                </div>
+                <div className="item-content">
+                    <div className="item-main">
+                        <h3 className="item-title">
+                            <a href={addon.link} target="_blank" rel="noopener" onClick={(e) => e.stopPropagation()}>{addon.title}</a>
+                        </h3>
+                        <div className="item-meta">
+                            <div className="meta-item">
+                                <span className="meta-icon">❤️</span>
+                                <span className="likes-count">{addon.likes.toLocaleString()}</span>
+                            </div>
+                            <div className="meta-item">
+                                <span className="meta-icon">📅</span>
+                                <span className="date-modified">{formatDate(addon.modified)}</span>
+                            </div>
+                            <div className="meta-item">
+                                <span className="meta-icon">💻</span>
+                                <span className="version-badge">{addon.version || 'N/A'}</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="item-actions">
+                        <button className="item-btn" onClick={(e) => { e.stopPropagation(); window.open(addon.link, '_blank'); }}>
+                            <span>🔗</span> Xem chi tiết
+                        </button>
+                    </div>
+                </div>
+                <div className={`popularity-indicator popularity-${popularity.class}`}>
+                    {popularity.icon} {popularity.class.toUpperCase()}
+                </div>
+            </div>
+        );
+    };
+
+    const renderCard = (addon) => {
+        const isSelected = selectedIds.has(addon.id);
+        const popularity = getPopularity(addon.likes);
+        return (
+            <div
+                key={addon.id}
+                className={`addon-card ${isSelected ? 'selected' : ''}`}
+                onClick={() => toggleSelection(addon.id, !isSelected)}
+            >
+                <div className="card-header">
+                    <input
+                        type="checkbox"
+                        className="card-checkbox"
+                        checked={isSelected}
+                        onChange={(e) => e.stopPropagation()}
+                    />
+                    <div className={`popularity ${popularity.class}`}>{popularity.icon} {popularity.class.toUpperCase()}</div>
+                </div>
+                <h3 className="card-title">
+                    <a href={addon.link} target="_blank" rel="noopener" onClick={(e) => e.stopPropagation()}>{addon.title}</a>
+                </h3>
+                <div className="card-stats">
+                    <div className="stat">
+                        <span className="stat-icon">❤️</span>
+                        <span className="stat-value">{addon.likes.toLocaleString()}</span>
+                        <span className="stat-label">Lượt thích</span>
+                    </div>
+                    <div className="stat">
+                        <span className="stat-icon">📅</span>
+                        <span className="stat-value">{formatDate(addon.modified)}</span>
+                        <span className="stat-label">Cập nhật</span>
+                    </div>
+                    <div className="stat">
+                        <span className="stat-icon">💻</span>
+                        <span className="stat-value">{addon.version || 'N/A'}</span>
+                        <span className="stat-label">Phiên bản</span>
+                    </div>
+                    <div className="stat">
+                        <span className="stat-icon">📈</span>
+                        <span className="stat-value">{addon.total.toLocaleString()}</span>
+                        <span className="stat-label">Tải xuống</span>
+                    </div>
+                </div>
+                <div className="card-footer">
+                    <a href={addon.link} target="_blank" rel="noopener" className="card-btn primary" onClick={(e) => e.stopPropagation()}>🔗 Chi tiết</a>
+                    <button className="card-btn secondary" onClick={(e) => {
+                        e.stopPropagation();
+                        navigator.clipboard.writeText(addon.link);
+                        alert('Đã copy link: ' + addon.link);
+                    }}>📋 Copy link</button>
+                </div>
+            </div>
+        );
+    };
+
+    return (
+        <div className={isCardView ? "card-grid" : "addon-list"}>
+            {addons.map(addon => isCardView ? renderCard(addon) : renderTableItem(addon))}
+        </div>
+    );
+};
+
+export default AddonsData;
